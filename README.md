@@ -172,9 +172,6 @@ CareBridge AI follows a minimum-necessary pattern:
 
 This project is a demo prototype. A production-grade HIPAA system would require business associate agreements, encryption at rest and in transit, role-based access controls, secure secrets management, monitoring, formal compliance review, tested de-identification methods, and organization-specific governance policies.
 
-## Resume-ready project bullet
-
-Built **CareBridge AI**, a HIPAA-aware healthcare payer analytics prototype using Python, pandas, and Streamlit to ingest synthetic member, enrollment, and PBM claims data; implemented data quality checks, PHI/PII classification, tokenized safe tables, aggregate executive metrics, controlled natural-language insights, unsafe-query blocking, and audit logging.
 
 ## Author
 
