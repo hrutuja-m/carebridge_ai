@@ -1,0 +1,11 @@
+column_name,data_type,risk_level,action,rationale
+member_id,Identifier,Medium,Tokenize,Raw ID replaced with irreversible token.
+member_name,PII,High,Mask,Visible only as masked text in compliance demo.
+email,PII,High,Mask,Domain preserved only for demo; local part masked.
+phone,PII,High,Mask,Only last four digits retained in masked view.
+ssn,PII,Critical,Block,Never exposed in executive layer.
+chronic_condition,PHI-like,High,Aggregate only,Converted to chronic_condition_flag for executive analytics.
+drug_class,PHI-like/PBM,High,Aggregate only,Used only in grouped PBM trends.
+paid_amount,Financial/Claim,Medium,Allow aggregated,Allowed only in grouped metrics.
+age_group,Demographic,Low,Allow grouped,Safe demographic band.
+county,Geography,Low,Allow grouped,County-level aggregate only.

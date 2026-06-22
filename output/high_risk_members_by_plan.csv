@@ -1,0 +1,5 @@
+plan_name,high_risk_members,avg_risk_score
+Gold PPO,37,0.5162741935483871
+Care EPO,34,0.5420420168067227
+Silver HMO,34,0.4977190082644628
+Medicare Advantage Plus,24,0.4615748031496063

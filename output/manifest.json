@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-06-22T21:29:03",
+  "raw_files": {
+    "members": 506,
+    "enrollment": 508,
+    "pharmacy_claims": 2018
+  },
+  "safe_tables": {
+    "members_safe": 497,
+    "enrollment_safe": 491,
+    "pharmacy_claims_safe": 1991
+  },
+  "controls": {
+    "tokenized_member_id": true,
+    "masked_columns": [
+      "member_name",
+      "email",
+      "phone"
+    ],
+    "blocked_columns": [
+      "ssn"
+    ],
+    "aggregate_only_columns": [
+      "chronic_condition",
+      "drug_class"
+    ],
+    "ai_allowed_tables": [
+      "executive_metrics",
+      "active_members_by_plan",
+      "pbm_spend_by_plan",
+      "rx_spend_by_age_group",
+      "claims_trend_by_month"
+    ]
+  }
+}

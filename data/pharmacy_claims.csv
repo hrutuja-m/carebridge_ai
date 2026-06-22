@@ -1,0 +1,2019 @@
+claim_id,member_id,drug_class,pharmacy_name,claim_date,paid_amount,claim_status
+C0000001,M00405,Cardiology,Walgreens,2026-05-07,263.93,Paid
+C0000002,M00263,Specialty,Express Scripts,2026-06-07,1213.96,Paid
+C0000003,M00377,Cardiology,Costco Pharmacy,2026-06-06,253.87,Paid
+C0000004,M00121,Behavioral Health,Local Care Pharmacy,2025-07-24,110.04,Rejected
+C0000005,M00381,Cardiology,Local Care Pharmacy,2025-09-23,47.31,Paid
+C0000006,M00327,Respiratory,Local Care Pharmacy,2026-04-14,340.54,Paid
+C0000007,M00291,Diabetes,Costco Pharmacy,2026-04-04,249.15,Paid
+C0000008,M00495,Specialty,Costco Pharmacy,2026-03-01,383.0,Rejected
+C0000009,M00062,Specialty,OptumRx,2025-07-10,880.26,Paid
+C0000010,M00127,Behavioral Health,Express Scripts,2026-04-23,243.12,Paid
+C0000011,M00278,Specialty,Express Scripts,2025-07-24,691.41,Paid
+C0000012,M00012,Cardiology,Costco Pharmacy,2025-07-13,74.02,Paid
+C0000013,M00133,Diabetes,Walgreens,2026-04-04,255.11,Paid
+C0000014,M00095,Cardiology,Express Scripts,2025-12-05,47.63,Paid
+C0000015,M00031,Specialty,Local Care Pharmacy,2025-07-14,580.32,Paid
+C0000016,M00203,Diabetes,OptumRx,2025-12-13,52.48,Paid
+C0000017,M00428,Behavioral Health,Costco Pharmacy,2025-10-31,33.61,Paid
+C0000018,M00257,Oncology,OptumRx,2025-08-28,1190.59,Paid
+C0000019,M00242,Specialty,Express Scripts,2025-07-15,203.05,Paid
+C0000020,M00472,Behavioral Health,Local Care Pharmacy,2026-04-27,91.45,Paid
+C0000021,M00395,Specialty,Costco Pharmacy,2025-12-03,1248.13,Paid
+C0000022,M00043,Behavioral Health,OptumRx,2025-09-11,153.02,Paid
+C0000023,M00088,Respiratory,Costco Pharmacy,2026-02-02,266.55,Paid
+C0000024,M00001,Respiratory,OptumRx,2026-05-14,451.06,Paid
+C0000025,M00087,Diabetes,OptumRx,2026-03-04,243.91,Paid
+C0000026,M00434,Specialty,Walgreens,2026-05-20,1558.9,Paid
+C0000027,M00266,Cardiology,Costco Pharmacy,2026-03-31,68.48,Paid
+C0000028,M00046,Cardiology,Local Care Pharmacy,2025-09-10,57.31,Paid
+C0000029,M00145,Behavioral Health,OptumRx,2026-03-16,75.93,Rejected
+C0000030,M00489,Cardiology,OptumRx,2026-02-17,97.5,Paid
+C0000031,M00166,Cardiology,OptumRx,2026-05-03,155.13,Paid
+C0000032,M00359,Diabetes,Express Scripts,2026-05-08,241.19,Paid
+C0000033,M00005,Specialty,Express Scripts,2026-03-08,707.91,Paid
+C0000034,M00408,Behavioral Health,CVS,2026-04-02,193.17,Rejected
+C0000035,M00422,Specialty,Express Scripts,2025-12-28,1084.1,Paid
+C0000036,M00185,Cardiology,CVS,2025-07-05,265.29,Paid
+C0000037,M00484,Diabetes,OptumRx,2025-07-11,20.27,Paid
+C0000038,M00368,Cardiology,Local Care Pharmacy,2026-05-11,47.73,Paid
+C0000039,M00372,Diabetes,CVS,2026-01-02,255.19,Paid
+C0000040,M00468,Respiratory,Walgreens,2025-07-04,296.39,Reversed
+C0000041,M00331,Cardiology,Costco Pharmacy,2026-04-18,274.22,Paid
+C0000042,M00287,Diabetes,Local Care Pharmacy,2026-06-10,196.79,Paid
+C0000043,M00091,Diabetes,Walgreens,2025-08-03,49.04,Paid
+C0000044,M00296,Behavioral Health,Walgreens,2025-11-18,254.32,Paid
+C0000045,M00012,Behavioral Health,Costco Pharmacy,2026-03-30,204.27,Paid
+C0000046,M00291,Behavioral Health,Local Care Pharmacy,2026-02-04,20.32,Paid
+C0000047,M00337,Diabetes,Express Scripts,2026-02-07,245.18,Paid
+C0000048,M00353,Oncology,CVS,2026-03-22,1172.4,Rejected
+C0000049,M00116,Diabetes,Express Scripts,2026-03-30,240.25,Paid
+C0000050,M00204,Diabetes,CVS,2026-04-19,37.8,Reversed
+C0000051,M00117,Behavioral Health,Walgreens,2025-08-08,132.62,Paid
+C0000052,M00170,Cardiology,CVS,2025-08-19,203.39,Paid
+C0000053,M00418,Diabetes,OptumRx,2025-12-19,210.93,Paid
+C0000054,M00247,Diabetes,OptumRx,2025-07-28,100.47,Paid
+C0000055,M00123,Behavioral Health,Express Scripts,2026-05-14,226.3,Paid
+C0000056,M00325,Oncology,CVS,2025-08-01,409.77,Paid
+C0000057,M00460,Behavioral Health,CVS,2025-09-04,37.11,Rejected
+C0000058,M00230,Diabetes,CVS,2026-02-07,165.8,Paid
+C0000059,M00029,Specialty,Express Scripts,2026-01-12,536.22,Paid
+C0000060,M00390,Cardiology,Costco Pharmacy,2026-06-03,272.67,Paid
+C0000061,M00200,Oncology,Costco Pharmacy,2026-05-14,1033.61,Paid
+C0000062,M00338,Behavioral Health,Costco Pharmacy,2026-02-18,228.22,Paid
+C0000063,M00100,Diabetes,Costco Pharmacy,2025-08-04,20.97,Paid
+C0000064,M00101,Behavioral Health,OptumRx,2026-03-18,53.34,Paid
+C0000065,M00251,Respiratory,Walgreens,2025-11-02,226.08,Paid
+C0000066,M00031,Diabetes,Local Care Pharmacy,2026-03-20,159.45,Paid
+C0000067,M00161,Specialty,Walgreens,2025-09-13,893.74,Paid
+C0000068,M00313,Cardiology,Costco Pharmacy,2025-07-05,128.71,Paid
+C0000069,M00352,Diabetes,CVS,2026-04-13,75.45,Paid
+C0000070,M00102,Behavioral Health,CVS,2025-10-12,190.32,Paid
+C0000071,M00346,Oncology,Costco Pharmacy,2026-02-25,1576.12,Paid
+C0000072,M00441,Specialty,OptumRx,2026-05-12,1506.37,Paid
+C0000073,M00085,Diabetes,Express Scripts,2025-07-22,230.02,Paid
+C0000074,M00002,Specialty,Costco Pharmacy,2026-02-24,1114.56,Paid
+C0000075,M00251,Respiratory,Local Care Pharmacy,2025-12-17,447.35,Paid
+C0000076,M00208,Diabetes,CVS,2026-01-02,257.55,Paid
+C0000077,M00016,Specialty,Walgreens,2026-02-11,314.77,Paid
+C0000078,M00472,Respiratory,Walgreens,2025-07-16,51.52,Paid
+C0000079,M00091,Diabetes,OptumRx,2025-09-28,81.4,Paid
+C0000080,M00127,Diabetes,CVS,2025-11-12,23.2,Paid
+C0000081,M00351,Diabetes,OptumRx,2025-08-26,176.48,Rejected
+C0000082,M00158,Oncology,Local Care Pharmacy,2026-01-07,913.35,Paid
+C0000083,M00274,Behavioral Health,Local Care Pharmacy,2026-02-08,285.39,Paid
+C0000084,M00075,Behavioral Health,Walgreens,2025-10-06,54.62,Paid
+C0000085,M00360,Cardiology,Walgreens,2026-05-22,195.71,Rejected
+C0000086,M00395,Specialty,OptumRx,2026-04-01,382.58,Paid
+C0000087,M00169,Cardiology,Walgreens,2025-11-21,204.39,Paid
+C0000088,M00500,Specialty,Express Scripts,2025-08-11,818.01,Paid
+C0000089,M00319,Diabetes,Costco Pharmacy,2026-05-27,141.08,Paid
+C0000090,M00270,Oncology,Costco Pharmacy,2026-01-08,814.99,Paid
+C0000091,M00371,Behavioral Health,Express Scripts,2026-04-24,145.91,Paid
+C0000092,M00409,Specialty,Walgreens,2025-10-21,161.15,Paid
+C0000093,M00122,Cardiology,Costco Pharmacy,2026-01-10,110.46,Paid
+C0000094,M00436,Cardiology,CVS,2025-09-07,181.48,Paid
+C0000095,M00270,Cardiology,Costco Pharmacy,2026-02-24,191.18,Paid
+C0000096,M00222,Oncology,Express Scripts,2026-01-05,1042.66,Paid
+C0000097,M00198,Diabetes,Local Care Pharmacy,2025-11-13,124.89,Paid
+C0000098,M00466,Diabetes,Costco Pharmacy,2026-03-20,221.91,Paid
+C0000099,M00407,Cardiology,CVS,2025-08-30,87.74,Paid
+C0000100,M00284,Diabetes,OptumRx,2025-12-16,65.59,Paid
+C0000101,M00422,Respiratory,Local Care Pharmacy,2025-10-06,400.68,Paid
+C0000102,M00072,Behavioral Health,OptumRx,2026-04-05,220.08,Paid
+C0000103,M00155,Cardiology,Express Scripts,2026-01-23,122.26,Paid
+C0000104,M00392,Specialty,Walgreens,2026-03-20,793.35,Paid
+C0000105,M00118,Diabetes,Walgreens,2026-02-28,199.29,Paid
+C0000106,M00407,Specialty,OptumRx,2026-02-22,788.61,Paid
+C0000107,M00162,Behavioral Health,Walgreens,2026-01-30,133.94,Paid
+C0000108,M00441,Specialty,Walgreens,2026-04-22,652.06,Paid
+C0000109,M00382,Diabetes,OptumRx,2025-12-29,214.12,Paid
+C0000110,M00221,Respiratory,OptumRx,2026-04-02,208.11,Paid
+C0000111,M00012,Specialty,Walgreens,2025-09-10,154.77,Reversed
+C0000112,M00171,Specialty,Costco Pharmacy,2026-05-08,1268.36,Paid
+C0000113,M00198,Diabetes,Express Scripts,2026-03-31,112.53,Paid
+C0000114,M00056,Cardiology,OptumRx,2026-05-24,300.95,Paid
+C0000115,M00054,Specialty,Express Scripts,2026-05-05,365.93,Paid
+C0000116,M00103,Diabetes,Walgreens,2025-11-23,251.04,Paid
+C0000117,M00342,Specialty,Costco Pharmacy,2026-01-05,768.17,Paid
+C0000118,M00169,Behavioral Health,CVS,2025-09-19,129.17,Paid
+C0000119,M00218,Oncology,Walgreens,2025-10-14,294.45,Paid
+C0000120,M00160,Cardiology,Walgreens,2026-03-01,227.69,Paid
+C0000121,M00485,Cardiology,Express Scripts,2026-06-16,80.54,Paid
+C0000122,M00004,Behavioral Health,Costco Pharmacy,2026-01-21,138.45,Paid
+C0000123,M00274,Cardiology,Express Scripts,2026-03-09,186.9,Paid
+C0000124,M00021,Respiratory,OptumRx,2026-02-19,157.81,Paid
+C0000125,M00369,Respiratory,Express Scripts,2025-09-28,202.76,Paid
+C0000126,M00465,Specialty,Local Care Pharmacy,2026-01-13,735.38,Paid
+C0000127,M00296,Diabetes,Walgreens,2025-07-23,187.07,Rejected
+C0000128,M00082,Cardiology,Local Care Pharmacy,2025-11-27,204.0,Rejected
+C0000129,M00362,Respiratory,Express Scripts,2026-03-10,425.41,Reversed
+C0000130,M00288,Diabetes,Costco Pharmacy,2025-08-23,107.23,Paid
+C0000131,M00168,Cardiology,Costco Pharmacy,2025-10-15,69.47,Paid
+C0000132,M00014,Diabetes,Express Scripts,2026-02-22,186.07,Paid
+C0000133,M00208,Behavioral Health,OptumRx,2025-07-06,125.39,Paid
+C0000134,M00474,Diabetes,Express Scripts,2026-02-23,180.21,Paid
+C0000135,M00043,Specialty,Walgreens,2026-02-10,459.81,Paid
+C0000136,M00144,Behavioral Health,Costco Pharmacy,2025-07-10,65.21,Paid
+C0000137,M00152,Diabetes,CVS,2025-09-25,197.43,Paid
+C0000138,M00006,Specialty,Walgreens,2025-12-31,330.88,Paid
+C0000139,M00018,Behavioral Health,Local Care Pharmacy,2026-02-12,161.5,Paid
+C0000140,M00330,Respiratory,CVS,2026-06-03,311.62,Paid
+C0000141,M00159,Oncology,Express Scripts,2025-07-25,1383.51,Paid
+C0000142,M00480,Cardiology,CVS,2025-10-11,285.5,Paid
+C0000143,M00015,Behavioral Health,Local Care Pharmacy,2025-10-07,109.54,Paid
+C0000144,M00114,Behavioral Health,Walgreens,2026-06-06,45.52,Paid
+C0000145,M00023,Cardiology,OptumRx,2025-12-15,52.87,Paid
+C0000146,M00099,Specialty,Express Scripts,2026-01-19,1464.64,Paid
+C0000147,M00111,Diabetes,Express Scripts,2025-07-08,96.26,Paid
+C0000148,M00007,Cardiology,Local Care Pharmacy,2025-08-03,154.83,Paid
+C0000149,M00337,Specialty,Express Scripts,2025-10-20,171.8,Paid
+C0000150,M00311,Oncology,Costco Pharmacy,2026-04-01,2190.41,Paid
+C0000151,M00496,Diabetes,Local Care Pharmacy,2026-05-20,96.49,Paid
+C0000152,M00478,Behavioral Health,Walgreens,2025-12-18,204.47,Paid
+C0000153,M00457,Respiratory,Express Scripts,2026-06-07,458.43,Paid
+C0000154,M00010,Specialty,Costco Pharmacy,2026-01-12,957.47,Paid
+C0000155,M00121,Oncology,Walgreens,2025-07-07,1602.42,Paid
+C0000156,M00393,Behavioral Health,Walgreens,2026-02-05,102.02,Paid
+C0000157,M00031,Diabetes,Walgreens,2025-10-12,138.69,Paid
+C0000158,M00333,Diabetes,Express Scripts,2026-05-03,241.47,Paid
+C0000159,M00170,Diabetes,Costco Pharmacy,2025-07-21,94.84,Paid
+C0000160,M00216,Specialty,Walgreens,2025-07-13,526.84,Paid
+C0000161,M00171,Cardiology,Local Care Pharmacy,2025-07-28,81.37,Reversed
+C0000162,M00415,Respiratory,Express Scripts,2026-05-08,345.82,Paid
+C0000163,M00095,Oncology,CVS,2026-03-09,165.43,Rejected
+C0000164,M00027,Specialty,Walgreens,2025-10-13,313.5,Paid
+C0000165,M00308,Specialty,Walgreens,2025-10-13,1262.68,Paid
+C0000166,M00222,Respiratory,Walgreens,2025-10-10,168.07,Paid
+C0000167,M00315,Cardiology,Local Care Pharmacy,2026-02-15,104.47,Paid
+C0000168,M00446,Respiratory,Express Scripts,2026-01-01,67.25,Paid
+C0000169,M00246,Oncology,Walgreens,2026-02-07,1192.39,Paid
+C0000170,M00411,Oncology,CVS,2026-02-04,1720.29,Paid
+C0000171,M00476,Cardiology,Local Care Pharmacy,2026-04-10,177.6,Paid
+C0000172,M00197,Oncology,Costco Pharmacy,2026-01-09,1086.06,Paid
+C0000173,M00037,Cardiology,Walgreens,2025-10-09,229.2,Rejected
+C0000174,M00003,Diabetes,Express Scripts,2026-01-08,139.17,Paid
+C0000175,M00216,Behavioral Health,Express Scripts,2026-01-08,278.15,Paid
+C0000176,M00333,Behavioral Health,CVS,2025-07-20,38.76,Paid
+C0000177,M00294,Diabetes,Local Care Pharmacy,2025-11-08,202.63,Paid
+C0000178,M00368,Oncology,Local Care Pharmacy,2025-07-30,1569.22,Paid
+C0000179,M00221,Respiratory,OptumRx,2025-07-18,137.97,Paid
+C0000180,M00351,Diabetes,OptumRx,2025-09-14,179.09,Paid
+C0000181,M00488,Respiratory,Costco Pharmacy,2026-05-05,143.17,Rejected
+C0000182,M00435,Diabetes,Local Care Pharmacy,2025-08-17,46.25,Paid
+C0000183,M00200,Cardiology,Costco Pharmacy,2025-08-11,191.82,Rejected
+C0000184,M00453,Cardiology,Local Care Pharmacy,2025-11-07,262.56,Paid
+C0000185,M00500,Specialty,OptumRx,2026-04-27,1395.42,Paid
+C0000186,M00390,Behavioral Health,CVS,2025-08-15,213.5,Paid
+C0000187,M00402,Respiratory,Local Care Pharmacy,2025-11-15,387.08,Paid
+C0000188,M00388,Cardiology,Express Scripts,2025-09-25,111.07,Paid
+C0000189,M00036,Respiratory,Local Care Pharmacy,2026-01-30,214.41,Paid
+C0000190,M00224,Diabetes,Walgreens,2025-09-07,108.67,Paid
+C0000191,M00262,Behavioral Health,Walgreens,2025-10-17,139.77,Paid
+C0000192,M00388,Diabetes,Express Scripts,2025-11-10,201.72,Paid
+C0000193,M00472,Specialty,CVS,2025-09-24,1368.86,Paid
+C0000194,M00196,Diabetes,Costco Pharmacy,2025-07-16,33.55,Paid
+C0000195,M00253,Specialty,OptumRx,2025-08-01,254.37,Paid
+C0000196,M00004,Specialty,CVS,2025-07-22,1253.93,Paid
+C0000197,M00410,Diabetes,Express Scripts,2025-11-14,163.92,Paid
+C0000198,M00174,Specialty,OptumRx,2026-06-15,596.67,Reversed
+C0000199,M00423,Diabetes,Express Scripts,2026-01-21,105.41,Paid
+C0000200,M00184,Behavioral Health,Express Scripts,2025-07-02,234.43,Paid
+C0000201,M00209,Respiratory,CVS,2025-09-10,419.2,Paid
+C0000202,M00449,Specialty,OptumRx,2025-11-05,1488.94,Paid
+C0000203,M00356,Specialty,Local Care Pharmacy,2026-01-28,797.99,Paid
+C0000204,M00331,Behavioral Health,Local Care Pharmacy,2025-07-09,236.12,Paid
+C0000205,M00024,Behavioral Health,Express Scripts,2026-06-13,215.67,Paid
+C0000206,M00253,Cardiology,OptumRx,2025-08-11,199.5,Paid
+C0000207,M00481,Behavioral Health,Local Care Pharmacy,2026-06-03,146.54,Rejected
+C0000208,M00380,Cardiology,Costco Pharmacy,2025-09-12,197.92,Paid
+C0000209,M00406,Behavioral Health,Express Scripts,2025-09-04,154.13,Paid
+C0000210,M00156,Behavioral Health,Walgreens,2026-02-25,285.02,Rejected
+C0000211,M00493,Diabetes,Walgreens,2025-11-01,178.36,Paid
+C0000212,M00390,Behavioral Health,Express Scripts,2025-08-24,206.12,Reversed
+C0000213,M00015,Diabetes,OptumRx,2026-01-13,242.81,Paid
+C0000214,M00133,Specialty,CVS,2026-06-09,1489.58,Paid
+C0000215,M00477,Specialty,Local Care Pharmacy,2025-08-16,1161.3,Paid
+C0000216,M00116,Behavioral Health,CVS,2026-05-04,223.8,Paid
+C0000217,M00196,Behavioral Health,Local Care Pharmacy,2026-01-12,217.58,Paid
+C0000218,M00292,Behavioral Health,Walgreens,2025-10-28,136.12,Paid
+C0000219,M00150,Diabetes,Walgreens,2026-04-30,39.57,Paid
+C0000220,M00060,Specialty,Express Scripts,2025-12-08,293.01,Paid
+C0000221,M00001,Cardiology,Express Scripts,2025-10-06,192.95,Reversed
+C0000222,M00165,Respiratory,Costco Pharmacy,2025-09-03,379.8,Paid
+C0000223,M00307,Diabetes,Express Scripts,2026-04-02,113.67,Paid
+C0000224,M00422,Behavioral Health,Local Care Pharmacy,2026-03-13,242.67,Paid
+C0000225,M00312,Cardiology,Costco Pharmacy,2025-07-18,238.55,Paid
+C0000226,M00262,Behavioral Health,Express Scripts,2026-04-20,52.67,Paid
+C0000227,M00112,Oncology,CVS,2026-01-09,1601.42,Reversed
+C0000228,M00172,Diabetes,Local Care Pharmacy,2025-10-24,191.46,Paid
+C0000229,M00477,Behavioral Health,Local Care Pharmacy,2026-03-07,67.46,Paid
+C0000230,M00422,Specialty,Costco Pharmacy,2025-07-12,1340.05,Paid
+C0000231,M00220,Specialty,Express Scripts,2026-01-17,1545.94,Paid
+C0000232,M00377,Cardiology,Local Care Pharmacy,2025-10-08,223.83,Paid
+C0000233,M00205,Diabetes,CVS,2026-04-24,96.27,Paid
+C0000234,M00368,Cardiology,Walgreens,2026-04-22,211.71,Paid
+C0000235,M00252,Cardiology,Local Care Pharmacy,2025-10-20,63.66,Paid
+C0000236,M00338,Diabetes,CVS,2026-04-21,193.68,Paid
+C0000237,M00444,Diabetes,Local Care Pharmacy,2026-02-04,248.0,Paid
+C0000238,M00479,Diabetes,Walgreens,2026-02-28,104.05,Rejected
+C0000239,M00061,Behavioral Health,Express Scripts,2026-04-30,192.86,Reversed
+C0000240,M00326,Respiratory,Walgreens,2025-08-30,139.12,Paid
+C0000241,M00156,Respiratory,Local Care Pharmacy,2026-05-31,448.2,Paid
+C0000242,M00359,Behavioral Health,Express Scripts,2025-08-15,198.35,Paid
+C0000243,M00337,Cardiology,OptumRx,2026-02-13,205.23,Paid
+C0000244,M00060,Diabetes,Costco Pharmacy,2026-06-08,136.39,Paid
+C0000245,M00305,Specialty,Local Care Pharmacy,2025-11-18,939.46,Paid
+C0000246,M00411,Specialty,Local Care Pharmacy,2026-05-27,665.51,Paid
+C0000247,M00297,Diabetes,Walgreens,2026-04-02,96.71,Paid
+C0000248,M00363,Diabetes,Costco Pharmacy,2026-04-01,152.57,Paid
+C0000249,M00270,Behavioral Health,CVS,2026-05-30,163.28,Paid
+C0000250,M00108,Behavioral Health,Costco Pharmacy,2025-10-01,258.74,Paid
+C0000251,M00003,Specialty,CVS,2025-09-01,1270.34,Paid
+C0000252,M00107,Specialty,CVS,2025-11-09,235.52,Paid
+C0000253,M00064,Oncology,Walgreens,2026-04-05,900.84,Paid
+C0000254,M00488,Specialty,Costco Pharmacy,2025-07-24,468.59,Rejected
+C0000255,M00152,Specialty,Express Scripts,2026-04-22,754.02,Paid
+C0000256,M00272,Behavioral Health,Costco Pharmacy,2026-05-07,285.15,Paid
+C0000257,M00357,Diabetes,CVS,2025-10-30,216.38,Paid
+C0000258,M00155,Behavioral Health,Costco Pharmacy,2025-09-07,77.09,Paid
+C0000259,M00307,Cardiology,Express Scripts,2026-05-15,58.91,Paid
+C0000260,M00132,Cardiology,Express Scripts,2025-09-22,210.29,Paid
+C0000261,M00488,Cardiology,Costco Pharmacy,2025-09-12,145.12,Paid
+C0000262,M00327,Respiratory,Walgreens,2026-05-27,465.98,Paid
+C0000263,M00293,Specialty,Walgreens,2026-05-06,1299.38,Paid
+C0000264,M00080,Cardiology,CVS,2026-01-11,250.37,Reversed
+C0000265,M00128,Diabetes,Local Care Pharmacy,2025-08-26,48.16,Paid
+C0000266,M00034,Cardiology,OptumRx,2025-12-18,47.44,Paid
+C0000267,M00413,Diabetes,Walgreens,2026-01-10,20.39,Paid
+C0000268,M00054,Respiratory,Local Care Pharmacy,2026-03-27,86.2,Paid
+C0000269,M00306,Behavioral Health,OptumRx,2026-03-28,150.14,Paid
+C0000270,M00448,Cardiology,CVS,2025-08-20,100.31,Paid
+C0000271,M00489,Respiratory,Costco Pharmacy,2026-06-13,111.1,Paid
+C0000272,M00456,Behavioral Health,OptumRx,2025-09-04,146.74,Paid
+C0000273,M00267,Respiratory,Express Scripts,2025-09-12,318.83,Paid
+C0000274,M00138,Diabetes,Local Care Pharmacy,2026-01-06,193.55,Paid
+C0000275,M00352,Specialty,Express Scripts,2025-10-02,1134.25,Reversed
+C0000276,M00413,Oncology,Costco Pharmacy,2026-02-05,742.99,Rejected
+C0000277,M00456,Behavioral Health,CVS,2026-05-22,80.7,Rejected
+C0000278,M00212,Respiratory,CVS,2026-05-21,400.59,Paid
+C0000279,M00124,Behavioral Health,CVS,2025-07-30,63.75,Paid
+C0000280,M00288,Behavioral Health,Express Scripts,2025-07-06,234.98,Paid
+C0000281,M00482,Respiratory,Local Care Pharmacy,2026-03-21,241.34,Reversed
+C0000282,M00459,Specialty,Costco Pharmacy,2025-07-08,289.05,Paid
+C0000283,M00430,Respiratory,Local Care Pharmacy,2026-03-31,343.49,Paid
+C0000284,M00383,Specialty,Local Care Pharmacy,2026-03-28,1444.51,Paid
+C0000285,M00315,Oncology,Walgreens,2026-03-26,499.67,Paid
+C0000286,M00189,Behavioral Health,Express Scripts,2025-07-27,156.54,Paid
+C0000287,M00089,Cardiology,Walgreens,2026-06-13,54.48,Paid
+C0000288,M00440,Respiratory,Express Scripts,2025-12-01,83.74,Paid
+C0000289,M00111,Diabetes,Walgreens,2026-01-18,170.74,Rejected
+C0000290,M00480,Behavioral Health,Express Scripts,2025-07-19,190.96,Rejected
+C0000291,M00439,Oncology,Express Scripts,2026-05-12,884.77,Paid
+C0000292,M00183,Diabetes,Express Scripts,2025-10-04,102.63,Paid
+C0000293,M00052,Cardiology,Costco Pharmacy,2026-03-28,78.97,Rejected
+C0000294,M00214,Diabetes,Local Care Pharmacy,2025-09-18,135.95,Paid
+C0000295,M00245,Cardiology,Walgreens,2026-02-05,108.51,Paid
+C0000296,M00139,Diabetes,Walgreens,2026-02-10,124.13,Paid
+C0000297,M00387,Cardiology,CVS,2025-10-10,125.92,Paid
+C0000298,M00021,Diabetes,CVS,2025-12-17,119.9,Paid
+C0000299,M00103,Behavioral Health,CVS,2025-11-14,275.27,Paid
+C0000300,M00286,Oncology,OptumRx,2025-09-04,1555.33,Paid
+C0000301,M00404,Behavioral Health,Walgreens,2026-01-16,153.39,Paid
+C0000302,M00056,Respiratory,Costco Pharmacy,2025-12-24,87.34,Paid
+C0000303,M00355,Diabetes,Express Scripts,2025-12-23,182.15,Reversed
+C0000304,M00382,Diabetes,Express Scripts,2025-11-22,134.21,Paid
+C0000305,M00223,Cardiology,Walgreens,2026-03-19,65.88,Paid
+C0000306,M00397,Diabetes,Local Care Pharmacy,2025-11-04,81.77,Paid
+C0000307,M00103,Oncology,Local Care Pharmacy,2025-08-22,1763.05,Paid
+C0000308,M00317,Diabetes,Local Care Pharmacy,2026-04-29,258.2,Paid
+C0000309,M00119,Diabetes,Walgreens,2025-11-18,115.11,Rejected
+C0000310,M00222,Diabetes,Express Scripts,2025-07-27,66.31,Paid
+C0000311,M00158,Respiratory,OptumRx,2025-10-22,459.34,Paid
+C0000312,M00032,Oncology,CVS,2025-12-03,1477.45,Paid
+C0000313,M00145,Behavioral Health,OptumRx,2025-11-04,209.22,Rejected
+C0000314,M00095,Diabetes,Walgreens,2025-12-12,30.62,Paid
+C0000315,M00145,Behavioral Health,OptumRx,2025-10-03,46.62,Rejected
+C0000316,M00188,Cardiology,CVS,2026-06-08,53.99,Paid
+C0000317,M00399,Behavioral Health,Local Care Pharmacy,2026-01-02,107.97,Paid
+C0000318,M00275,Specialty,Walgreens,2025-11-19,453.94,Paid
+C0000319,M00045,Behavioral Health,CVS,2026-05-05,54.54,Paid
+C0000320,M00500,Behavioral Health,Walgreens,2025-10-06,193.99,Paid
+C0000321,M00478,Diabetes,OptumRx,2026-05-13,245.92,Paid
+C0000322,M00247,Behavioral Health,CVS,2025-09-17,73.57,Paid
+C0000323,M00218,Specialty,OptumRx,2026-04-13,474.67,Rejected
+C0000324,M00233,Specialty,CVS,2026-02-09,278.51,Paid
+C0000325,M00273,Behavioral Health,Walgreens,2025-07-12,153.93,Paid
+C0000326,M00361,Behavioral Health,CVS,2026-04-16,96.91,Paid
+C0000327,M00360,Diabetes,Local Care Pharmacy,2026-03-11,215.12,Paid
+C0000328,M00267,Behavioral Health,Express Scripts,2026-03-18,63.86,Paid
+C0000329,M00203,Cardiology,CVS,2025-10-03,100.44,Paid
+C0000330,M00113,Specialty,Express Scripts,2026-03-20,120.87,Paid
+C0000331,M00373,Specialty,OptumRx,2025-10-21,548.55,Paid
+C0000332,M00287,Diabetes,Walgreens,2026-03-31,72.19,Paid
+C0000333,M00332,Diabetes,OptumRx,2025-09-07,231.83,Paid
+C0000334,M00027,Specialty,Costco Pharmacy,2025-10-16,469.56,Paid
+C0000335,M00337,Cardiology,OptumRx,2026-01-05,197.34,Paid
+C0000336,M00366,Behavioral Health,Express Scripts,2025-09-07,90.09,Rejected
+C0000337,M00152,Cardiology,OptumRx,2025-07-06,38.23,Paid
+C0000338,M00499,Cardiology,Costco Pharmacy,2025-07-09,95.94,Paid
+C0000339,M00449,Respiratory,Local Care Pharmacy,2025-08-24,372.39,Paid
+C0000340,M00198,Behavioral Health,Local Care Pharmacy,2026-05-17,88.31,Paid
+C0000341,M00107,Respiratory,Walgreens,2025-11-15,128.51,Paid
+C0000342,M00418,Behavioral Health,Walgreens,2026-02-14,125.07,Paid
+C0000343,M00226,Cardiology,Express Scripts,2025-08-17,283.59,Paid
+C0000344,M00096,Respiratory,Express Scripts,2026-04-18,109.11,Rejected
+C0000345,M00094,Specialty,Walgreens,2025-09-22,138.56,Paid
+C0000346,M00356,Specialty,Express Scripts,2025-08-06,208.85,Paid
+C0000347,M00470,Specialty,Walgreens,2026-03-27,692.44,Paid
+C0000348,M00418,Diabetes,CVS,2026-01-13,42.13,Paid
+C0000349,M00007,Respiratory,Walgreens,2025-07-23,313.14,Paid
+C0000350,M00043,Cardiology,CVS,2026-05-04,294.17,Paid
+C0000351,M00005,Behavioral Health,Local Care Pharmacy,2025-12-21,48.11,Paid
+C0000352,M00073,Oncology,Walgreens,2026-02-13,1310.78,Paid
+C0000353,M00250,Diabetes,Local Care Pharmacy,2025-11-14,31.52,Paid
+C0000354,M00011,Behavioral Health,CVS,2025-11-29,47.17,Paid
+C0000355,M00433,Cardiology,CVS,2025-10-23,21.95,Paid
+C0000356,M00201,Diabetes,Local Care Pharmacy,2025-10-24,176.6,Paid
+C0000357,M00457,Respiratory,Walgreens,2026-03-09,425.14,Reversed
+C0000358,M00116,Diabetes,CVS,2025-12-30,249.32,Paid
+C0000359,M00061,Cardiology,CVS,2025-08-13,290.13,Paid
+C0000360,M00093,Cardiology,Local Care Pharmacy,2025-10-01,118.84,Paid
+C0000361,M00462,Specialty,OptumRx,2025-11-24,545.87,Paid
+C0000362,M00140,Behavioral Health,Local Care Pharmacy,2025-11-13,195.95,Paid
+C0000363,M00408,Diabetes,Local Care Pharmacy,2025-09-15,,Paid
+C0000364,M00077,Cardiology,CVS,2026-03-02,231.08,Paid
+C0000365,M00222,Behavioral Health,OptumRx,2025-08-16,93.93,Reversed
+C0000366,M00095,Respiratory,Express Scripts,2026-03-11,186.0,Paid
+C0000367,M00215,Specialty,Local Care Pharmacy,2025-09-09,1032.35,Rejected
+C0000368,M00200,Cardiology,Express Scripts,2026-03-31,165.96,Paid
+C0000369,M00425,Diabetes,Costco Pharmacy,2026-02-01,38.24,Paid
+C0000370,M00360,Respiratory,Walgreens,2025-08-14,127.94,Paid
+C0000371,M00106,Behavioral Health,Express Scripts,2026-04-12,24.37,Rejected
+C0000372,M00476,Diabetes,Walgreens,2026-01-01,238.55,Paid
+C0000373,M00075,Behavioral Health,Walgreens,2026-02-01,166.61,Paid
+C0000374,M00116,Diabetes,Express Scripts,2025-09-12,51.35,Paid
+C0000375,M00361,Behavioral Health,Local Care Pharmacy,2025-08-24,118.74,Paid
+C0000376,M00249,Behavioral Health,Walgreens,2025-07-16,251.52,Paid
+C0000377,M00041,Cardiology,Walgreens,2026-01-30,25.22,Paid
+C0000378,M00245,Respiratory,Express Scripts,2025-12-01,358.28,Paid
+C0000379,M00174,Oncology,OptumRx,2025-07-07,1479.45,Paid
+C0000380,M00031,Behavioral Health,Costco Pharmacy,2025-09-27,28.35,Paid
+C0000381,M00206,Behavioral Health,Costco Pharmacy,2026-02-18,200.79,Paid
+C0000382,M00134,Behavioral Health,Express Scripts,2025-10-25,153.4,Rejected
+C0000383,M00141,Behavioral Health,Local Care Pharmacy,2025-09-03,158.62,Paid
+C0000384,M00321,Diabetes,Costco Pharmacy,2026-04-13,112.93,Paid
+C0000385,M00423,Respiratory,Local Care Pharmacy,2026-05-31,240.36,Paid
+C0000386,M00197,Diabetes,Express Scripts,2026-05-28,212.41,Paid
+C0000387,M00056,Diabetes,CVS,2025-12-19,105.77,Paid
+C0000388,M00085,Specialty,CVS,2026-05-02,202.84,Paid
+C0000389,M00160,Diabetes,Walgreens,2025-07-17,66.82,Paid
+C0000390,M00296,Specialty,CVS,2026-03-05,926.55,Paid
+C0000391,M00048,Behavioral Health,OptumRx,2025-12-30,22.06,Rejected
+C0000392,M00261,Diabetes,Walgreens,2025-12-30,199.95,Paid
+C0000393,M00050,Cardiology,CVS,2026-03-15,281.95,Paid
+C0000394,M00401,Diabetes,Express Scripts,2026-01-12,160.1,Paid
+C0000395,M00441,Diabetes,Express Scripts,2026-06-15,57.02,Paid
+C0000396,M00325,Diabetes,Local Care Pharmacy,2025-10-19,191.87,Paid
+C0000397,M00398,Respiratory,Costco Pharmacy,2026-02-31,465.13,Reversed
+C0000398,M00316,Specialty,Express Scripts,2025-12-22,1458.69,Paid
+C0000399,M00175,Cardiology,CVS,2026-02-06,202.66,Rejected
+C0000400,M00401,Respiratory,Costco Pharmacy,2026-05-09,,Paid
+C0000401,M00080,Specialty,CVS,2025-08-19,1551.88,Paid
+C0000402,M00450,Cardiology,Express Scripts,2025-08-14,273.53,Paid
+C0000403,M00162,Diabetes,OptumRx,2025-08-04,89.54,Paid
+C0000404,M00182,Diabetes,OptumRx,2026-02-21,61.36,Reversed
+C0000405,M00133,Respiratory,CVS,2025-09-10,224.95,Reversed
+C0000406,M00254,Diabetes,Express Scripts,2026-01-22,225.88,Paid
+C0000407,M00474,Respiratory,Costco Pharmacy,2026-03-20,224.42,Rejected
+C0000408,M00194,Diabetes,OptumRx,2026-02-16,117.99,Paid
+C0000409,M00354,Diabetes,Local Care Pharmacy,2025-07-30,254.54,Paid
+C0000410,M00363,Behavioral Health,OptumRx,2025-08-23,21.91,Paid
+C0000411,M00296,Cardiology,Express Scripts,2026-01-15,42.79,Paid
+C0000412,M00180,Oncology,CVS,2026-02-24,1474.59,Paid
+C0000413,M00379,Diabetes,Express Scripts,2026-01-20,250.21,Paid
+C0000414,M00170,Diabetes,Express Scripts,2026-05-06,100.87,Paid
+C0000415,M00384,Oncology,Costco Pharmacy,2025-07-20,725.62,Paid
+C0000416,M00245,Diabetes,CVS,2026-04-17,69.66,Reversed
+C0000417,M00401,Cardiology,Express Scripts,2026-01-02,293.55,Reversed
+C0000418,M00111,Diabetes,Express Scripts,2026-06-16,228.06,Paid
+C0000419,M00330,Diabetes,Express Scripts,2025-11-18,52.3,Paid
+C0000420,M00452,Respiratory,Walgreens,2026-03-26,411.93,Paid
+C0000421,M00134,Diabetes,OptumRx,2026-02-05,31.01,Reversed
+C0000422,M00154,Diabetes,Express Scripts,2026-01-31,102.52,Paid
+C0000423,M00357,Respiratory,OptumRx,2026-02-09,453.01,Rejected
+C0000424,M00297,Cardiology,Walgreens,2026-05-02,24.48,Paid
+C0000425,M00346,Specialty,Local Care Pharmacy,2026-06-06,317.98,Paid
+C0000426,M00382,Respiratory,Walgreens,2026-02-20,38.58,Paid
+C0000427,M00164,Diabetes,OptumRx,2026-01-25,252.73,Paid
+C0000428,M00002,Behavioral Health,Local Care Pharmacy,2025-09-03,270.91,Paid
+C0000429,M00301,Diabetes,Express Scripts,2025-10-05,70.91,Paid
+C0000430,M00401,Diabetes,Walgreens,2025-12-26,109.37,Rejected
+C0000431,M00352,Specialty,CVS,2026-01-03,128.87,Paid
+C0000432,M00159,Oncology,Local Care Pharmacy,2026-03-13,1937.98,Reversed
+C0000433,M00215,Cardiology,Express Scripts,2026-04-04,123.88,Paid
+C0000434,M00396,Cardiology,Express Scripts,2026-02-20,290.61,Paid
+C0000435,M00288,Specialty,OptumRx,2026-01-12,896.09,Paid
+C0000436,M00357,Respiratory,CVS,2026-05-14,308.62,Reversed
+C0000437,M00417,Behavioral Health,Costco Pharmacy,2025-07-09,43.66,Rejected
+C0000438,M00054,Oncology,CVS,2026-04-05,1699.3,Paid
+C0000439,M00262,Specialty,Express Scripts,2025-11-26,155.39,Paid
+C0000440,M00402,Oncology,Express Scripts,2025-10-09,936.88,Rejected
+C0000441,M00181,Behavioral Health,Local Care Pharmacy,2026-01-28,263.11,Paid
+C0000442,M00384,Cardiology,Costco Pharmacy,2025-10-23,294.46,Paid
+C0000443,M00455,Specialty,Local Care Pharmacy,2026-01-29,554.34,Paid
+C0000444,M00465,Behavioral Health,Walgreens,2025-07-14,28.5,Paid
+C0000445,M00435,Respiratory,OptumRx,2026-05-04,389.61,Paid
+C0000446,M00496,Specialty,Express Scripts,2026-04-11,732.39,Paid
+C0000447,M00334,Cardiology,Express Scripts,2026-04-22,36.58,Paid
+C0000448,M00330,Cardiology,OptumRx,2026-01-23,233.04,Paid
+C0000449,M00227,Diabetes,Costco Pharmacy,2026-02-31,189.83,Paid
+C0000450,M00300,Respiratory,OptumRx,2026-05-18,399.62,Paid
+C0000451,M00083,Behavioral Health,CVS,2025-08-17,74.04,Paid
+C0000452,M00326,Respiratory,Local Care Pharmacy,2026-05-13,99.07,Paid
+C0000453,M00041,Specialty,Express Scripts,2025-09-05,144.72,Paid
+C0000454,M00403,Cardiology,OptumRx,2025-10-22,91.22,Paid
+C0000455,M00435,Cardiology,OptumRx,2026-01-10,248.12,Paid
+C0000456,M00142,Diabetes,Local Care Pharmacy,2025-07-12,52.79,Reversed
+C0000457,M00448,Diabetes,CVS,2026-05-02,129.11,Paid
+C0000458,M00146,Cardiology,Express Scripts,2025-08-09,74.05,Paid
+C0000459,M00472,Behavioral Health,CVS,2026-03-09,123.83,Paid
+C0000460,M00254,Behavioral Health,Express Scripts,2026-01-31,40.11,Rejected
+C0000461,M00329,Behavioral Health,OptumRx,2025-10-01,235.04,Paid
+C0000462,M00093,Specialty,CVS,2025-07-17,1024.52,Reversed
+C0000463,M00179,Oncology,CVS,2026-04-06,1416.01,Paid
+C0000464,M00384,Cardiology,CVS,2026-05-07,56.91,Paid
+C0000465,M00270,Oncology,CVS,2026-01-03,466.38,Rejected
+C0000466,M00016,Cardiology,OptumRx,2025-09-03,85.42,Paid
+C0000467,M00104,Behavioral Health,Local Care Pharmacy,2026-04-09,112.58,Paid
+C0000468,M00386,Respiratory,Walgreens,2026-01-21,222.35,Paid
+C0000469,M00103,Respiratory,Express Scripts,2025-11-21,418.91,Paid
+C0000470,M00411,Respiratory,Local Care Pharmacy,2025-10-14,168.13,Paid
+C0000471,M00457,Oncology,OptumRx,2025-11-17,1379.65,Paid
+C0000472,M00315,Cardiology,OptumRx,2025-12-28,79.6,Rejected
+C0000473,M00424,Diabetes,Costco Pharmacy,2025-07-18,58.47,Paid
+C0000474,M00213,Cardiology,Costco Pharmacy,2026-05-27,261.67,Paid
+C0000475,M00016,Diabetes,Walgreens,2026-02-05,213.79,Paid
+C0000476,M00038,Diabetes,OptumRx,2025-09-13,107.94,Paid
+C0000477,M00165,Respiratory,Express Scripts,2025-10-18,344.64,Paid
+C0000478,M00166,Behavioral Health,OptumRx,2026-01-14,169.31,Paid
+C0000479,M00274,Diabetes,Local Care Pharmacy,2026-05-08,153.75,Paid
+C0000480,M00462,Specialty,OptumRx,2026-02-08,1098.46,Paid
+C0000481,M00103,Diabetes,CVS,2026-03-13,212.26,Reversed
+C0000482,M00219,Diabetes,OptumRx,2026-05-04,127.57,Paid
+C0000483,M00123,Specialty,Costco Pharmacy,2026-05-26,521.87,Reversed
+C0000484,M00471,Oncology,CVS,2026-01-23,422.59,Rejected
+C0000485,M00475,Specialty,CVS,2025-07-09,597.89,Paid
+C0000486,M00429,Respiratory,OptumRx,2025-11-18,347.45,Paid
+C0000487,M00208,Diabetes,Costco Pharmacy,2026-03-10,205.46,Paid
+C0000488,M00154,Respiratory,CVS,2026-05-25,230.42,Paid
+C0000489,M00485,Specialty,CVS,2025-07-25,150.53,Paid
+C0000490,M00167,Behavioral Health,Walgreens,2025-10-24,212.6,Paid
+C0000491,M00375,Behavioral Health,CVS,2026-04-02,118.0,Rejected
+C0000492,M00449,Diabetes,CVS,2025-07-23,231.76,Paid
+C0000493,M00157,Diabetes,Express Scripts,2026-05-10,97.7,Paid
+C0000494,M00089,Behavioral Health,Walgreens,2025-08-31,175.12,Paid
+C0000495,M00077,Respiratory,Local Care Pharmacy,2026-01-28,419.12,Paid
+C0000496,M00063,Specialty,Local Care Pharmacy,2026-03-02,457.24,Paid
+C0000497,M00145,Cardiology,CVS,2025-10-24,233.84,Paid
+C0000498,M00153,Respiratory,Local Care Pharmacy,2025-11-02,186.17,Paid
+C0000499,M00443,Diabetes,CVS,2026-03-11,36.88,Paid
+C0000500,M00348,Diabetes,Express Scripts,2025-10-05,216.08,Paid
+C0000501,M00108,Respiratory,OptumRx,2026-03-21,364.15,Paid
+C0000502,M00161,Respiratory,CVS,2026-03-16,317.84,Rejected
+C0000503,M00114,Behavioral Health,Costco Pharmacy,2026-02-17,122.44,Paid
+C0000504,M00404,Cardiology,Walgreens,2026-02-02,41.53,Paid
+C0000505,M00492,Behavioral Health,Express Scripts,2025-09-14,192.4,Paid
+C0000506,M00386,Diabetes,Walgreens,2026-02-21,22.01,Paid
+C0000507,M00248,Specialty,CVS,2025-11-13,765.23,Rejected
+C0000508,M00044,Cardiology,Costco Pharmacy,2026-01-20,83.18,Paid
+C0000509,M00172,Diabetes,CVS,2025-08-20,83.97,Paid
+C0000510,M00379,Behavioral Health,Express Scripts,2025-10-05,71.42,Paid
+C0000511,M00143,Specialty,CVS,2026-02-07,824.73,Paid
+C0000512,M00335,Cardiology,CVS,2025-08-28,53.86,Rejected
+C0000513,M00299,Cardiology,OptumRx,2025-08-21,40.72,Paid
+C0000514,M00322,Respiratory,CVS,2026-01-18,208.63,Paid
+C0000515,M00426,Behavioral Health,Walgreens,2025-10-14,,Paid
+C0000516,M00179,Specialty,Local Care Pharmacy,2025-11-25,1132.9,Paid
+C0000517,M00096,Oncology,Local Care Pharmacy,2026-03-02,1593.87,Paid
+C0000518,M00469,Respiratory,CVS,2026-06-14,106.55,Paid
+C0000519,M00172,Behavioral Health,Local Care Pharmacy,2025-07-07,57.56,Paid
+C0000520,M00173,Diabetes,Walgreens,2025-08-09,253.8,Paid
+C0000521,M00441,Diabetes,Costco Pharmacy,2026-02-28,103.22,Paid
+C0000522,M00452,Cardiology,Costco Pharmacy,2025-07-09,53.37,Paid
+C0000523,M00150,Behavioral Health,Walgreens,2025-09-24,159.63,Paid
+C0000524,M00052,Cardiology,Express Scripts,2026-02-17,235.39,Paid
+C0000525,M00284,Cardiology,Express Scripts,2026-01-03,162.88,Paid
+C0000526,M00182,Cardiology,Local Care Pharmacy,2026-03-23,118.52,Paid
+C0000527,M00466,Behavioral Health,Local Care Pharmacy,2025-11-16,148.74,Paid
+C0000528,M00332,Diabetes,Local Care Pharmacy,2025-10-21,254.83,Reversed
+C0000529,M00184,Oncology,OptumRx,2026-02-06,655.66,Paid
+C0000530,M00046,Diabetes,CVS,2026-05-24,249.07,Reversed
+C0000531,M00454,Specialty,Costco Pharmacy,2026-02-16,899.22,Paid
+C0000532,M00471,Specialty,Costco Pharmacy,2026-01-17,1397.37,Paid
+C0000533,M00143,Cardiology,Local Care Pharmacy,2026-03-24,33.54,Paid
+C0000534,M00318,Diabetes,OptumRx,2026-04-17,210.47,Paid
+C0000535,M00005,Oncology,Local Care Pharmacy,2026-02-24,1563.13,Paid
+C0000536,M00499,Cardiology,OptumRx,2025-09-22,183.68,Paid
+C0000537,M00034,Respiratory,Walgreens,2025-07-21,39.19,Paid
+C0000538,M00308,Diabetes,Express Scripts,2025-07-03,136.18,Paid
+C0000539,M00432,Diabetes,OptumRx,2025-12-27,78.85,Paid
+C0000540,M00262,Specialty,CVS,2025-09-18,1224.42,Paid
+C0000541,M00075,Behavioral Health,CVS,2026-04-26,72.17,Paid
+C0000542,M00017,Oncology,Local Care Pharmacy,2026-06-13,882.48,Paid
+C0000543,M00208,Behavioral Health,OptumRx,2025-11-11,45.92,Paid
+C0000544,M00090,Specialty,Costco Pharmacy,2025-12-13,1093.8,Paid
+C0000545,M00398,Diabetes,Walgreens,2026-04-10,50.84,Paid
+C0000546,M00044,Cardiology,Costco Pharmacy,2026-02-22,290.84,Paid
+C0000547,M00405,Behavioral Health,Costco Pharmacy,2025-09-09,136.1,Paid
+C0000548,M00162,Oncology,Express Scripts,2025-12-31,1562.38,Paid
+C0000549,M00243,Cardiology,Costco Pharmacy,2025-07-15,140.74,Paid
+C0000550,M00397,Cardiology,OptumRx,2026-05-11,241.1,Paid
+C0000551,M00302,Oncology,Costco Pharmacy,2026-04-05,414.8,Paid
+C0000552,M00028,Respiratory,Local Care Pharmacy,2026-01-23,203.44,Paid
+C0000553,M00418,Respiratory,CVS,2025-07-28,258.04,Paid
+C0000554,M00429,Behavioral Health,CVS,2026-05-01,48.3,Paid
+C0000555,M00294,Oncology,CVS,2025-08-01,834.5,Paid
+C0000556,M00350,Oncology,Costco Pharmacy,2025-10-13,1627.77,Paid
+C0000557,M00384,Behavioral Health,Local Care Pharmacy,2026-06-11,56.11,Paid
+C0000558,M00156,Specialty,Express Scripts,2025-07-04,1152.19,Paid
+C0000559,M00104,Diabetes,CVS,2026-05-06,18.01,Paid
+C0000560,M00128,Diabetes,Express Scripts,2026-03-16,132.65,Paid
+C0000561,M00479,Diabetes,Walgreens,2025-10-03,115.9,Paid
+C0000562,M00284,Cardiology,Local Care Pharmacy,2026-02-10,199.55,Paid
+C0000563,M00225,Diabetes,Local Care Pharmacy,2025-09-11,23.24,Paid
+C0000564,M00089,Oncology,Express Scripts,2025-10-11,1592.14,Paid
+C0000565,M00150,Specialty,OptumRx,2026-03-10,1500.6,Paid
+C0000566,M00204,Cardiology,Express Scripts,2026-02-23,253.88,Paid
+C0000567,M00077,Diabetes,Express Scripts,2026-04-15,128.61,Paid
+C0000568,M00157,Diabetes,Costco Pharmacy,2026-06-02,175.4,Paid
+C0000569,M00469,Behavioral Health,Local Care Pharmacy,2026-02-25,276.1,Paid
+C0000570,M00005,Behavioral Health,Walgreens,2026-03-15,115.03,Paid
+C0000571,M00366,Specialty,Local Care Pharmacy,2025-09-28,852.94,Paid
+C0000572,M00340,Respiratory,OptumRx,2025-09-10,180.2,Paid
+C0000573,M00342,Cardiology,Express Scripts,2026-05-27,136.0,Paid
+C0000574,M00246,Specialty,Local Care Pharmacy,2026-03-17,369.9,Paid
+C0000575,M00067,Respiratory,OptumRx,2026-04-24,288.9,Paid
+C0000576,M00429,Cardiology,Walgreens,2025-09-20,34.65,Paid
+C0000577,M00055,Oncology,Walgreens,2025-12-13,1550.37,Reversed
+C0000578,M00418,Behavioral Health,Walgreens,2025-08-23,231.59,Paid
+C0000579,M00200,Respiratory,CVS,2025-08-02,215.38,Paid
+C0000580,M00059,Diabetes,OptumRx,2026-02-12,199.48,Paid
+C0000581,M00435,Diabetes,Local Care Pharmacy,2025-08-25,60.12,Paid
+C0000582,M00069,Behavioral Health,Walgreens,2025-10-11,172.54,Paid
+C0000583,M00228,Specialty,Express Scripts,2025-09-21,435.42,Paid
+C0000584,M00419,Respiratory,Local Care Pharmacy,2025-07-13,69.87,Rejected
+C0000585,M00050,Diabetes,OptumRx,2025-07-03,214.02,Paid
+C0000586,M00295,Specialty,Local Care Pharmacy,2025-10-03,212.49,Paid
+C0000587,M00471,Respiratory,Walgreens,2025-10-06,262.46,Paid
+C0000588,M00247,Oncology,Walgreens,2026-04-13,886.29,Paid
+C0000589,M00228,Cardiology,Costco Pharmacy,2025-08-06,130.82,Paid
+C0000590,M00405,Oncology,Walgreens,2026-03-13,360.58,Paid
+C0000591,M00281,Cardiology,OptumRx,2025-11-26,86.66,Paid
+C0000592,M00185,Diabetes,CVS,2025-11-25,228.9,Paid
+C0000593,M00125,Behavioral Health,OptumRx,2026-03-14,267.85,Paid
+C0000594,M00030,Specialty,Express Scripts,2026-04-25,1402.91,Rejected
+C0000595,M00136,Specialty,OptumRx,2026-02-01,154.86,Paid
+C0000596,M00459,Respiratory,Local Care Pharmacy,2026-04-07,93.07,Paid
+C0000597,M00392,Specialty,Express Scripts,2025-10-29,1383.25,Paid
+C0000598,M00490,Specialty,OptumRx,2025-07-19,993.72,Reversed
+C0000599,M00491,Cardiology,Costco Pharmacy,2025-08-11,236.29,Paid
+C0000600,M00067,Cardiology,Express Scripts,2025-07-19,33.72,Paid
+C0000601,M00337,Cardiology,CVS,2025-10-25,160.29,Rejected
+C0000602,M00014,Respiratory,Costco Pharmacy,2026-03-31,385.83,Paid
+C0000603,M00354,Respiratory,CVS,2026-03-04,40.28,Paid
+C0000604,M00196,Respiratory,Costco Pharmacy,2026-02-04,219.59,Paid
+C0000605,M00228,Diabetes,OptumRx,2026-01-05,166.99,Paid
+C0000606,M00227,Behavioral Health,Costco Pharmacy,2025-08-17,83.2,Paid
+C0000607,M00215,Respiratory,Costco Pharmacy,2026-04-01,419.36,Paid
+C0000608,M00415,Diabetes,CVS,2025-07-30,192.2,Paid
+C0000609,M00228,Diabetes,Costco Pharmacy,2025-12-27,28.58,Paid
+C0000610,M00127,Behavioral Health,Express Scripts,2026-01-20,54.33,Paid
+C0000611,M00341,Diabetes,Walgreens,2026-04-05,78.55,Paid
+C0000612,M00381,Respiratory,Express Scripts,2025-10-21,423.41,Paid
+C0000613,M00487,Cardiology,Walgreens,2026-05-31,181.73,Paid
+C0000614,M00138,Cardiology,CVS,2025-08-23,,Paid
+C0000615,M00214,Respiratory,CVS,2025-11-21,303.29,Paid
+C0000616,M00072,Behavioral Health,Local Care Pharmacy,2025-12-04,158.49,Paid
+C0000617,M00063,Cardiology,CVS,2025-09-11,258.68,Reversed
+C0000618,M00362,Oncology,CVS,2025-08-28,1724.94,Paid
+C0000619,M00018,Cardiology,CVS,2025-12-01,192.42,Paid
+C0000620,M00442,Specialty,Express Scripts,2026-01-12,827.26,Paid
+C0000621,M00116,Diabetes,Costco Pharmacy,2026-02-06,62.63,Paid
+C0000622,M00158,Diabetes,Costco Pharmacy,2025-07-14,,Paid
+C0000623,M00174,Behavioral Health,Walgreens,2026-04-29,261.36,Paid
+C0000624,M00176,Respiratory,Local Care Pharmacy,2026-02-04,303.14,Rejected
+C0000625,M00390,Diabetes,Local Care Pharmacy,2026-01-15,44.43,Rejected
+C0000626,M00149,Behavioral Health,Express Scripts,2026-02-23,269.49,Paid
+C0000627,M00295,Respiratory,Express Scripts,2026-01-12,145.7,Paid
+C0000628,M00478,Diabetes,Local Care Pharmacy,2025-11-21,237.67,Rejected
+C0000629,M00044,Behavioral Health,OptumRx,2025-11-29,225.13,Paid
+C0000630,M00020,Specialty,OptumRx,2026-06-03,633.18,Paid
+C0000631,M00419,Respiratory,Costco Pharmacy,2025-12-05,37.77,Paid
+C0000632,M00433,Cardiology,CVS,2026-02-22,73.52,Paid
+C0000633,M00243,Diabetes,Costco Pharmacy,2026-05-23,104.81,Paid
+C0000634,M00030,Specialty,Costco Pharmacy,2026-05-09,223.5,Paid
+C0000635,M00033,Oncology,OptumRx,2025-11-19,683.72,Paid
+C0000636,M00066,Diabetes,Local Care Pharmacy,2026-05-13,60.23,Paid
+C0000637,M00059,Specialty,Express Scripts,2026-03-17,375.54,Paid
+C0000638,M00022,Specialty,OptumRx,2025-11-10,438.99,Paid
+C0000639,M00437,Behavioral Health,Costco Pharmacy,2025-07-23,113.86,Paid
+C0000640,M00056,Diabetes,CVS,2026-03-19,125.4,Paid
+C0000641,M00168,Specialty,Express Scripts,2026-06-14,1311.91,Paid
+C0000642,M00222,Behavioral Health,Costco Pharmacy,2025-12-15,57.89,Paid
+C0000643,M00173,Behavioral Health,Express Scripts,2026-01-08,258.69,Rejected
+C0000644,M00152,Specialty,OptumRx,2025-07-23,340.77,Rejected
+C0000645,M00471,Specialty,OptumRx,2025-10-17,262.25,Paid
+C0000646,M00404,Respiratory,Walgreens,2025-12-24,373.68,Paid
+C0000647,M00303,Diabetes,Local Care Pharmacy,2026-01-12,193.75,Paid
+C0000648,M00040,Behavioral Health,Costco Pharmacy,2026-04-16,283.96,Reversed
+C0000649,M00327,Specialty,Costco Pharmacy,2025-09-01,715.05,Paid
+C0000650,M00315,Oncology,OptumRx,2026-02-11,1231.79,Paid
+C0000651,M00433,Specialty,Walgreens,2025-12-16,1430.87,Paid
+C0000652,M00187,Diabetes,Local Care Pharmacy,2025-08-29,,Paid
+C0000653,M00380,Behavioral Health,OptumRx,2025-08-10,128.92,Paid
+C0000654,M00040,Behavioral Health,Walgreens,2026-05-06,193.72,Paid
+C0000655,M00218,Diabetes,Costco Pharmacy,2025-09-03,218.33,Paid
+C0000656,M00470,Cardiology,Costco Pharmacy,2025-09-09,191.41,Paid
+C0000657,M00148,Cardiology,Express Scripts,2026-01-26,55.86,Paid
+C0000658,M00077,Specialty,Walgreens,2025-10-10,1026.58,Paid
+C0000659,M00008,Diabetes,Local Care Pharmacy,2026-04-10,119.31,Rejected
+C0000660,M00385,Diabetes,CVS,2026-02-06,228.41,Paid
+C0000661,M00038,Diabetes,Express Scripts,2026-01-15,227.78,Paid
+C0000662,M00209,Respiratory,CVS,2025-11-28,137.57,Paid
+C0000663,M00427,Behavioral Health,CVS,2026-05-12,177.25,Reversed
+C0000664,M00024,Diabetes,Express Scripts,2026-02-15,240.82,Paid
+C0000665,M00384,Behavioral Health,Local Care Pharmacy,2026-03-02,96.81,Paid
+C0000666,M00095,Respiratory,CVS,2026-03-18,289.21,Paid
+C0000667,M00004,Specialty,Express Scripts,2026-05-29,645.06,Paid
+C0000668,M00228,Diabetes,CVS,2025-11-21,192.85,Paid
+C0000669,M00257,Cardiology,Costco Pharmacy,2026-03-26,185.42,Paid
+C0000670,M00480,Cardiology,Walgreens,2025-12-11,115.34,Rejected
+C0000671,M00022,Respiratory,Express Scripts,2025-10-16,352.4,Paid
+C0000672,M00299,Behavioral Health,OptumRx,2025-12-25,103.48,Paid
+C0000673,M00149,Cardiology,OptumRx,2025-09-25,149.06,Rejected
+C0000674,M00134,Behavioral Health,Local Care Pharmacy,2025-10-27,220.37,Paid
+C0000675,M00050,Diabetes,CVS,2025-09-25,220.99,Paid
+C0000676,M00021,Behavioral Health,CVS,2025-10-08,163.5,Paid
+C0000677,M00426,Diabetes,Express Scripts,2026-04-19,67.16,Paid
+C0000678,M00271,Diabetes,Local Care Pharmacy,2025-08-26,127.83,Paid
+C0000679,M00437,Diabetes,OptumRx,2026-03-10,233.11,Paid
+C0000680,M00072,Behavioral Health,OptumRx,2025-08-29,214.56,Paid
+C0000681,M00386,Respiratory,Walgreens,2025-12-15,349.24,Paid
+C0000682,M00143,Oncology,CVS,2026-06-10,1665.97,Paid
+C0000683,M00163,Behavioral Health,Local Care Pharmacy,2025-08-21,30.01,Paid
+C0000684,M00164,Diabetes,CVS,2026-05-17,153.08,Rejected
+C0000685,M00326,Diabetes,Walgreens,2026-01-09,51.12,Paid
+C0000686,M00137,Oncology,Local Care Pharmacy,2025-10-04,1149.63,Paid
+C0000687,M00068,Diabetes,Local Care Pharmacy,2026-03-22,229.96,Paid
+C0000688,M00002,Cardiology,Walgreens,2026-05-09,164.1,Paid
+C0000689,M00020,Cardiology,Local Care Pharmacy,2026-01-11,98.0,Paid
+C0000690,M00331,Cardiology,OptumRx,2025-10-01,175.65,Paid
+C0000691,M00453,Cardiology,Express Scripts,2026-05-19,162.46,Paid
+C0000692,M00283,Oncology,OptumRx,2025-08-27,351.57,Paid
+C0000693,M00232,Cardiology,Walgreens,2025-08-29,213.97,Paid
+C0000694,M00165,Specialty,Local Care Pharmacy,2026-01-20,612.68,Paid
+C0000695,M00456,Oncology,Costco Pharmacy,2026-03-08,1808.31,Paid
+C0000696,M00122,Diabetes,Express Scripts,2025-10-19,82.84,Paid
+C0000697,M00400,Cardiology,Express Scripts,2026-01-27,217.62,Paid
+C0000698,M00221,Cardiology,Express Scripts,2025-11-15,286.55,Paid
+C0000699,M00175,Specialty,Express Scripts,2026-02-15,174.25,Paid
+C0000700,M00453,Diabetes,CVS,2026-05-17,67.9,Rejected
+C0000701,M00319,Specialty,CVS,2026-04-03,295.62,Rejected
+C0000702,M00011,Respiratory,OptumRx,2025-12-18,71.71,Paid
+C0000703,M00288,Diabetes,OptumRx,2025-10-16,29.91,Paid
+C0000704,M00082,Behavioral Health,OptumRx,2025-10-26,125.09,Paid
+C0000705,M00471,Cardiology,Local Care Pharmacy,2026-04-10,141.65,Paid
+C0000706,M00007,Diabetes,CVS,2026-03-27,22.85,Paid
+C0000707,M00410,Oncology,CVS,2025-12-02,475.84,Paid
+C0000708,M00400,Respiratory,Express Scripts,2025-09-02,47.11,Paid
+C0000709,M00068,Respiratory,CVS,2025-08-13,414.26,Paid
+C0000710,M00374,Respiratory,CVS,2025-07-11,351.54,Paid
+C0000711,M00282,Specialty,Express Scripts,2026-04-28,328.48,Paid
+C0000712,M00315,Behavioral Health,Costco Pharmacy,2026-02-03,228.71,Paid
+C0000713,M00156,Cardiology,Local Care Pharmacy,2025-11-13,80.45,Paid
+C0000714,M00195,Cardiology,Costco Pharmacy,2026-01-25,48.63,Paid
+C0000715,M00147,Behavioral Health,Express Scripts,2025-11-03,161.74,Paid
+C0000716,M00259,Respiratory,Local Care Pharmacy,2026-04-06,446.85,Paid
+C0000717,M00116,Specialty,Express Scripts,2025-10-27,144.14,Paid
+C0000718,M00293,Diabetes,Local Care Pharmacy,2025-09-12,93.17,Reversed
+C0000719,M00049,Specialty,Costco Pharmacy,2026-03-08,409.55,Paid
+C0000720,M00074,Cardiology,Local Care Pharmacy,2026-03-25,264.98,Paid
+C0000721,M00394,Diabetes,Express Scripts,2025-11-07,203.71,Paid
+C0000722,M00174,Behavioral Health,Costco Pharmacy,2026-04-16,29.52,Paid
+C0000723,M00003,Cardiology,Express Scripts,2026-04-14,82.36,Paid
+C0000724,M00162,Behavioral Health,Local Care Pharmacy,2026-02-22,82.55,Paid
+C0000725,M00289,Behavioral Health,CVS,2025-08-11,284.07,Paid
+C0000726,M00040,Cardiology,Costco Pharmacy,2025-09-21,241.4,Paid
+C0000727,M00087,Diabetes,CVS,2025-08-28,228.48,Rejected
+C0000728,M00258,Diabetes,Walgreens,2026-03-07,212.36,Paid
+C0000729,M00285,Cardiology,Express Scripts,2025-08-30,24.29,Reversed
+C0000730,M00373,Behavioral Health,OptumRx,2026-03-25,199.93,Paid
+C0000731,M00193,Specialty,Costco Pharmacy,2025-11-26,348.95,Paid
+C0000732,M00416,Specialty,Costco Pharmacy,2026-03-23,1145.42,Paid
+C0000733,M00241,Diabetes,Walgreens,2025-09-08,97.9,Paid
+C0000734,M00429,Oncology,Walgreens,2025-09-30,806.48,Paid
+C0000735,M00003,Cardiology,Costco Pharmacy,2025-08-18,76.1,Paid
+C0000736,M00049,Diabetes,CVS,2025-09-19,131.42,Paid
+C0000737,M00291,Behavioral Health,Walgreens,2025-07-08,111.63,Paid
+C0000738,M00425,Behavioral Health,OptumRx,2025-12-04,133.25,Paid
+C0000739,M00210,Behavioral Health,Local Care Pharmacy,2026-05-25,169.17,Paid
+C0000740,M00308,Diabetes,Walgreens,2025-11-21,194.82,Paid
+C0000741,M00053,Diabetes,Express Scripts,2026-05-27,144.4,Paid
+C0000742,M00400,Behavioral Health,Local Care Pharmacy,2026-05-12,180.79,Rejected
+C0000743,M00109,Diabetes,CVS,2025-10-19,207.57,Rejected
+C0000744,M00319,Diabetes,OptumRx,2025-07-01,57.89,Paid
+C0000745,M00027,Diabetes,Local Care Pharmacy,2026-02-03,213.35,Paid
+C0000746,M00156,Oncology,Express Scripts,2026-04-13,394.28,Paid
+C0000747,M00201,Respiratory,OptumRx,2026-03-25,187.03,Paid
+C0000748,M00457,Specialty,Local Care Pharmacy,2025-09-24,418.58,Paid
+C0000749,M00369,Diabetes,Express Scripts,2026-02-12,123.81,Paid
+C0000750,M00130,Respiratory,Local Care Pharmacy,2026-02-08,275.42,Paid
+C0000751,M00013,Behavioral Health,OptumRx,2026-06-09,247.5,Paid
+C0000752,M00111,Specialty,Express Scripts,2025-10-06,1380.38,Paid
+C0000753,M00482,Respiratory,OptumRx,2026-02-12,37.05,Paid
+C0000754,M00003,Specialty,OptumRx,2026-01-05,584.91,Paid
+C0000755,M00007,Specialty,Local Care Pharmacy,2025-11-18,156.68,Paid
+C0000756,M00023,Behavioral Health,Local Care Pharmacy,2025-11-18,207.28,Paid
+C0000757,M00297,Behavioral Health,Costco Pharmacy,2026-02-27,249.58,Paid
+C0000758,M00256,Diabetes,Costco Pharmacy,2026-05-28,199.48,Paid
+C0000759,M00020,Cardiology,Local Care Pharmacy,2025-09-17,199.59,Paid
+C0000760,M00450,Behavioral Health,CVS,2025-08-31,41.85,Paid
+C0000761,M00368,Diabetes,OptumRx,2026-04-05,41.59,Reversed
+C0000762,M00101,Specialty,Local Care Pharmacy,2025-12-18,1178.78,Paid
+C0000763,M00164,Behavioral Health,Local Care Pharmacy,2026-04-27,64.84,Rejected
+C0000764,M00269,Diabetes,Local Care Pharmacy,2026-01-30,178.81,Paid
+C0000765,M00034,Diabetes,Local Care Pharmacy,2025-09-14,202.23,Paid
+C0000766,M00090,Oncology,Local Care Pharmacy,2025-10-10,719.76,Paid
+C0000767,M00090,Specialty,OptumRx,2025-07-02,1330.76,Paid
+C0000768,M00181,Diabetes,Costco Pharmacy,2025-08-14,130.83,Rejected
+C0000769,M00046,Diabetes,Walgreens,2025-08-14,39.92,Paid
+C0000770,M00325,Behavioral Health,Walgreens,2025-07-06,223.9,Paid
+C0000771,M00240,Diabetes,OptumRx,2025-11-04,193.27,Paid
+C0000772,M00333,Behavioral Health,OptumRx,2025-09-06,249.95,Paid
+C0000773,M00366,Cardiology,OptumRx,2026-04-16,102.61,Paid
+C0000774,M00432,Diabetes,OptumRx,2025-09-29,231.82,Paid
+C0000775,M00229,Cardiology,OptumRx,2026-04-23,163.86,Paid
+C0000776,M00333,Specialty,CVS,2025-09-26,1312.43,Rejected
+C0000777,M00304,Cardiology,Local Care Pharmacy,2025-10-16,177.82,Paid
+C0000778,M00335,Respiratory,OptumRx,2025-10-15,379.26,Paid
+C0000779,M00262,Specialty,CVS,2025-11-15,1187.03,Paid
+C0000780,M00109,Cardiology,CVS,2025-07-17,157.42,Paid
+C0000781,M00328,Diabetes,OptumRx,2026-04-27,51.84,Paid
+C0000782,M00196,Specialty,Local Care Pharmacy,2025-12-13,1416.65,Paid
+C0000783,M00185,Behavioral Health,Express Scripts,2026-02-01,21.9,Paid
+C0000784,M00336,Behavioral Health,OptumRx,2025-12-31,69.61,Paid
+C0000785,M00284,Diabetes,Express Scripts,2026-05-12,23.26,Paid
+C0000786,M00360,Cardiology,OptumRx,2025-11-02,137.57,Paid
+C0000787,M00312,Cardiology,CVS,2025-12-01,218.65,Reversed
+C0000788,M00454,Diabetes,CVS,2026-03-17,244.21,Paid
+C0000789,M00401,Cardiology,CVS,2026-04-30,189.3,Paid
+C0000790,M00087,Behavioral Health,Walgreens,2026-03-26,255.81,Rejected
+C0000791,M00295,Respiratory,CVS,2025-12-18,88.98,Reversed
+C0000792,M00160,Respiratory,Express Scripts,2025-12-25,94.02,Paid
+C0000793,M00240,Diabetes,OptumRx,2025-09-27,53.69,Paid
+C0000794,M00096,Diabetes,Local Care Pharmacy,2025-08-16,67.2,Paid
+C0000795,M00355,Specialty,Express Scripts,2025-07-03,1234.18,Paid
+C0000796,M00052,Oncology,Express Scripts,2025-10-17,1565.72,Paid
+C0000797,M00430,Oncology,Express Scripts,2025-08-19,652.32,Paid
+C0000798,M00395,Behavioral Health,OptumRx,2025-12-15,126.25,Paid
+C0000799,M00378,Behavioral Health,CVS,2026-03-31,178.71,Paid
+C0000800,M00347,Respiratory,Costco Pharmacy,2025-10-22,287.85,Paid
+C0000801,M00122,Cardiology,Costco Pharmacy,2025-07-01,120.29,Paid
+C0000802,M00207,Behavioral Health,Express Scripts,2025-09-09,191.65,Paid
+C0000803,M00110,Cardiology,Local Care Pharmacy,2026-01-13,48.56,Paid
+C0000804,M00079,Cardiology,CVS,2026-03-04,133.93,Paid
+C0000805,M00493,Cardiology,Costco Pharmacy,2026-06-15,69.09,Paid
+C0000806,M00243,Respiratory,Local Care Pharmacy,2025-08-21,183.24,Paid
+C0000807,M00416,Respiratory,Costco Pharmacy,2025-09-04,102.48,Paid
+C0000808,M00356,Oncology,Express Scripts,2026-06-09,1152.99,Paid
+C0000809,M00028,Cardiology,CVS,2026-05-21,96.71,Paid
+C0000810,M00415,Behavioral Health,Local Care Pharmacy,2026-02-28,153.45,Paid
+C0000811,M00278,Behavioral Health,Express Scripts,2025-09-30,49.53,Paid
+C0000812,M00200,Behavioral Health,OptumRx,2025-07-04,41.1,Rejected
+C0000813,M00367,Specialty,Local Care Pharmacy,2026-05-11,394.93,Paid
+C0000814,M00226,Diabetes,Express Scripts,2025-09-01,86.17,Paid
+C0000815,M00026,Behavioral Health,Express Scripts,2025-11-07,202.52,Paid
+C0000816,M00153,Respiratory,Walgreens,2025-11-14,42.65,Paid
+C0000817,M00217,Diabetes,CVS,2026-05-22,96.56,Paid
+C0000818,M00184,Respiratory,Walgreens,2026-01-19,263.82,Paid
+C0000819,M00278,Diabetes,Express Scripts,2026-05-21,193.88,Paid
+C0000820,M00142,Cardiology,Walgreens,2026-05-13,154.61,Rejected
+C0000821,M00467,Behavioral Health,Costco Pharmacy,2026-03-26,214.84,Paid
+C0000822,M00040,Cardiology,Local Care Pharmacy,2026-05-08,32.72,Paid
+C0000823,M00456,Diabetes,OptumRx,2025-08-10,142.06,Rejected
+C0000824,M00388,Cardiology,Local Care Pharmacy,2025-10-03,137.97,Paid
+C0000825,M00339,Respiratory,CVS,2026-02-07,66.94,Paid
+C0000826,M00297,Cardiology,Costco Pharmacy,2026-03-21,109.65,Paid
+C0000827,M00126,Respiratory,Express Scripts,2026-04-20,53.67,Paid
+C0000828,M00483,Cardiology,OptumRx,2025-10-04,238.49,Paid
+C0000829,M00024,Specialty,OptumRx,2026-06-13,1428.95,Paid
+C0000830,M00212,Diabetes,Walgreens,2026-06-02,207.26,Paid
+C0000831,M00241,Specialty,CVS,2025-12-10,1525.0,Paid
+C0000832,M00010,Respiratory,OptumRx,2026-05-10,128.69,Paid
+C0000833,M00316,Behavioral Health,Costco Pharmacy,2026-05-22,176.3,Paid
+C0000834,M00203,Oncology,OptumRx,2025-12-23,1300.1,Paid
+C0000835,M00426,Oncology,Walgreens,2026-03-13,1103.23,Paid
+C0000836,M00089,Specialty,Local Care Pharmacy,2025-07-17,479.27,Paid
+C0000837,M00500,Diabetes,CVS,2025-12-24,135.74,Paid
+C0000838,M00276,Cardiology,Express Scripts,2025-12-09,106.35,Paid
+C0000839,M00016,Diabetes,OptumRx,2026-05-16,159.55,Paid
+C0000840,M00216,Behavioral Health,Costco Pharmacy,2025-11-23,26.03,Paid
+C0000841,M00122,Cardiology,Costco Pharmacy,2026-01-10,177.72,Rejected
+C0000842,M00064,Diabetes,Costco Pharmacy,2025-08-26,70.83,Paid
+C0000843,M00447,Diabetes,Costco Pharmacy,2026-01-22,206.16,Paid
+C0000844,M00389,Diabetes,OptumRx,2025-11-20,235.91,Paid
+C0000845,M00327,Diabetes,Local Care Pharmacy,2026-05-21,232.11,Paid
+C0000846,M00279,Specialty,Express Scripts,2026-01-23,434.84,Paid
+C0000847,M00148,Behavioral Health,Express Scripts,2025-09-29,139.45,Paid
+C0000848,M00277,Behavioral Health,Walgreens,2026-06-01,222.89,Paid
+C0000849,M00051,Cardiology,Express Scripts,2026-01-31,211.26,Paid
+C0000850,M00015,Specialty,Costco Pharmacy,2026-05-14,309.21,Reversed
+C0000851,M00311,Specialty,OptumRx,2025-07-12,701.54,Paid
+C0000852,M00087,Specialty,OptumRx,2025-08-16,793.22,Paid
+C0000853,M00312,Behavioral Health,Costco Pharmacy,2026-04-09,193.93,Paid
+C0000854,M00440,Behavioral Health,Walgreens,2025-10-31,141.66,Paid
+C0000855,M00369,Behavioral Health,CVS,2025-11-28,105.71,Rejected
+C0000856,M00107,Specialty,Costco Pharmacy,2026-06-16,774.75,Paid
+C0000857,M00125,Respiratory,Local Care Pharmacy,2026-03-14,456.15,Paid
+C0000858,M00314,Behavioral Health,Walgreens,2025-09-20,251.95,Paid
+C0000859,M00497,Diabetes,Local Care Pharmacy,2026-06-15,199.16,Paid
+C0000860,M00271,Behavioral Health,Express Scripts,2025-08-06,249.31,Rejected
+C0000861,M00457,Respiratory,Local Care Pharmacy,2026-05-07,85.1,Reversed
+C0000862,M00370,Diabetes,OptumRx,2025-07-31,134.36,Paid
+C0000863,M00429,Behavioral Health,Express Scripts,2026-01-03,224.44,Paid
+C0000864,M00266,Specialty,CVS,2025-09-02,746.95,Paid
+C0000865,M00136,Respiratory,Local Care Pharmacy,2025-08-27,284.97,Paid
+C0000866,M00215,Specialty,Express Scripts,2025-11-02,314.11,Paid
+C0000867,M00050,Cardiology,Local Care Pharmacy,2026-02-20,223.06,Paid
+C0000868,M00127,Respiratory,OptumRx,2026-02-13,181.57,Paid
+C0000869,M00363,Cardiology,Walgreens,2025-07-19,101.55,Paid
+C0000870,M00149,Diabetes,OptumRx,2026-04-15,231.0,Paid
+C0000871,M00159,Behavioral Health,OptumRx,2026-05-21,61.94,Paid
+C0000872,M00229,Specialty,Walgreens,2025-09-04,332.25,Paid
+C0000873,M00444,Cardiology,Walgreens,2025-07-15,206.52,Paid
+C0000874,M00077,Specialty,Local Care Pharmacy,2026-03-18,484.68,Paid
+C0000875,M00269,Cardiology,OptumRx,2025-09-26,201.2,Paid
+C0000876,M00305,Behavioral Health,Express Scripts,2026-01-08,103.47,Paid
+C0000877,M00253,Specialty,Walgreens,2026-03-04,1372.38,Paid
+C0000878,M00197,Diabetes,Walgreens,2025-12-23,247.16,Paid
+C0000879,M00116,Diabetes,Local Care Pharmacy,2025-08-31,165.29,Paid
+C0000880,M00260,Oncology,Local Care Pharmacy,2025-07-07,2030.43,Paid
+C0000881,M00405,Respiratory,OptumRx,2025-10-12,423.63,Paid
+C0000882,M00208,Specialty,CVS,2026-03-17,1490.35,Paid
+C0000883,M00497,Specialty,CVS,2025-08-10,1184.31,Paid
+C0000884,M00272,Cardiology,Local Care Pharmacy,2025-10-02,95.96,Rejected
+C0000885,M00444,Cardiology,Walgreens,2026-02-19,221.87,Paid
+C0000886,M00316,Cardiology,Local Care Pharmacy,2025-10-06,102.18,Paid
+C0000887,M00033,Behavioral Health,CVS,2025-12-03,55.08,Paid
+C0000888,M00126,Specialty,CVS,2026-02-23,952.0,Paid
+C0000889,M00405,Diabetes,Walgreens,2025-08-07,209.18,Paid
+C0000890,M00230,Diabetes,Costco Pharmacy,2026-04-04,65.77,Paid
+C0000891,M00254,Cardiology,CVS,2026-02-06,24.39,Paid
+C0000892,M00230,Respiratory,Costco Pharmacy,2026-05-22,117.25,Paid
+C0000893,M00001,Cardiology,Express Scripts,2025-11-16,139.84,Paid
+C0000894,M00170,Oncology,OptumRx,2026-05-27,1210.71,Paid
+C0000895,M00277,Cardiology,Costco Pharmacy,2026-04-14,101.54,Paid
+C0000896,M00229,Diabetes,Express Scripts,2025-10-02,201.1,Paid
+C0000897,M00462,Behavioral Health,Walgreens,2025-09-22,145.05,Paid
+C0000898,M00225,Specialty,OptumRx,2026-02-12,245.31,Paid
+C0000899,M00280,Behavioral Health,Walgreens,2025-08-25,71.34,Paid
+C0000900,M00261,Cardiology,CVS,2026-02-27,244.17,Paid
+C0000901,M00479,Specialty,OptumRx,2025-09-18,937.1,Paid
+C0000902,M00397,Cardiology,Costco Pharmacy,2025-09-19,71.48,Paid
+C0000903,M00168,Behavioral Health,Costco Pharmacy,2026-05-31,280.98,Paid
+C0000904,M00404,Respiratory,Express Scripts,2025-11-12,132.03,Rejected
+C0000905,M00432,Cardiology,Local Care Pharmacy,2025-12-18,63.7,Paid
+C0000906,M00386,Cardiology,Express Scripts,2026-04-15,111.05,Paid
+C0000907,M00003,Respiratory,OptumRx,2026-01-26,208.42,Paid
+C0000908,M00073,Behavioral Health,Local Care Pharmacy,2025-07-10,223.99,Paid
+C0000909,M00343,Respiratory,CVS,2026-01-08,160.81,Paid
+C0000910,M00409,Cardiology,Walgreens,2025-10-11,183.66,Paid
+C0000911,M00229,Behavioral Health,Walgreens,2025-11-02,48.24,Paid
+C0000912,M00250,Behavioral Health,Local Care Pharmacy,2025-07-24,177.64,Paid
+C0000913,M00496,Behavioral Health,Costco Pharmacy,2025-11-21,149.45,Paid
+C0000914,M00031,Diabetes,Costco Pharmacy,2025-11-19,172.79,Paid
+C0000915,M00477,Cardiology,OptumRx,2025-08-07,158.62,Reversed
+C0000916,M00380,Cardiology,Costco Pharmacy,2025-09-16,65.67,Paid
+C0000917,M00104,Specialty,Costco Pharmacy,2025-12-15,744.36,Paid
+C0000918,M00343,Cardiology,Local Care Pharmacy,2025-11-27,175.81,Paid
+C0000919,M00400,Respiratory,OptumRx,2025-12-08,411.69,Rejected
+C0000920,M00232,Respiratory,Express Scripts,2025-12-12,125.97,Paid
+C0000921,M00187,Cardiology,OptumRx,2025-11-10,218.4,Paid
+C0000922,M00482,Diabetes,Express Scripts,2026-01-27,46.84,Paid
+C0000923,M00254,Respiratory,Costco Pharmacy,2025-07-31,394.68,Paid
+C0000924,M00294,Cardiology,OptumRx,2026-03-16,30.92,Paid
+C0000925,M00256,Cardiology,Local Care Pharmacy,2025-08-04,118.52,Paid
+C0000926,M00048,Behavioral Health,Walgreens,2026-03-30,227.59,Paid
+C0000927,M00438,Behavioral Health,Costco Pharmacy,2026-02-25,172.58,Paid
+C0000928,M00099,Respiratory,OptumRx,2026-02-06,366.56,Paid
+C0000929,M00460,Behavioral Health,OptumRx,2026-05-30,216.5,Paid
+C0000930,M00336,Specialty,CVS,2026-02-07,767.28,Paid
+C0000931,M00152,Diabetes,CVS,2025-07-10,218.43,Paid
+C0000932,M00222,Diabetes,Local Care Pharmacy,2026-04-26,225.05,Paid
+C0000933,M00277,Oncology,OptumRx,2026-04-21,1521.73,Rejected
+C0000934,M00371,Behavioral Health,Walgreens,2025-09-14,60.42,Paid
+C0000935,M00052,Diabetes,Walgreens,2025-07-21,163.66,Paid
+C0000936,M00493,Diabetes,Local Care Pharmacy,2025-10-26,228.67,Paid
+C0000937,M00157,Diabetes,Walgreens,2025-10-28,257.82,Paid
+C0000938,M00014,Diabetes,CVS,2026-02-11,235.53,Paid
+C0000939,M00195,Diabetes,Express Scripts,2025-10-15,227.94,Paid
+C0000940,M00228,Cardiology,Costco Pharmacy,2026-01-11,81.32,Paid
+C0000941,M00048,Behavioral Health,Local Care Pharmacy,2026-04-23,154.68,Paid
+C0000942,M00085,Respiratory,Local Care Pharmacy,2026-03-08,84.83,Paid
+C0000943,M00388,Behavioral Health,CVS,2025-10-16,130.31,Paid
+C0000944,M00186,Oncology,CVS,2026-02-19,1199.47,Paid
+C0000945,M00416,Cardiology,OptumRx,2025-08-21,300.84,Paid
+C0000946,M00160,Behavioral Health,OptumRx,2026-05-30,135.37,Paid
+C0000947,M00364,Diabetes,Express Scripts,2026-01-16,173.75,Paid
+C0000948,M00498,Cardiology,CVS,2025-12-13,209.59,Paid
+C0000949,M00129,Diabetes,Walgreens,2026-03-23,20.24,Paid
+C0000950,M00245,Respiratory,Local Care Pharmacy,2025-10-16,59.05,Paid
+C0000951,M00193,Specialty,Walgreens,2026-01-31,1303.36,Paid
+C0000952,M00270,Behavioral Health,Walgreens,2026-06-08,217.31,Paid
+C0000953,M00478,Diabetes,Walgreens,2026-03-12,57.29,Paid
+C0000954,M00325,Cardiology,OptumRx,2026-05-15,265.95,Paid
+C0000955,M00014,Cardiology,Local Care Pharmacy,2025-07-18,279.71,Paid
+C0000956,M00472,Cardiology,Local Care Pharmacy,2026-05-03,178.26,Paid
+C0000957,M00082,Diabetes,CVS,2025-10-23,102.38,Paid
+C0000958,M00034,Diabetes,Costco Pharmacy,2026-01-29,133.12,Paid
+C0000959,M00443,Specialty,Express Scripts,2025-12-07,1032.71,Paid
+C0000960,M00467,Cardiology,OptumRx,2026-04-03,115.36,Rejected
+C0000961,M00347,Respiratory,Walgreens,2026-04-19,240.53,Paid
+C0000962,M00268,Diabetes,Local Care Pharmacy,2025-10-24,246.03,Paid
+C0000963,M00049,Respiratory,CVS,2026-05-11,155.37,Paid
+C0000964,M00130,Diabetes,Local Care Pharmacy,2025-12-16,177.57,Reversed
+C0000965,M00347,Specialty,Walgreens,2025-11-14,858.55,Paid
+C0000966,M00194,Specialty,Local Care Pharmacy,2025-07-18,949.24,Rejected
+C0000967,M00201,Specialty,CVS,2025-10-02,1261.17,Paid
+C0000968,M00018,Behavioral Health,OptumRx,2026-01-20,83.11,Paid
+C0000969,M00251,Oncology,Costco Pharmacy,2026-05-18,860.41,Paid
+C0000970,M00111,Oncology,CVS,2026-02-11,693.59,Paid
+C0000971,M00340,Respiratory,Walgreens,2025-12-20,434.84,Paid
+C0000972,M00418,Behavioral Health,Local Care Pharmacy,2026-02-19,225.31,Paid
+C0000973,M00443,Cardiology,OptumRx,2025-08-02,172.34,Paid
+C0000974,M00014,Behavioral Health,Express Scripts,2025-10-25,53.4,Paid
+C0000975,M00062,Specialty,OptumRx,2025-12-25,537.38,Paid
+C0000976,M00288,Behavioral Health,Walgreens,2026-03-16,41.89,Paid
+C0000977,M00486,Behavioral Health,Local Care Pharmacy,2025-09-11,155.8,Paid
+C0000978,M00009,Diabetes,Costco Pharmacy,2026-03-27,198.19,Paid
+C0000979,M00293,Behavioral Health,OptumRx,2026-03-30,159.57,Paid
+C0000980,M00360,Behavioral Health,Walgreens,2026-01-08,161.12,Paid
+C0000981,M00086,Specialty,Local Care Pharmacy,2025-10-24,1355.18,Paid
+C0000982,M00487,Behavioral Health,OptumRx,2025-10-12,132.67,Paid
+C0000983,M00490,Cardiology,Express Scripts,2026-03-25,134.79,Rejected
+C0000984,M00244,Cardiology,CVS,2025-12-01,231.14,Paid
+C0000985,M00367,Specialty,Costco Pharmacy,2026-05-10,560.45,Rejected
+C0000986,M00031,Respiratory,Walgreens,2026-03-04,93.52,Paid
+C0000987,M00418,Behavioral Health,Walgreens,2026-01-17,280.24,Paid
+C0000988,M00204,Specialty,CVS,2025-12-27,468.93,Paid
+C0000989,M00490,Cardiology,Local Care Pharmacy,2025-09-02,280.82,Paid
+C0000990,M00488,Specialty,Local Care Pharmacy,2025-09-11,406.87,Paid
+C0000991,M00169,Diabetes,Costco Pharmacy,2025-12-07,46.38,Paid
+C0000992,M00326,Specialty,OptumRx,2026-02-10,445.13,Paid
+C0000993,M00282,Respiratory,Local Care Pharmacy,2025-08-06,230.32,Paid
+C0000994,M00141,Behavioral Health,CVS,2025-11-08,30.71,Paid
+C0000995,M00222,Specialty,OptumRx,2026-03-07,1380.3,Paid
+C0000996,M00053,Diabetes,OptumRx,2026-05-03,195.09,Paid
+C0000997,M00440,Specialty,Express Scripts,2026-02-07,1322.9,Paid
+C0000998,M00054,Behavioral Health,OptumRx,2025-11-19,94.39,Paid
+C0000999,M00170,Cardiology,CVS,2025-12-30,264.46,Paid
+C0001000,M00370,Respiratory,Walgreens,2026-03-11,138.14,Paid
+C0001001,M00345,Cardiology,Costco Pharmacy,2026-03-07,311.22,Paid
+C0001002,M00294,Cardiology,Express Scripts,2026-06-07,172.31,Paid
+C0001003,M00056,Specialty,Costco Pharmacy,2025-08-20,1260.31,Paid
+C0001004,M00499,Respiratory,Local Care Pharmacy,2026-06-10,189.52,Rejected
+C0001005,M00219,Respiratory,OptumRx,2025-07-21,345.29,Paid
+C0001006,M00229,Behavioral Health,CVS,2026-03-25,172.42,Rejected
+C0001007,M00421,Respiratory,Local Care Pharmacy,2026-02-07,356.65,Rejected
+C0001008,M00112,Specialty,CVS,2025-12-16,143.06,Paid
+C0001009,M00215,Respiratory,OptumRx,2025-11-07,349.98,Paid
+C0001010,M00178,Cardiology,Express Scripts,2025-11-19,302.01,Paid
+C0001011,M00168,Oncology,Walgreens,2025-11-12,2191.44,Paid
+C0001012,M00399,Behavioral Health,OptumRx,2026-01-22,192.37,Paid
+C0001013,M00090,Behavioral Health,OptumRx,2025-12-18,247.84,Paid
+C0001014,M00383,Respiratory,OptumRx,2025-12-10,453.15,Paid
+C0001015,M00374,Diabetes,Express Scripts,2026-05-15,116.27,Paid
+C0001016,M00392,Cardiology,OptumRx,2026-03-06,98.46,Paid
+C0001017,M00228,Behavioral Health,OptumRx,2025-09-25,220.72,Paid
+C0001018,M00099,Specialty,Costco Pharmacy,2026-05-25,1427.62,Paid
+C0001019,M00291,Specialty,Walgreens,2025-08-08,685.85,Paid
+C0001020,M00369,Specialty,OptumRx,2026-01-24,1381.31,Paid
+C0001021,M00176,Specialty,CVS,2026-01-14,684.09,Paid
+C0001022,M00381,Respiratory,Costco Pharmacy,2025-11-28,418.97,Paid
+C0001023,M00043,Cardiology,Walgreens,2025-07-21,86.89,Paid
+C0001024,M00346,Behavioral Health,Local Care Pharmacy,2025-10-23,26.82,Reversed
+C0001025,M00127,Behavioral Health,Walgreens,2025-10-19,137.02,Paid
+C0001026,M00126,Behavioral Health,Express Scripts,2026-03-05,248.07,Paid
+C0001027,M00287,Behavioral Health,Costco Pharmacy,2025-10-04,70.97,Paid
+C0001028,M00326,Specialty,Local Care Pharmacy,2026-01-15,1418.2,Paid
+C0001029,M00412,Behavioral Health,Express Scripts,2025-11-12,233.67,Paid
+C0001030,M00465,Behavioral Health,OptumRx,2026-04-03,82.28,Paid
+C0001031,M00359,Diabetes,Costco Pharmacy,2025-11-04,,Paid
+C0001032,M00050,Behavioral Health,Local Care Pharmacy,2026-03-17,228.56,Paid
+C0001033,M00162,Diabetes,Local Care Pharmacy,2025-10-25,217.96,Paid
+C0001034,M00364,Specialty,Express Scripts,2025-10-23,912.51,Paid
+C0001035,M00433,Diabetes,Costco Pharmacy,2026-03-12,167.75,Paid
+C0001036,M00493,Behavioral Health,Costco Pharmacy,2026-02-15,25.69,Paid
+C0001037,M00463,Cardiology,CVS,2025-09-14,273.54,Paid
+C0001038,M00034,Behavioral Health,Local Care Pharmacy,2025-11-07,93.3,Paid
+C0001039,M00311,Oncology,Express Scripts,2025-09-07,1601.58,Paid
+C0001040,M00236,Cardiology,OptumRx,2025-12-03,224.07,Paid
+C0001041,M00413,Behavioral Health,Costco Pharmacy,2025-09-12,271.7,Reversed
+C0001042,M00305,Cardiology,CVS,2026-05-09,23.57,Paid
+C0001043,M00185,Specialty,Costco Pharmacy,2025-08-06,1232.75,Paid
+C0001044,M00215,Respiratory,Costco Pharmacy,2025-11-05,351.5,Paid
+C0001045,M00093,Behavioral Health,Local Care Pharmacy,2026-03-11,27.65,Paid
+C0001046,M00046,Diabetes,Express Scripts,2026-06-16,115.66,Paid
+C0001047,M00198,Respiratory,Walgreens,2025-12-23,92.73,Paid
+C0001048,M00183,Diabetes,Express Scripts,2025-11-07,122.15,Paid
+C0001049,M00135,Cardiology,Local Care Pharmacy,2026-05-28,87.42,Paid
+C0001050,M00236,Respiratory,Costco Pharmacy,2025-07-11,260.6,Paid
+C0001051,M00290,Diabetes,CVS,2025-09-25,108.3,Reversed
+C0001052,M00275,Diabetes,CVS,2025-12-04,97.1,Paid
+C0001053,M00295,Specialty,Walgreens,2025-09-27,1355.79,Paid
+C0001054,M00260,Diabetes,CVS,2025-12-24,70.85,Paid
+C0001055,M00472,Diabetes,Express Scripts,2025-09-29,108.55,Paid
+C0001056,M00455,Respiratory,CVS,2026-02-13,253.39,Paid
+C0001057,M00483,Specialty,OptumRx,2025-08-31,1499.06,Rejected
+C0001058,M00056,Cardiology,Walgreens,2026-03-23,73.99,Rejected
+C0001059,M00259,Diabetes,OptumRx,2026-05-10,55.57,Rejected
+C0001060,M00480,Specialty,CVS,2026-02-15,1315.73,Paid
+C0001061,M00034,Cardiology,Express Scripts,2025-10-31,127.8,Paid
+C0001062,M00210,Diabetes,Local Care Pharmacy,2026-03-03,32.19,Paid
+C0001063,M00434,Specialty,Local Care Pharmacy,2025-08-16,1338.97,Paid
+C0001064,M00471,Specialty,Costco Pharmacy,2026-03-30,943.03,Paid
+C0001065,M00284,Specialty,Express Scripts,2025-09-08,518.28,Paid
+C0001066,M00151,Behavioral Health,Express Scripts,2026-02-08,133.29,Paid
+C0001067,M00013,Oncology,Costco Pharmacy,2026-03-05,814.36,Paid
+C0001068,M00259,Behavioral Health,Local Care Pharmacy,2026-06-16,224.97,Paid
+C0001069,M00430,Diabetes,Costco Pharmacy,2025-12-05,247.12,Paid
+C0001070,M00297,Specialty,Costco Pharmacy,2025-07-25,1038.63,Paid
+C0001071,M00499,Cardiology,CVS,2026-04-02,76.26,Paid
+C0001072,M00355,Behavioral Health,Walgreens,2026-03-26,216.4,Paid
+C0001073,M00353,Respiratory,Express Scripts,2025-08-20,429.08,Rejected
+C0001074,M00461,Diabetes,Express Scripts,2025-10-13,95.52,Paid
+C0001075,M00332,Specialty,Walgreens,2026-01-12,173.68,Rejected
+C0001076,M00060,Behavioral Health,Local Care Pharmacy,2025-11-01,21.06,Paid
+C0001077,M00430,Cardiology,Walgreens,2026-01-16,73.02,Paid
+C0001078,M00433,Cardiology,Walgreens,2026-05-03,66.88,Paid
+C0001079,M00134,Behavioral Health,Local Care Pharmacy,2026-04-19,132.36,Paid
+C0001080,M00325,Cardiology,Local Care Pharmacy,2026-05-31,294.66,Rejected
+C0001081,M00213,Respiratory,Express Scripts,2026-01-28,213.56,Paid
+C0001082,M00466,Diabetes,Costco Pharmacy,2025-11-07,206.57,Paid
+C0001083,M00359,Cardiology,Walgreens,2026-02-15,223.72,Paid
+C0001084,M00116,Diabetes,Express Scripts,2025-09-20,45.68,Paid
+C0001085,M00279,Cardiology,Local Care Pharmacy,2025-11-09,295.59,Paid
+C0001086,M00360,Cardiology,Costco Pharmacy,2025-11-23,177.33,Paid
+C0001087,M00394,Diabetes,CVS,2025-10-12,217.14,Paid
+C0001088,M00259,Diabetes,Express Scripts,2025-07-19,143.41,Paid
+C0001089,M00058,Diabetes,CVS,2025-10-03,219.61,Paid
+C0001090,M00417,Diabetes,Express Scripts,2026-01-06,123.5,Paid
+C0001091,M00230,Specialty,Walgreens,2026-03-15,167.61,Paid
+C0001092,M00376,Cardiology,OptumRx,2025-09-17,186.78,Paid
+C0001093,M00130,Behavioral Health,Local Care Pharmacy,2025-10-11,113.0,Paid
+C0001094,M00197,Diabetes,Walgreens,2025-08-02,88.62,Paid
+C0001095,M00101,Cardiology,Express Scripts,2025-07-13,231.03,Paid
+C0001096,M00127,Specialty,Walgreens,2025-09-21,525.9,Paid
+C0001097,M00164,Diabetes,Costco Pharmacy,2026-01-26,183.71,Paid
+C0001098,M00321,Respiratory,OptumRx,2025-12-12,347.81,Paid
+C0001099,M00466,Diabetes,CVS,2026-01-12,74.55,Paid
+C0001100,M00421,Cardiology,Local Care Pharmacy,2025-10-23,186.24,Paid
+C0001101,M00284,Diabetes,Costco Pharmacy,2026-03-01,175.02,Paid
+C0001102,M00146,Respiratory,Local Care Pharmacy,2025-10-30,200.88,Paid
+C0001103,M00130,Cardiology,Express Scripts,2026-02-18,308.51,Rejected
+C0001104,M00080,Oncology,Walgreens,2025-10-23,1962.02,Paid
+C0001105,M00379,Diabetes,Walgreens,2025-11-09,252.1,Paid
+C0001106,M00011,Cardiology,Express Scripts,2025-07-22,108.68,Paid
+C0001107,M00455,Specialty,Walgreens,2026-01-22,437.58,Paid
+C0001108,M00182,Diabetes,Express Scripts,2026-01-30,116.2,Paid
+C0001109,M00231,Behavioral Health,OptumRx,2025-12-20,143.19,Paid
+C0001110,M00069,Respiratory,Local Care Pharmacy,2025-10-20,,Paid
+C0001111,M00101,Behavioral Health,OptumRx,2026-05-13,213.94,Rejected
+C0001112,M00285,Behavioral Health,Local Care Pharmacy,2026-01-08,230.65,Paid
+C0001113,M00205,Diabetes,Express Scripts,2026-05-30,44.29,Paid
+C0001114,M00431,Behavioral Health,CVS,2026-01-28,251.42,Paid
+C0001115,M00174,Specialty,Costco Pharmacy,2026-01-13,335.56,Paid
+C0001116,M00487,Oncology,Costco Pharmacy,2026-01-14,1580.5,Paid
+C0001117,M00141,Behavioral Health,Local Care Pharmacy,2025-09-18,200.98,Paid
+C0001118,M00405,Respiratory,Express Scripts,2025-12-10,98.04,Paid
+C0001119,M00383,Diabetes,Costco Pharmacy,2025-12-09,243.36,Rejected
+C0001120,M00318,Specialty,Local Care Pharmacy,2025-07-19,1019.98,Paid
+C0001121,M00034,Diabetes,OptumRx,2025-07-28,,Paid
+C0001122,M00162,Behavioral Health,Walgreens,2025-09-16,114.75,Paid
+C0001123,M00034,Cardiology,Express Scripts,2026-02-31,285.64,Paid
+C0001124,M00365,Diabetes,Walgreens,2026-04-14,91.38,Rejected
+C0001125,M00079,Diabetes,Express Scripts,2026-05-13,46.66,Paid
+C0001126,M00287,Specialty,Local Care Pharmacy,2025-11-21,1124.2,Paid
+C0001127,M00129,Behavioral Health,Express Scripts,2025-09-14,196.52,Paid
+C0001128,M00021,Diabetes,Express Scripts,2026-01-11,110.19,Paid
+C0001129,M00011,Specialty,Express Scripts,2026-01-02,1542.25,Paid
+C0001130,M00095,Oncology,Local Care Pharmacy,2026-03-09,193.85,Paid
+C0001131,M00458,Cardiology,CVS,2026-01-06,46.29,Paid
+C0001132,M00324,Cardiology,CVS,2025-09-15,135.91,Reversed
+C0001133,M00409,Behavioral Health,OptumRx,2026-05-21,72.28,Paid
+C0001134,M00410,Behavioral Health,Express Scripts,2026-05-05,41.91,Paid
+C0001135,M00461,Specialty,OptumRx,2026-01-03,1547.95,Paid
+C0001136,M00145,Behavioral Health,Express Scripts,2025-07-13,260.52,Paid
+C0001137,M00087,Diabetes,OptumRx,2025-12-04,75.79,Paid
+C0001138,M00225,Cardiology,Express Scripts,2026-06-02,100.83,Paid
+C0001139,M00172,Specialty,CVS,2026-05-16,297.7,Paid
+C0001140,M00010,Cardiology,Express Scripts,2026-02-26,79.58,Paid
+C0001141,M00360,Specialty,OptumRx,2025-12-19,1119.84,Paid
+C0001142,M00442,Behavioral Health,Walgreens,2025-12-23,132.81,Rejected
+C0001143,M00373,Cardiology,OptumRx,2025-11-22,77.62,Paid
+C0001144,M00234,Behavioral Health,OptumRx,2026-06-07,42.37,Paid
+C0001145,M00463,Diabetes,Walgreens,2025-08-24,214.2,Paid
+C0001146,M00194,Diabetes,CVS,2025-10-30,156.4,Paid
+C0001147,M00005,Respiratory,Costco Pharmacy,2025-12-22,353.22,Paid
+C0001148,M00303,Specialty,Local Care Pharmacy,2026-02-21,1373.2,Paid
+C0001149,M00407,Specialty,Local Care Pharmacy,2025-07-29,997.44,Paid
+C0001150,M00475,Respiratory,Local Care Pharmacy,2025-08-16,67.75,Rejected
+C0001151,M00002,Cardiology,CVS,2025-10-16,220.7,Paid
+C0001152,M00202,Cardiology,Walgreens,2026-03-01,175.32,Paid
+C0001153,M00258,Specialty,Local Care Pharmacy,2025-11-25,378.17,Paid
+C0001154,M00447,Behavioral Health,CVS,2026-03-17,137.6,Paid
+C0001155,M00103,Cardiology,Walgreens,2026-04-21,276.62,Paid
+C0001156,M00364,Respiratory,Walgreens,2025-12-12,114.38,Paid
+C0001157,M00330,Behavioral Health,Costco Pharmacy,2026-01-28,98.79,Paid
+C0001158,M00113,Cardiology,Costco Pharmacy,2025-11-01,261.03,Paid
+C0001159,M00460,Behavioral Health,CVS,2025-09-21,86.79,Paid
+C0001160,M00257,Cardiology,Express Scripts,2026-05-14,234.44,Paid
+C0001161,M00396,Behavioral Health,CVS,2026-06-11,138.51,Paid
+C0001162,M00399,Behavioral Health,Costco Pharmacy,2026-06-14,116.03,Paid
+C0001163,M00034,Specialty,Express Scripts,2025-12-11,1163.82,Paid
+C0001164,M00420,Oncology,OptumRx,2026-03-08,1180.87,Paid
+C0001165,M00386,Diabetes,Local Care Pharmacy,2025-07-22,160.11,Paid
+C0001166,M00243,Behavioral Health,Express Scripts,2026-01-23,106.15,Paid
+C0001167,M00242,Oncology,Express Scripts,2026-01-14,445.26,Rejected
+C0001168,M00452,Diabetes,Walgreens,2026-05-20,94.65,Paid
+C0001169,M00008,Cardiology,Walgreens,2025-09-27,258.97,Paid
+C0001170,M00096,Diabetes,Walgreens,2026-02-27,21.97,Paid
+C0001171,M00103,Diabetes,Costco Pharmacy,2025-12-03,112.92,Paid
+C0001172,M00099,Oncology,Express Scripts,2026-02-07,1641.71,Rejected
+C0001173,M00083,Oncology,CVS,2025-12-28,1522.53,Paid
+C0001174,M00167,Respiratory,Walgreens,2025-09-11,297.17,Paid
+C0001175,M00258,Respiratory,OptumRx,2025-07-07,213.76,Paid
+C0001176,M00175,Specialty,Costco Pharmacy,2026-02-05,1101.25,Paid
+C0001177,M00067,Specialty,Local Care Pharmacy,2026-01-08,603.27,Paid
+C0001178,M00191,Specialty,Express Scripts,2025-07-10,795.56,Paid
+C0001179,M00128,Diabetes,OptumRx,2025-10-28,96.94,Paid
+C0001180,M00466,Behavioral Health,OptumRx,2026-04-11,229.25,Paid
+C0001181,M00171,Respiratory,Local Care Pharmacy,2025-12-12,425.25,Paid
+C0001182,M00471,Diabetes,Walgreens,2025-10-30,161.47,Paid
+C0001183,M00245,Behavioral Health,Express Scripts,2025-08-18,103.24,Paid
+C0001184,M00324,Cardiology,Costco Pharmacy,2026-02-22,175.29,Rejected
+C0001185,M00489,Behavioral Health,Express Scripts,2026-02-16,90.61,Paid
+C0001186,M00410,Respiratory,CVS,2026-01-03,342.51,Paid
+C0001187,M00116,Specialty,Express Scripts,2026-05-14,583.12,Paid
+C0001188,M00406,Cardiology,Costco Pharmacy,2025-12-08,114.54,Rejected
+C0001189,M00104,Behavioral Health,Costco Pharmacy,2026-05-02,191.72,Paid
+C0001190,M00380,Diabetes,Costco Pharmacy,2026-03-26,232.11,Paid
+C0001191,M00409,Cardiology,OptumRx,2025-07-06,225.07,Paid
+C0001192,M00075,Cardiology,Express Scripts,2026-05-26,29.97,Paid
+C0001193,M00243,Respiratory,Local Care Pharmacy,2026-02-14,464.94,Paid
+C0001194,M00082,Specialty,OptumRx,2025-08-25,1209.29,Paid
+C0001195,M00103,Respiratory,Costco Pharmacy,2025-09-22,229.87,Paid
+C0001196,M00494,Diabetes,Costco Pharmacy,2025-12-15,30.69,Paid
+C0001197,M00074,Cardiology,CVS,2026-04-08,230.83,Paid
+C0001198,M00335,Cardiology,CVS,2026-05-10,73.29,Paid
+C0001199,M00167,Specialty,CVS,2026-03-19,933.51,Paid
+C0001200,M00370,Diabetes,Walgreens,2025-08-04,33.46,Paid
+C0001201,M00272,Diabetes,OptumRx,2025-08-17,190.75,Reversed
+C0001202,M00175,Diabetes,Express Scripts,2025-08-05,101.14,Paid
+C0001203,M00032,Specialty,Local Care Pharmacy,2026-01-19,1039.92,Paid
+C0001204,M00426,Diabetes,CVS,2025-09-20,68.16,Paid
+C0001205,M00449,Cardiology,Local Care Pharmacy,2026-02-31,91.08,Paid
+C0001206,M00027,Specialty,CVS,2026-03-03,1120.46,Paid
+C0001207,M00393,Diabetes,Costco Pharmacy,2025-09-09,54.94,Paid
+C0001208,M00202,Respiratory,Costco Pharmacy,2025-07-10,324.37,Paid
+C0001209,M00257,Diabetes,Costco Pharmacy,2026-01-29,190.97,Paid
+C0001210,M00104,Specialty,Express Scripts,2026-04-25,411.23,Paid
+C0001211,M00364,Diabetes,Walgreens,2026-03-18,231.36,Paid
+C0001212,M00079,Specialty,OptumRx,2026-05-15,1436.87,Paid
+C0001213,M00194,Oncology,Costco Pharmacy,2025-10-12,481.84,Paid
+C0001214,M00102,Cardiology,Local Care Pharmacy,2025-08-31,97.2,Paid
+C0001215,M00015,Oncology,Costco Pharmacy,2026-06-09,2143.63,Paid
+C0001216,M00106,Diabetes,Local Care Pharmacy,2025-08-24,28.08,Rejected
+C0001217,M00107,Diabetes,Local Care Pharmacy,2025-11-30,155.99,Paid
+C0001218,M00458,Specialty,CVS,2026-02-23,548.49,Paid
+C0001219,M00119,Specialty,Walgreens,2025-11-07,1392.12,Paid
+C0001220,M00160,Diabetes,Walgreens,2025-12-18,218.76,Paid
+C0001221,M00373,Cardiology,Costco Pharmacy,2026-01-17,116.66,Paid
+C0001222,M00476,Oncology,Local Care Pharmacy,2025-11-24,1306.63,Paid
+C0001223,M00129,Diabetes,CVS,2025-07-01,43.96,Paid
+C0001224,M00443,Diabetes,OptumRx,2025-07-01,84.36,Paid
+C0001225,M00378,Specialty,OptumRx,2025-07-28,339.58,Paid
+C0001226,M00099,Behavioral Health,CVS,2026-01-07,217.28,Paid
+C0001227,M00339,Diabetes,OptumRx,2025-08-31,204.45,Paid
+C0001228,M00238,Behavioral Health,CVS,2025-10-13,256.02,Rejected
+C0001229,M00386,Behavioral Health,Walgreens,2026-03-01,230.83,Paid
+C0001230,M00045,Respiratory,Local Care Pharmacy,2026-04-23,230.7,Paid
+C0001231,M00140,Diabetes,Local Care Pharmacy,2025-08-02,154.3,Paid
+C0001232,M00112,Diabetes,CVS,2025-07-16,182.08,Paid
+C0001233,M00430,Oncology,Costco Pharmacy,2025-07-07,513.02,Rejected
+C0001234,M00341,Diabetes,Local Care Pharmacy,2025-11-21,204.23,Paid
+C0001235,M00250,Diabetes,OptumRx,2026-06-09,82.68,Reversed
+C0001236,M00098,Diabetes,Local Care Pharmacy,2025-07-01,126.41,Paid
+C0001237,M00293,Behavioral Health,Walgreens,2026-03-08,135.69,Paid
+C0001238,M00385,Diabetes,OptumRx,2026-05-03,106.1,Paid
+C0001239,M00246,Specialty,Local Care Pharmacy,2026-01-07,649.98,Paid
+C0001240,M00076,Cardiology,Walgreens,2026-01-25,207.26,Paid
+C0001241,M00193,Oncology,Walgreens,2025-11-27,867.68,Paid
+C0001242,M00389,Behavioral Health,OptumRx,2026-01-25,199.67,Reversed
+C0001243,M00045,Specialty,OptumRx,2025-12-18,1392.69,Paid
+C0001244,M00234,Respiratory,CVS,2025-09-23,407.8,Paid
+C0001245,M00475,Behavioral Health,OptumRx,2026-05-03,186.19,Paid
+C0001246,M00430,Respiratory,Walgreens,2026-04-20,403.14,Reversed
+C0001247,M00410,Diabetes,Express Scripts,2025-08-11,185.76,Rejected
+C0001248,M00261,Specialty,CVS,2026-04-21,862.41,Paid
+C0001249,M00286,Specialty,Local Care Pharmacy,2025-10-25,347.15,Paid
+C0001250,M00173,Oncology,Costco Pharmacy,2026-01-08,822.53,Rejected
+C0001251,M00272,Specialty,OptumRx,2026-04-22,678.35,Paid
+C0001252,M00357,Respiratory,Local Care Pharmacy,2026-05-24,78.76,Paid
+C0001253,M00432,Respiratory,Costco Pharmacy,2025-07-01,360.55,Paid
+C0001254,M00258,Diabetes,Walgreens,2025-12-04,35.47,Paid
+C0001255,M00157,Behavioral Health,Walgreens,2025-08-19,164.07,Paid
+C0001256,M00016,Cardiology,CVS,2026-06-14,81.74,Paid
+C0001257,M00236,Behavioral Health,Local Care Pharmacy,2025-12-31,132.11,Paid
+C0001258,M00362,Specialty,Walgreens,2026-01-08,606.28,Paid
+C0001259,M00322,Specialty,Costco Pharmacy,2026-05-11,802.69,Paid
+C0001260,M00256,Behavioral Health,CVS,2025-12-27,152.9,Paid
+C0001261,M00247,Behavioral Health,CVS,2026-04-02,121.96,Paid
+C0001262,M00305,Specialty,Express Scripts,2026-06-16,617.73,Reversed
+C0001263,M00197,Diabetes,Express Scripts,2025-08-14,135.96,Paid
+C0001264,M00048,Diabetes,CVS,2026-05-20,193.28,Paid
+C0001265,M00388,Cardiology,CVS,2026-02-26,196.89,Paid
+C0001266,M00287,Respiratory,Costco Pharmacy,2025-10-19,404.68,Paid
+C0001267,M00006,Respiratory,CVS,2026-06-11,290.9,Rejected
+C0001268,M00231,Diabetes,Local Care Pharmacy,2025-11-18,61.86,Paid
+C0001269,M00415,Behavioral Health,OptumRx,2025-07-25,193.82,Paid
+C0001270,M00362,Oncology,OptumRx,2026-02-17,510.75,Paid
+C0001271,M00021,Cardiology,Local Care Pharmacy,2025-08-26,117.84,Paid
+C0001272,M00433,Diabetes,CVS,2025-11-05,134.68,Paid
+C0001273,M00386,Respiratory,CVS,2026-01-09,426.8,Paid
+C0001274,M00116,Cardiology,Walgreens,2026-03-10,219.95,Paid
+C0001275,M00418,Respiratory,Walgreens,2025-08-21,429.52,Paid
+C0001276,M00384,Behavioral Health,Express Scripts,2025-07-13,180.91,Paid
+C0001277,M00411,Respiratory,Local Care Pharmacy,2026-03-26,41.35,Paid
+C0001278,M00283,Diabetes,Express Scripts,2025-11-20,132.63,Paid
+C0001279,M00220,Diabetes,OptumRx,2026-06-06,39.11,Paid
+C0001280,M00264,Behavioral Health,CVS,2025-09-09,261.14,Paid
+C0001281,M00045,Specialty,Local Care Pharmacy,2026-02-14,1073.06,Reversed
+C0001282,M00194,Specialty,Walgreens,2026-06-02,801.88,Paid
+C0001283,M00060,Specialty,OptumRx,2025-09-14,445.22,Paid
+C0001284,M00364,Cardiology,CVS,2026-03-19,129.59,Paid
+C0001285,M00345,Cardiology,Walgreens,2025-12-03,175.66,Paid
+C0001286,M00126,Behavioral Health,Local Care Pharmacy,2025-10-05,233.09,Paid
+C0001287,M00250,Diabetes,Local Care Pharmacy,2026-04-10,59.73,Paid
+C0001288,M00444,Respiratory,Costco Pharmacy,2025-09-04,96.05,Paid
+C0001289,M00394,Diabetes,Costco Pharmacy,2025-08-07,142.24,Paid
+C0001290,M00325,Respiratory,Walgreens,2026-01-02,398.2,Paid
+C0001291,M00212,Diabetes,Express Scripts,2025-12-12,122.51,Paid
+C0001292,M00348,Respiratory,Costco Pharmacy,2026-02-16,195.18,Paid
+C0001293,M00117,Respiratory,Costco Pharmacy,2026-05-11,87.86,Rejected
+C0001294,M00335,Behavioral Health,Costco Pharmacy,2025-11-01,188.93,Paid
+C0001295,M00259,Respiratory,Express Scripts,2025-07-16,220.9,Paid
+C0001296,M00044,Respiratory,CVS,2026-05-25,370.88,Paid
+C0001297,M00205,Cardiology,OptumRx,2025-12-22,210.41,Paid
+C0001298,M00314,Cardiology,Costco Pharmacy,2026-02-26,111.08,Paid
+C0001299,M00392,Behavioral Health,Local Care Pharmacy,2026-04-13,203.07,Paid
+C0001300,M00343,Respiratory,CVS,2025-12-20,92.19,Paid
+C0001301,M00177,Specialty,OptumRx,2025-08-02,1002.96,Paid
+C0001302,M00483,Cardiology,Walgreens,2026-03-20,105.51,Paid
+C0001303,M00468,Cardiology,OptumRx,2025-10-06,91.13,Reversed
+C0001304,M00100,Behavioral Health,OptumRx,2026-01-27,157.6,Paid
+C0001305,M00221,Specialty,Walgreens,2026-05-10,381.49,Paid
+C0001306,M00357,Cardiology,Local Care Pharmacy,2026-01-02,221.13,Paid
+C0001307,M00166,Diabetes,Walgreens,2026-03-24,129.97,Paid
+C0001308,M00375,Behavioral Health,Costco Pharmacy,2025-10-14,189.79,Paid
+C0001309,M00430,Cardiology,OptumRx,2026-03-12,279.26,Paid
+C0001310,M00252,Respiratory,Costco Pharmacy,2026-02-21,438.59,Paid
+C0001311,M00132,Specialty,Costco Pharmacy,2026-01-09,474.68,Reversed
+C0001312,M00002,Diabetes,Express Scripts,2025-11-08,214.5,Paid
+C0001313,M00286,Specialty,Express Scripts,2026-04-17,510.34,Paid
+C0001314,M00027,Behavioral Health,Costco Pharmacy,2026-03-08,187.0,Paid
+C0001315,M00227,Cardiology,CVS,2025-10-01,56.29,Paid
+C0001316,M00415,Behavioral Health,OptumRx,2025-08-05,30.72,Paid
+C0001317,M00279,Cardiology,Walgreens,2026-02-02,249.24,Paid
+C0001318,M00343,Specialty,Costco Pharmacy,2025-12-20,122.31,Paid
+C0001319,M00147,Cardiology,Costco Pharmacy,2026-05-13,88.53,Paid
+C0001320,M00138,Behavioral Health,Walgreens,2025-10-30,113.92,Paid
+C0001321,M00304,Cardiology,Walgreens,2026-01-13,85.45,Paid
+C0001322,M00009,Behavioral Health,OptumRx,2026-05-11,44.07,Paid
+C0001323,M00064,Diabetes,Walgreens,2025-10-22,222.58,Paid
+C0001324,M00086,Behavioral Health,CVS,2025-11-21,264.07,Paid
+C0001325,M00348,Cardiology,Express Scripts,2026-05-04,189.93,Paid
+C0001326,M00120,Diabetes,Express Scripts,2026-02-13,37.84,Paid
+C0001327,M00459,Cardiology,CVS,2026-01-11,200.21,Paid
+C0001328,M00141,Diabetes,Costco Pharmacy,2026-02-09,180.94,Paid
+C0001329,M00011,Oncology,Costco Pharmacy,2026-02-12,1419.37,Paid
+C0001330,M00075,Respiratory,Express Scripts,2026-06-15,294.18,Paid
+C0001331,M00210,Diabetes,OptumRx,2026-01-24,94.04,Paid
+C0001332,M00150,Behavioral Health,CVS,2026-02-26,120.81,Paid
+C0001333,M00293,Cardiology,Local Care Pharmacy,2026-02-17,224.18,Paid
+C0001334,M00203,Specialty,Express Scripts,2025-07-11,630.02,Paid
+C0001335,M00232,Behavioral Health,OptumRx,2025-11-08,43.61,Paid
+C0001336,M00189,Behavioral Health,Walgreens,2025-09-19,88.97,Paid
+C0001337,M00304,Specialty,CVS,2025-10-09,977.9,Reversed
+C0001338,M00188,Diabetes,CVS,2025-09-20,73.32,Paid
+C0001339,M00288,Diabetes,Express Scripts,2025-11-08,37.18,Paid
+C0001340,M00074,Behavioral Health,Walgreens,2025-10-04,93.94,Paid
+C0001341,M00087,Specialty,Costco Pharmacy,2025-08-17,444.6,Paid
+C0001342,M00340,Respiratory,OptumRx,2025-09-29,412.17,Paid
+C0001343,M00487,Cardiology,Walgreens,2025-07-09,70.37,Paid
+C0001344,M00040,Diabetes,Costco Pharmacy,2025-09-30,42.57,Paid
+C0001345,M00241,Specialty,Walgreens,2025-09-30,643.69,Paid
+C0001346,M00097,Cardiology,OptumRx,2025-09-26,24.14,Paid
+C0001347,M00011,Oncology,Walgreens,2026-01-18,1993.68,Paid
+C0001348,M00245,Diabetes,OptumRx,2026-05-08,50.01,Paid
+C0001349,M00144,Oncology,Local Care Pharmacy,2025-08-26,1088.82,Paid
+C0001350,M00332,Specialty,Walgreens,2026-01-10,169.38,Paid
+C0001351,M00240,Specialty,Costco Pharmacy,2026-01-19,819.42,Paid
+C0001352,M00210,Behavioral Health,Costco Pharmacy,2026-05-28,144.01,Paid
+C0001353,M00315,Specialty,OptumRx,2026-01-24,1324.24,Paid
+C0001354,M00212,Diabetes,CVS,2025-09-03,225.62,Paid
+C0001355,M00312,Behavioral Health,Costco Pharmacy,2025-08-29,243.93,Rejected
+C0001356,M00198,Cardiology,Express Scripts,2025-12-09,130.1,Paid
+C0001357,M00009,Diabetes,Express Scripts,2025-09-14,205.57,Paid
+C0001358,M00409,Respiratory,Express Scripts,2025-12-02,93.32,Paid
+C0001359,M00009,Behavioral Health,Express Scripts,2025-11-07,260.36,Paid
+C0001360,M00369,Oncology,Walgreens,2026-02-23,1968.06,Paid
+C0001361,M00027,Cardiology,CVS,2026-05-24,63.86,Paid
+C0001362,M00028,Cardiology,Express Scripts,2026-05-31,285.69,Paid
+C0001363,M00152,Cardiology,CVS,2026-03-02,170.45,Rejected
+C0001364,M00449,Behavioral Health,Walgreens,2025-12-17,37.84,Paid
+C0001365,M00264,Diabetes,Local Care Pharmacy,2025-09-13,258.09,Paid
+C0001366,M00140,Diabetes,Costco Pharmacy,2026-05-19,141.3,Paid
+C0001367,M00233,Cardiology,OptumRx,2026-02-21,253.49,Paid
+C0001368,M00147,Cardiology,CVS,2026-04-26,254.28,Rejected
+C0001369,M00393,Oncology,Local Care Pharmacy,2025-07-19,1723.81,Paid
+C0001370,M00378,Respiratory,Express Scripts,2025-09-17,252.79,Paid
+C0001371,M00370,Cardiology,Walgreens,2025-11-14,231.43,Paid
+C0001372,M00473,Diabetes,Express Scripts,2025-11-19,167.28,Paid
+C0001373,M00023,Cardiology,Express Scripts,2025-10-08,298.51,Paid
+C0001374,M00217,Respiratory,Costco Pharmacy,2026-02-04,417.11,Paid
+C0001375,M00474,Diabetes,CVS,2025-09-22,257.83,Paid
+C0001376,M00252,Respiratory,Local Care Pharmacy,2025-09-23,127.84,Paid
+C0001377,M00041,Specialty,Costco Pharmacy,2025-12-23,1286.57,Paid
+C0001378,M00193,Behavioral Health,Costco Pharmacy,2025-11-10,274.2,Paid
+C0001379,M00460,Behavioral Health,Local Care Pharmacy,2026-05-20,217.35,Paid
+C0001380,M00081,Specialty,Costco Pharmacy,2026-04-28,1320.94,Paid
+C0001381,M00417,Specialty,CVS,2025-10-24,1409.85,Paid
+C0001382,M00141,Cardiology,Local Care Pharmacy,2026-03-13,169.37,Reversed
+C0001383,M00027,Behavioral Health,CVS,2025-11-09,99.75,Paid
+C0001384,M00289,Diabetes,Express Scripts,2025-11-05,207.6,Rejected
+C0001385,M00479,Diabetes,Express Scripts,2026-01-02,149.21,Paid
+C0001386,M00218,Specialty,Walgreens,2025-11-02,542.27,Paid
+C0001387,M00490,Behavioral Health,CVS,2025-12-08,37.45,Paid
+C0001388,M00422,Cardiology,OptumRx,2025-07-16,141.89,Rejected
+C0001389,M00061,Cardiology,Express Scripts,2026-03-09,162.89,Paid
+C0001390,M00211,Cardiology,Costco Pharmacy,2025-11-02,89.88,Paid
+C0001391,M00174,Diabetes,CVS,2026-01-09,97.17,Paid
+C0001392,M00043,Respiratory,Express Scripts,2026-04-03,36.1,Paid
+C0001393,M00048,Behavioral Health,Walgreens,2026-05-28,231.05,Reversed
+C0001394,M00002,Oncology,OptumRx,2025-11-27,220.23,Paid
+C0001395,M00475,Behavioral Health,CVS,2026-04-19,114.9,Paid
+C0001396,M00462,Cardiology,CVS,2026-04-25,50.63,Reversed
+C0001397,M00319,Diabetes,Express Scripts,2025-09-26,241.26,Paid
+C0001398,M00256,Diabetes,Costco Pharmacy,2026-05-12,161.6,Paid
+C0001399,M00318,Cardiology,OptumRx,2026-05-07,40.46,Paid
+C0001400,M00402,Respiratory,Walgreens,2026-05-07,74.27,Paid
+C0001401,M00017,Cardiology,Local Care Pharmacy,2025-09-22,119.95,Paid
+C0001402,M00236,Cardiology,Local Care Pharmacy,2025-11-28,169.38,Paid
+C0001403,M00209,Cardiology,Local Care Pharmacy,2025-12-06,291.82,Paid
+C0001404,M00125,Oncology,CVS,2025-07-19,1599.55,Paid
+C0001405,M00453,Diabetes,Walgreens,2026-02-15,44.06,Paid
+C0001406,M00038,Cardiology,Costco Pharmacy,2025-12-11,118.22,Paid
+C0001407,M00251,Cardiology,Local Care Pharmacy,2026-05-26,57.21,Rejected
+C0001408,M00287,Respiratory,Express Scripts,2025-10-16,164.19,Paid
+C0001409,M00188,Diabetes,CVS,2025-08-03,64.34,Paid
+C0001410,M00441,Respiratory,Express Scripts,2026-03-12,202.09,Paid
+C0001411,M00207,Respiratory,Walgreens,2026-02-16,408.14,Paid
+C0001412,M00386,Behavioral Health,Costco Pharmacy,2025-12-09,132.23,Paid
+C0001413,M00096,Diabetes,Express Scripts,2025-11-06,207.54,Paid
+C0001414,M00453,Behavioral Health,Walgreens,2025-09-10,59.24,Paid
+C0001415,M00258,Behavioral Health,Express Scripts,2025-10-01,261.33,Paid
+C0001416,M00005,Specialty,OptumRx,2026-05-11,1140.9,Paid
+C0001417,M00054,Oncology,Walgreens,2026-03-14,1848.63,Paid
+C0001418,M00172,Respiratory,OptumRx,2026-03-16,406.05,Paid
+C0001419,M00460,Specialty,Walgreens,2026-05-10,965.39,Paid
+C0001420,M00491,Respiratory,Costco Pharmacy,2026-04-29,49.57,Paid
+C0001421,M00391,Oncology,Express Scripts,2025-07-10,738.19,Paid
+C0001422,M00499,Respiratory,Express Scripts,2026-01-30,239.1,Rejected
+C0001423,M00316,Specialty,Walgreens,2026-04-29,1448.33,Paid
+C0001424,M00155,Behavioral Health,Local Care Pharmacy,2025-10-26,246.65,Rejected
+C0001425,M00132,Cardiology,CVS,2025-10-26,22.84,Paid
+C0001426,M00425,Oncology,CVS,2026-02-06,969.59,Rejected
+C0001427,M00415,Respiratory,Express Scripts,2026-04-06,265.56,Paid
+C0001428,M00449,Behavioral Health,OptumRx,2026-05-24,231.33,Paid
+C0001429,M00344,Diabetes,Costco Pharmacy,2025-10-18,257.31,Paid
+C0001430,M00149,Respiratory,Costco Pharmacy,2026-01-16,404.94,Paid
+C0001431,M00092,Specialty,Express Scripts,2026-06-16,398.77,Paid
+C0001432,M00336,Cardiology,Walgreens,2025-08-20,160.95,Rejected
+C0001433,M00379,Cardiology,OptumRx,2026-06-09,212.53,Paid
+C0001434,M00468,Cardiology,CVS,2026-01-02,233.35,Paid
+C0001435,M00149,Cardiology,Local Care Pharmacy,2026-04-07,179.09,Paid
+C0001436,M00081,Behavioral Health,Walgreens,2025-07-02,246.88,Paid
+C0001437,M00399,Respiratory,CVS,2025-09-30,443.76,Paid
+C0001438,M00174,Diabetes,Express Scripts,2026-03-31,203.37,Paid
+C0001439,M00251,Specialty,OptumRx,2025-08-12,512.09,Paid
+C0001440,M00182,Diabetes,OptumRx,2026-04-06,213.2,Paid
+C0001441,M00471,Behavioral Health,CVS,2025-08-14,233.92,Paid
+C0001442,M00177,Diabetes,Walgreens,2026-03-31,215.28,Paid
+C0001443,M00478,Respiratory,Express Scripts,2025-12-22,185.46,Paid
+C0001444,M00225,Diabetes,Walgreens,2026-01-23,142.01,Paid
+C0001445,M00322,Specialty,Local Care Pharmacy,2025-08-04,1231.07,Paid
+C0001446,M00341,Behavioral Health,Express Scripts,2026-04-12,227.64,Paid
+C0001447,M00333,Cardiology,Express Scripts,2025-07-19,282.95,Paid
+C0001448,M00297,Cardiology,Local Care Pharmacy,2026-01-07,308.42,Paid
+C0001449,M00388,Behavioral Health,CVS,2026-02-23,277.9,Paid
+C0001450,M00050,Specialty,Costco Pharmacy,2025-08-29,923.17,Paid
+C0001451,M00258,Specialty,CVS,2025-12-22,908.93,Paid
+C0001452,M00017,Respiratory,OptumRx,2025-11-03,310.35,Paid
+C0001453,M00221,Cardiology,OptumRx,2025-07-29,270.95,Paid
+C0001454,M00072,Respiratory,OptumRx,2025-09-17,387.72,Paid
+C0001455,M00214,Behavioral Health,CVS,2026-01-03,279.38,Paid
+C0001456,M00383,Cardiology,OptumRx,2025-11-23,28.2,Paid
+C0001457,M00048,Behavioral Health,Costco Pharmacy,2026-05-05,267.74,Paid
+C0001458,M00187,Diabetes,OptumRx,2025-12-18,253.86,Rejected
+C0001459,M00095,Specialty,Walgreens,2025-08-10,953.4,Paid
+C0001460,M00161,Behavioral Health,CVS,2026-04-04,166.27,Paid
+C0001461,M00286,Behavioral Health,OptumRx,2026-04-06,251.47,Rejected
+C0001462,M00341,Cardiology,OptumRx,2025-07-21,281.6,Rejected
+C0001463,M00219,Diabetes,Walgreens,2025-07-27,98.65,Paid
+C0001464,M00490,Behavioral Health,CVS,2026-03-02,20.87,Paid
+C0001465,M00186,Cardiology,Costco Pharmacy,2025-09-20,52.64,Rejected
+C0001466,M00463,Respiratory,Walgreens,2025-09-25,68.12,Paid
+C0001467,M00296,Respiratory,Express Scripts,2025-07-09,77.65,Paid
+C0001468,M00367,Diabetes,Costco Pharmacy,2026-06-15,196.56,Paid
+C0001469,M00212,Diabetes,Costco Pharmacy,2025-11-17,144.56,Paid
+C0001470,M00402,Behavioral Health,CVS,2026-02-31,150.94,Paid
+C0001471,M00318,Specialty,OptumRx,2026-03-28,387.47,Paid
+C0001472,M00211,Behavioral Health,OptumRx,2026-04-23,129.35,Paid
+C0001473,M00320,Behavioral Health,OptumRx,2026-02-01,52.98,Paid
+C0001474,M00259,Diabetes,Walgreens,2026-04-29,45.74,Paid
+C0001475,M00358,Diabetes,Costco Pharmacy,2026-05-25,62.61,Paid
+C0001476,M00348,Cardiology,Walgreens,2025-10-27,228.09,Paid
+C0001477,M00379,Diabetes,OptumRx,2025-10-20,113.52,Rejected
+C0001478,M00299,Diabetes,Local Care Pharmacy,2025-08-26,68.87,Paid
+C0001479,M00055,Cardiology,Local Care Pharmacy,2025-09-14,151.43,Paid
+C0001480,M00064,Behavioral Health,Express Scripts,2026-01-27,106.34,Paid
+C0001481,M00353,Cardiology,Walgreens,2026-05-22,214.17,Paid
+C0001482,M00182,Diabetes,Walgreens,2026-06-05,179.14,Paid
+C0001483,M00490,Cardiology,Express Scripts,2025-07-02,35.81,Paid
+C0001484,M00032,Respiratory,Costco Pharmacy,2026-02-20,395.56,Paid
+C0001485,M00215,Diabetes,OptumRx,2025-11-23,87.5,Paid
+C0001486,M00398,Diabetes,CVS,2026-03-29,208.14,Paid
+C0001487,M00180,Cardiology,Local Care Pharmacy,2025-10-11,86.74,Paid
+C0001488,M00434,Oncology,Express Scripts,2025-09-21,956.45,Paid
+C0001489,M00468,Diabetes,Express Scripts,2026-05-27,207.0,Paid
+C0001490,M00490,Specialty,CVS,2025-09-13,1040.02,Paid
+C0001491,M00191,Specialty,Local Care Pharmacy,2025-11-17,1109.75,Paid
+C0001492,M00160,Respiratory,CVS,2026-04-17,41.24,Paid
+C0001493,M00146,Cardiology,Costco Pharmacy,2026-06-08,92.54,Paid
+C0001494,M00299,Respiratory,Local Care Pharmacy,2025-10-02,263.23,Paid
+C0001495,M00275,Diabetes,Local Care Pharmacy,2025-12-15,249.99,Paid
+C0001496,M00218,Specialty,Walgreens,2025-10-08,110.12,Paid
+C0001497,M00158,Respiratory,Costco Pharmacy,2025-11-17,217.46,Paid
+C0001498,M00209,Specialty,Costco Pharmacy,2026-04-16,1502.87,Paid
+C0001499,M00197,Oncology,OptumRx,2025-11-03,556.72,Paid
+C0001500,M00174,Cardiology,OptumRx,2026-03-30,241.99,Paid
+C0001501,M00224,Behavioral Health,CVS,2025-08-09,24.17,Paid
+C0001502,M00072,Diabetes,Express Scripts,2025-10-13,227.71,Paid
+C0001503,M00383,Diabetes,Express Scripts,2026-04-07,182.79,Paid
+C0001504,M00115,Respiratory,CVS,2025-08-19,127.57,Paid
+C0001505,M00475,Specialty,Local Care Pharmacy,2025-11-21,282.64,Paid
+C0001506,M00234,Behavioral Health,Costco Pharmacy,2025-10-30,44.69,Paid
+C0001507,M00417,Cardiology,Walgreens,2026-05-19,195.35,Paid
+C0001508,M00357,Cardiology,Express Scripts,2025-07-04,70.11,Paid
+C0001509,M00112,Respiratory,CVS,2025-08-21,418.98,Paid
+C0001510,M00119,Behavioral Health,Local Care Pharmacy,2026-02-04,93.72,Paid
+C0001511,M00184,Respiratory,CVS,2025-09-23,274.72,Paid
+C0001512,M00326,Specialty,Walgreens,2025-10-07,1076.92,Paid
+C0001513,M00121,Respiratory,Walgreens,2025-10-09,351.45,Paid
+C0001514,M00153,Oncology,Costco Pharmacy,2025-10-24,1514.04,Paid
+C0001515,M00061,Respiratory,Local Care Pharmacy,2026-01-04,347.8,Paid
+C0001516,M00394,Cardiology,Local Care Pharmacy,2025-09-17,221.04,Paid
+C0001517,M00466,Diabetes,OptumRx,2025-09-26,109.5,Paid
+C0001518,M00091,Respiratory,CVS,2025-08-25,421.35,Paid
+C0001519,M00110,Diabetes,Walgreens,2026-02-08,118.44,Paid
+C0001520,M00087,Cardiology,Local Care Pharmacy,2026-04-11,172.68,Paid
+C0001521,M00466,Behavioral Health,OptumRx,2026-04-26,259.11,Rejected
+C0001522,M00082,Behavioral Health,Costco Pharmacy,2026-06-04,177.99,Paid
+C0001523,M00233,Cardiology,OptumRx,2026-02-13,199.02,Paid
+C0001524,M00315,Diabetes,Walgreens,2025-07-11,195.49,Paid
+C0001525,M00195,Respiratory,Costco Pharmacy,2025-08-16,234.9,Paid
+C0001526,M00360,Diabetes,CVS,2026-03-31,31.02,Paid
+C0001527,M00206,Behavioral Health,CVS,2025-09-08,174.37,Paid
+C0001528,M00280,Behavioral Health,CVS,2025-11-01,232.48,Paid
+C0001529,M00315,Specialty,Costco Pharmacy,2026-04-02,215.7,Paid
+C0001530,M00273,Specialty,Costco Pharmacy,2025-12-18,485.02,Paid
+C0001531,M00093,Diabetes,Walgreens,2025-10-14,136.7,Paid
+C0001532,M00114,Respiratory,Costco Pharmacy,2025-09-14,71.34,Paid
+C0001533,M00220,Respiratory,Express Scripts,2025-12-12,270.55,Paid
+C0001534,M00143,Behavioral Health,CVS,2025-07-17,109.69,Paid
+C0001535,M00401,Specialty,CVS,2025-07-16,143.15,Paid
+C0001536,M00392,Respiratory,CVS,2025-08-11,309.89,Paid
+C0001537,M00251,Behavioral Health,Local Care Pharmacy,2026-04-02,45.96,Paid
+C0001538,M00408,Specialty,Local Care Pharmacy,2025-07-14,1514.47,Paid
+C0001539,M00182,Cardiology,Local Care Pharmacy,2026-03-16,216.8,Paid
+C0001540,M00151,Cardiology,Costco Pharmacy,2025-09-14,46.3,Paid
+C0001541,M00281,Oncology,Walgreens,2025-08-09,1163.27,Paid
+C0001542,M00395,Cardiology,OptumRx,2025-07-22,202.13,Paid
+C0001543,M00021,Oncology,Costco Pharmacy,2025-07-23,1114.26,Paid
+C0001544,M00343,Cardiology,Local Care Pharmacy,2025-12-24,92.93,Paid
+C0001545,M00187,Respiratory,Express Scripts,2025-09-15,152.22,Paid
+C0001546,M00063,Diabetes,Costco Pharmacy,2025-11-15,54.12,Paid
+C0001547,M00166,Cardiology,Walgreens,2025-12-06,35.83,Paid
+C0001548,M00195,Respiratory,Local Care Pharmacy,2025-07-21,273.09,Paid
+C0001549,M00212,Diabetes,Costco Pharmacy,2026-05-11,117.26,Paid
+C0001550,M00183,Respiratory,Local Care Pharmacy,2026-05-16,39.8,Rejected
+C0001551,M00443,Behavioral Health,CVS,2025-08-03,68.98,Paid
+C0001552,M00025,Behavioral Health,Costco Pharmacy,2025-11-07,250.13,Paid
+C0001553,M00289,Behavioral Health,Local Care Pharmacy,2025-11-11,216.39,Paid
+C0001554,M00497,Behavioral Health,Express Scripts,2026-02-28,67.04,Rejected
+C0001555,M00129,Oncology,Costco Pharmacy,2025-10-05,930.73,Paid
+C0001556,M00208,Cardiology,Walgreens,2025-08-03,66.57,Paid
+C0001557,M00321,Specialty,Costco Pharmacy,2026-03-25,1162.14,Paid
+C0001558,M00346,Respiratory,CVS,2025-09-20,209.97,Paid
+C0001559,M00218,Respiratory,Express Scripts,2026-03-28,89.25,Paid
+C0001560,M00160,Behavioral Health,CVS,2026-02-22,86.84,Paid
+C0001561,M00151,Behavioral Health,OptumRx,2025-09-19,187.94,Rejected
+C0001562,M00194,Respiratory,Walgreens,2025-07-22,409.75,Paid
+C0001563,M00119,Respiratory,Local Care Pharmacy,2026-04-05,193.16,Paid
+C0001564,M00100,Behavioral Health,Local Care Pharmacy,2025-07-12,262.42,Paid
+C0001565,M00196,Cardiology,Costco Pharmacy,2025-11-26,251.62,Paid
+C0001566,M00422,Specialty,Walgreens,2025-07-12,1438.43,Paid
+C0001567,M00190,Cardiology,Walgreens,2026-03-23,224.13,Paid
+C0001568,M00143,Cardiology,Costco Pharmacy,2026-02-24,304.01,Paid
+C0001569,M00032,Specialty,Local Care Pharmacy,2025-11-26,601.58,Paid
+C0001570,M00441,Cardiology,Walgreens,2025-10-19,81.03,Reversed
+C0001571,M00426,Cardiology,Costco Pharmacy,2025-11-09,262.2,Paid
+C0001572,M00367,Diabetes,CVS,2025-09-11,194.29,Paid
+C0001573,M00369,Specialty,Costco Pharmacy,2025-09-02,872.06,Paid
+C0001574,M00103,Cardiology,Walgreens,2026-06-13,48.15,Paid
+C0001575,M00069,Cardiology,CVS,2025-10-24,115.41,Rejected
+C0001576,M00442,Diabetes,Costco Pharmacy,2025-08-12,36.6,Paid
+C0001577,M00259,Respiratory,CVS,2026-01-16,175.03,Paid
+C0001578,M00261,Behavioral Health,CVS,2026-03-26,227.15,Paid
+C0001579,M00096,Diabetes,Costco Pharmacy,2025-07-16,24.43,Paid
+C0001580,M00403,Cardiology,Costco Pharmacy,2026-05-02,181.24,Rejected
+C0001581,M00127,Respiratory,Local Care Pharmacy,2026-05-23,177.83,Paid
+C0001582,M00378,Cardiology,Local Care Pharmacy,2025-08-31,305.9,Rejected
+C0001583,M00474,Diabetes,Express Scripts,2025-10-18,168.3,Paid
+C0001584,M00410,Cardiology,OptumRx,2025-08-09,278.86,Paid
+C0001585,M00418,Diabetes,OptumRx,2026-04-21,145.28,Paid
+C0001586,M00151,Diabetes,OptumRx,2026-03-02,114.07,Paid
+C0001587,M00305,Diabetes,Walgreens,2025-10-08,259.26,Paid
+C0001588,M00082,Behavioral Health,Walgreens,2026-03-16,181.27,Paid
+C0001589,M00236,Cardiology,CVS,2025-08-09,119.67,Paid
+C0001590,M00019,Respiratory,Walgreens,2025-11-28,405.83,Paid
+C0001591,M00212,Behavioral Health,Local Care Pharmacy,2026-01-04,31.21,Paid
+C0001592,M00410,Cardiology,Express Scripts,2026-01-19,164.59,Paid
+C0001593,M00409,Respiratory,CVS,2025-08-19,258.62,Paid
+C0001594,M00222,Respiratory,Walgreens,2025-07-22,40.23,Paid
+C0001595,M00029,Specialty,Express Scripts,2026-01-16,403.02,Rejected
+C0001596,M00046,Respiratory,Walgreens,2026-01-14,364.65,Paid
+C0001597,M00038,Cardiology,Walgreens,2025-08-21,237.99,Paid
+C0001598,M00132,Behavioral Health,Costco Pharmacy,2026-02-06,114.51,Paid
+C0001599,M00227,Specialty,Express Scripts,2026-03-06,812.78,Paid
+C0001600,M00334,Behavioral Health,OptumRx,2026-03-26,185.16,Paid
+C0001601,M00498,Diabetes,CVS,2026-04-10,76.59,Paid
+C0001602,M00233,Respiratory,Express Scripts,2025-10-30,181.64,Paid
+C0001603,M00472,Specialty,Express Scripts,2025-09-08,1405.69,Paid
+C0001604,M00121,Specialty,CVS,2025-09-02,1000.27,Paid
+C0001605,M00191,Oncology,CVS,2026-05-07,1580.49,Paid
+C0001606,M00294,Specialty,OptumRx,2025-11-26,202.15,Paid
+C0001607,M00483,Diabetes,Costco Pharmacy,2025-11-08,258.88,Paid
+C0001608,M00210,Respiratory,Local Care Pharmacy,2026-05-16,340.0,Paid
+C0001609,M00324,Specialty,OptumRx,2026-06-02,653.76,Paid
+C0001610,M00333,Specialty,Local Care Pharmacy,2026-06-12,979.65,Paid
+C0001611,M00442,Oncology,Walgreens,2025-11-29,1981.98,Paid
+C0001612,M00189,Specialty,Walgreens,2026-04-18,1032.6,Paid
+C0001613,M00294,Diabetes,OptumRx,2026-03-14,23.15,Paid
+C0001614,M00410,Behavioral Health,Walgreens,2025-09-28,71.56,Paid
+C0001615,M00434,Respiratory,Walgreens,2025-11-28,389.32,Paid
+C0001616,M00224,Cardiology,Express Scripts,2025-07-29,184.18,Paid
+C0001617,M00012,Behavioral Health,Local Care Pharmacy,2026-01-20,145.71,Paid
+C0001618,M00396,Cardiology,Express Scripts,2026-05-25,280.52,Paid
+C0001619,M00112,Cardiology,Costco Pharmacy,2025-10-25,295.46,Paid
+C0001620,M00168,Specialty,Local Care Pharmacy,2026-01-02,982.68,Paid
+C0001621,M00491,Specialty,CVS,2026-04-14,1062.34,Paid
+C0001622,M00147,Behavioral Health,Local Care Pharmacy,2026-01-25,258.65,Paid
+C0001623,M00074,Behavioral Health,OptumRx,2026-02-08,170.54,Paid
+C0001624,M00416,Behavioral Health,OptumRx,2026-04-29,59.0,Paid
+C0001625,M00077,Cardiology,Express Scripts,2026-04-08,98.86,Paid
+C0001626,M00178,Cardiology,CVS,2025-10-19,42.74,Paid
+C0001627,M00419,Cardiology,Walgreens,2025-09-13,216.75,Paid
+C0001628,M00162,Specialty,OptumRx,2025-08-31,1531.65,Paid
+C0001629,M00402,Cardiology,Costco Pharmacy,2025-11-01,178.84,Paid
+C0001630,M00161,Behavioral Health,CVS,2025-07-21,92.18,Paid
+C0001631,M00086,Oncology,Local Care Pharmacy,2025-07-04,613.22,Paid
+C0001632,M00226,Specialty,CVS,2026-01-16,1425.46,Reversed
+C0001633,M00060,Behavioral Health,Walgreens,2026-03-15,222.98,Paid
+C0001634,M00347,Diabetes,CVS,2025-07-14,166.08,Rejected
+C0001635,M00195,Specialty,CVS,2025-11-20,996.72,Paid
+C0001636,M00315,Diabetes,Express Scripts,2025-07-28,196.53,Paid
+C0001637,M00092,Behavioral Health,Express Scripts,2026-04-25,158.71,Paid
+C0001638,M00326,Diabetes,Local Care Pharmacy,2025-10-21,194.65,Paid
+C0001639,M00009,Behavioral Health,OptumRx,2026-05-03,137.1,Paid
+C0001640,M00030,Respiratory,Local Care Pharmacy,2025-09-10,228.0,Paid
+C0001641,M00446,Cardiology,OptumRx,2025-09-09,59.36,Paid
+C0001642,M00413,Diabetes,Express Scripts,2026-05-17,229.13,Rejected
+C0001643,M00477,Diabetes,CVS,2026-05-05,56.96,Paid
+C0001644,M00136,Diabetes,Costco Pharmacy,2026-06-11,244.65,Paid
+C0001645,M00101,Diabetes,Walgreens,2025-08-15,127.84,Rejected
+C0001646,M00162,Cardiology,OptumRx,2025-10-12,291.85,Rejected
+C0001647,M00209,Diabetes,Express Scripts,2025-08-10,149.81,Paid
+C0001648,M00439,Behavioral Health,CVS,2026-06-13,261.41,Paid
+C0001649,M00085,Diabetes,Walgreens,2026-02-02,45.25,Paid
+C0001650,M00347,Cardiology,Costco Pharmacy,2026-04-06,157.43,Reversed
+C0001651,M00195,Diabetes,Local Care Pharmacy,2025-08-08,70.82,Paid
+C0001652,M00159,Cardiology,Costco Pharmacy,2025-09-25,35.88,Paid
+C0001653,M00074,Behavioral Health,CVS,2025-07-23,98.07,Paid
+C0001654,M00147,Behavioral Health,Local Care Pharmacy,2025-10-13,82.76,Paid
+C0001655,M00053,Cardiology,Express Scripts,2025-09-11,176.73,Paid
+C0001656,M00260,Specialty,CVS,2025-10-04,355.3,Paid
+C0001657,M00084,Specialty,Costco Pharmacy,2026-04-28,1383.12,Paid
+C0001658,M00053,Specialty,Walgreens,2026-01-31,487.11,Paid
+C0001659,M00176,Respiratory,Express Scripts,2026-05-07,246.41,Paid
+C0001660,M00222,Behavioral Health,Walgreens,2026-04-03,81.46,Paid
+C0001661,M00439,Oncology,Express Scripts,2025-12-11,1271.0,Paid
+C0001662,M00119,Specialty,Express Scripts,2025-07-12,760.88,Paid
+C0001663,M00306,Specialty,Local Care Pharmacy,2026-01-23,1032.42,Rejected
+C0001664,M00061,Oncology,Express Scripts,2026-01-23,1593.13,Paid
+C0001665,M00211,Oncology,OptumRx,2025-07-08,1814.24,Paid
+C0001666,M00195,Specialty,Walgreens,2025-09-26,230.48,Paid
+C0001667,M00180,Cardiology,Local Care Pharmacy,2026-01-18,67.84,Paid
+C0001668,M00189,Diabetes,CVS,2026-02-15,99.08,Paid
+C0001669,M00211,Specialty,Local Care Pharmacy,2026-03-25,1171.57,Paid
+C0001670,M00091,Diabetes,Costco Pharmacy,2025-12-15,156.09,Paid
+C0001671,M00238,Respiratory,Costco Pharmacy,2026-04-12,448.35,Paid
+C0001672,M00354,Cardiology,Costco Pharmacy,2026-05-08,146.46,Paid
+C0001673,M00284,Behavioral Health,CVS,2025-09-03,273.51,Paid
+C0001674,M00413,Diabetes,Local Care Pharmacy,2025-10-26,164.45,Paid
+C0001675,M00225,Behavioral Health,Costco Pharmacy,2025-11-06,179.05,Reversed
+C0001676,M00336,Diabetes,Local Care Pharmacy,2025-12-20,231.56,Paid
+C0001677,M00288,Specialty,OptumRx,2025-11-23,1047.84,Paid
+C0001678,M00284,Oncology,Local Care Pharmacy,2025-07-19,2132.72,Paid
+C0001679,M00047,Cardiology,Express Scripts,2026-04-05,73.59,Paid
+C0001680,M00249,Diabetes,Walgreens,2026-06-02,204.12,Paid
+C0001681,M00320,Oncology,Costco Pharmacy,2025-08-09,935.58,Paid
+C0001682,M00326,Specialty,Costco Pharmacy,2026-05-09,777.96,Paid
+C0001683,M00282,Diabetes,Costco Pharmacy,2026-02-09,168.92,Paid
+C0001684,M00437,Diabetes,Costco Pharmacy,2025-12-11,219.85,Paid
+C0001685,M00257,Behavioral Health,Costco Pharmacy,2026-05-26,29.96,Paid
+C0001686,M00273,Diabetes,Local Care Pharmacy,2026-06-15,173.74,Paid
+C0001687,M00190,Diabetes,Local Care Pharmacy,2025-07-16,83.18,Rejected
+C0001688,M00186,Respiratory,OptumRx,2026-05-14,202.35,Paid
+C0001689,M00296,Diabetes,OptumRx,2025-09-24,180.87,Rejected
+C0001690,M00092,Respiratory,OptumRx,2026-01-08,181.65,Paid
+C0001691,M00483,Specialty,Walgreens,2026-01-18,776.92,Paid
+C0001692,M00428,Respiratory,Walgreens,2026-05-23,160.54,Paid
+C0001693,M00069,Respiratory,Express Scripts,2025-11-15,354.47,Paid
+C0001694,M00115,Behavioral Health,CVS,2026-04-20,71.59,Paid
+C0001695,M00086,Cardiology,Walgreens,2025-12-15,220.37,Paid
+C0001696,M00174,Respiratory,OptumRx,2025-09-30,438.45,Paid
+C0001697,M00500,Specialty,Walgreens,2026-04-28,694.1,Paid
+C0001698,M00115,Cardiology,CVS,2026-01-06,198.15,Paid
+C0001699,M00486,Oncology,OptumRx,2026-01-17,1304.78,Paid
+C0001700,M00492,Specialty,Costco Pharmacy,2026-01-14,861.49,Paid
+C0001701,M00317,Cardiology,OptumRx,2026-06-14,163.25,Paid
+C0001702,M00116,Diabetes,CVS,2026-05-16,92.2,Paid
+C0001703,M00462,Oncology,Express Scripts,2025-08-27,1339.82,Paid
+C0001704,M00086,Diabetes,Costco Pharmacy,2025-12-18,144.21,Paid
+C0001705,M00411,Diabetes,Express Scripts,2025-10-16,220.93,Paid
+C0001706,M00168,Cardiology,Walgreens,2025-12-15,52.82,Paid
+C0001707,M00378,Diabetes,Express Scripts,2025-10-18,167.89,Paid
+C0001708,M00438,Behavioral Health,Express Scripts,2026-02-04,45.72,Paid
+C0001709,M00024,Diabetes,Local Care Pharmacy,2025-09-15,168.23,Paid
+C0001710,M00415,Diabetes,CVS,2025-08-14,247.99,Paid
+C0001711,M00092,Oncology,Local Care Pharmacy,2025-09-01,1419.53,Paid
+C0001712,M00247,Specialty,Express Scripts,2025-09-06,986.56,Paid
+C0001713,M00186,Diabetes,Costco Pharmacy,2026-03-27,222.42,Paid
+C0001714,M00180,Cardiology,Costco Pharmacy,2025-12-17,280.11,Paid
+C0001715,M00419,Respiratory,Costco Pharmacy,2025-12-14,213.65,Paid
+C0001716,M00410,Respiratory,OptumRx,2025-11-21,267.15,Paid
+C0001717,M00072,Oncology,Local Care Pharmacy,2025-12-20,848.04,Rejected
+C0001718,M00145,Specialty,Express Scripts,2026-04-28,601.01,Reversed
+C0001719,M00412,Behavioral Health,OptumRx,2026-05-11,229.46,Paid
+C0001720,M00066,Cardiology,CVS,2025-08-30,200.02,Paid
+C0001721,M00223,Behavioral Health,CVS,2025-07-04,26.56,Paid
+C0001722,M00415,Cardiology,Local Care Pharmacy,2026-04-27,207.21,Paid
+C0001723,M00038,Behavioral Health,OptumRx,2025-08-29,54.71,Paid
+C0001724,M00036,Diabetes,CVS,2026-03-04,96.4,Paid
+C0001725,M00329,Specialty,Local Care Pharmacy,2025-10-02,914.65,Paid
+C0001726,M00157,Cardiology,Express Scripts,2026-05-12,172.55,Paid
+C0001727,M00322,Behavioral Health,Local Care Pharmacy,2026-03-13,150.41,Reversed
+C0001728,M00115,Cardiology,Local Care Pharmacy,2026-02-11,282.63,Rejected
+C0001729,M00334,Cardiology,OptumRx,2025-09-05,238.5,Paid
+C0001730,M00383,Respiratory,Walgreens,2025-11-25,432.82,Rejected
+C0001731,M00036,Specialty,Local Care Pharmacy,2025-09-27,1277.42,Paid
+C0001732,M00422,Diabetes,Walgreens,2025-08-02,50.36,Paid
+C0001733,M00075,Behavioral Health,OptumRx,2026-05-17,191.54,Paid
+C0001734,M00031,Cardiology,Costco Pharmacy,2025-08-16,23.96,Paid
+C0001735,M00136,Oncology,Express Scripts,2026-04-10,572.54,Paid
+C0001736,M00277,Diabetes,Local Care Pharmacy,2026-03-23,132.14,Paid
+C0001737,M00238,Diabetes,Express Scripts,2025-12-27,61.72,Paid
+C0001738,M00135,Respiratory,OptumRx,2026-05-18,190.6,Paid
+C0001739,M00197,Diabetes,OptumRx,2025-07-17,156.23,Paid
+C0001740,M00047,Oncology,Local Care Pharmacy,2026-06-08,1748.24,Paid
+C0001741,M00465,Specialty,Express Scripts,2025-08-22,458.06,Paid
+C0001742,M00449,Diabetes,Local Care Pharmacy,2025-08-31,124.37,Paid
+C0001743,M00033,Oncology,Local Care Pharmacy,2026-02-12,595.4,Paid
+C0001744,M00479,Specialty,CVS,2025-10-04,953.87,Paid
+C0001745,M00090,Diabetes,Walgreens,2026-05-11,249.16,Paid
+C0001746,M00456,Diabetes,OptumRx,2026-02-04,42.4,Paid
+C0001747,M00304,Diabetes,Costco Pharmacy,2026-04-10,91.37,Paid
+C0001748,M00464,Diabetes,Costco Pharmacy,2025-11-03,176.1,Paid
+C0001749,M00281,Diabetes,OptumRx,2025-12-05,152.54,Paid
+C0001750,M00255,Respiratory,Walgreens,2026-03-10,234.09,Paid
+C0001751,M00205,Cardiology,OptumRx,2026-04-19,295.13,Paid
+C0001752,M00131,Specialty,Costco Pharmacy,2026-03-13,1491.87,Paid
+C0001753,M00060,Diabetes,Express Scripts,2026-04-25,126.13,Paid
+C0001754,M00297,Diabetes,OptumRx,2025-07-29,34.91,Paid
+C0001755,M00466,Specialty,Local Care Pharmacy,2026-03-12,1211.15,Paid
+C0001756,M00256,Respiratory,Costco Pharmacy,2025-09-09,388.5,Rejected
+C0001757,M00489,Behavioral Health,CVS,2025-09-15,84.49,Paid
+C0001758,M00390,Behavioral Health,Express Scripts,2026-01-03,55.66,Paid
+C0001759,M00376,Behavioral Health,CVS,2025-09-27,165.67,Rejected
+C0001760,M00137,Respiratory,Costco Pharmacy,2026-02-24,245.38,Paid
+C0001761,M00447,Specialty,Local Care Pharmacy,2025-10-16,615.2,Paid
+C0001762,M00365,Behavioral Health,Walgreens,2025-12-30,197.45,Paid
+C0001763,M00278,Cardiology,Walgreens,2025-07-21,39.28,Paid
+C0001764,M00156,Diabetes,Costco Pharmacy,2025-08-11,111.86,Paid
+C0001765,M00298,Cardiology,Walgreens,2025-12-25,155.25,Rejected
+C0001766,M00451,Respiratory,CVS,2025-08-17,423.8,Paid
+C0001767,M00334,Specialty,Local Care Pharmacy,2026-04-27,1239.43,Paid
+C0001768,M00013,Diabetes,Local Care Pharmacy,2025-11-19,66.12,Paid
+C0001769,M00266,Diabetes,CVS,2025-10-09,166.12,Paid
+C0001770,M00245,Diabetes,CVS,2026-03-13,184.2,Paid
+C0001771,M00059,Diabetes,Local Care Pharmacy,2025-09-16,29.72,Paid
+C0001772,M00108,Diabetes,Express Scripts,2026-02-21,227.75,Paid
+C0001773,M00343,Diabetes,CVS,2026-06-10,45.87,Paid
+C0001774,M00198,Cardiology,CVS,2025-10-01,59.21,Paid
+C0001775,M00374,Diabetes,Local Care Pharmacy,2025-12-23,50.91,Paid
+C0001776,M00275,Respiratory,Costco Pharmacy,2025-10-10,438.55,Paid
+C0001777,M00111,Diabetes,Express Scripts,2026-02-06,156.4,Paid
+C0001778,M00279,Diabetes,Local Care Pharmacy,2026-05-30,61.28,Paid
+C0001779,M00402,Specialty,Walgreens,2025-11-22,325.27,Paid
+C0001780,M00147,Diabetes,Local Care Pharmacy,2026-01-19,153.13,Paid
+C0001781,M00477,Cardiology,OptumRx,2026-06-06,24.14,Reversed
+C0001782,M00078,Specialty,Costco Pharmacy,2025-07-09,653.34,Paid
+C0001783,M00438,Cardiology,CVS,2026-01-11,302.61,Paid
+C0001784,M00381,Specialty,Local Care Pharmacy,2025-10-18,1277.39,Paid
+C0001785,M00310,Cardiology,Express Scripts,2026-04-25,247.89,Paid
+C0001786,M00402,Diabetes,Walgreens,2025-08-30,252.47,Paid
+C0001787,M00221,Behavioral Health,OptumRx,2026-04-03,166.13,Paid
+C0001788,M00395,Behavioral Health,OptumRx,2025-07-14,76.24,Rejected
+C0001789,M00459,Respiratory,Express Scripts,2025-09-11,100.43,Rejected
+C0001790,M00220,Diabetes,Walgreens,2026-03-03,166.65,Paid
+C0001791,M00144,Diabetes,Express Scripts,2025-08-01,162.97,Paid
+C0001792,M00498,Diabetes,CVS,2026-04-29,121.14,Paid
+C0001793,M00067,Diabetes,CVS,2026-05-29,86.1,Paid
+C0001794,M00135,Behavioral Health,Local Care Pharmacy,2026-06-16,62.02,Paid
+C0001795,M00115,Respiratory,Walgreens,2025-07-17,409.83,Paid
+C0001796,M00009,Specialty,Express Scripts,2026-01-24,1426.39,Paid
+C0001797,M00398,Specialty,Costco Pharmacy,2025-12-05,643.16,Paid
+C0001798,M00230,Specialty,OptumRx,2025-12-26,1238.21,Paid
+C0001799,M00436,Diabetes,CVS,2026-03-03,77.56,Paid
+C0001800,M00419,Cardiology,CVS,2025-08-26,147.69,Paid
+C0001801,M00398,Diabetes,CVS,2025-09-01,207.63,Paid
+C0001802,M00417,Behavioral Health,Walgreens,2026-04-10,230.77,Paid
+C0001803,M00208,Cardiology,Walgreens,2026-03-08,295.51,Paid
+C0001804,M00022,Specialty,OptumRx,2026-06-09,858.47,Paid
+C0001805,M00077,Specialty,OptumRx,2025-08-25,1368.96,Paid
+C0001806,M00242,Diabetes,Express Scripts,2026-01-26,141.02,Paid
+C0001807,M00028,Oncology,CVS,2025-08-10,624.44,Paid
+C0001808,M00149,Cardiology,Express Scripts,2025-11-19,175.71,Paid
+C0001809,M00415,Cardiology,CVS,2025-10-09,54.77,Paid
+C0001810,M00226,Diabetes,Local Care Pharmacy,2026-03-28,146.67,Paid
+C0001811,M00222,Respiratory,CVS,2026-03-12,292.09,Paid
+C0001812,M00292,Diabetes,Walgreens,2026-06-09,66.15,Paid
+C0001813,M00082,Behavioral Health,OptumRx,2026-02-11,264.56,Paid
+C0001814,M00460,Cardiology,OptumRx,2025-08-10,260.66,Paid
+C0001815,M00273,Cardiology,CVS,2026-03-01,61.74,Paid
+C0001816,M00138,Cardiology,OptumRx,2025-12-07,145.18,Paid
+C0001817,M00013,Respiratory,Express Scripts,2025-07-26,378.75,Paid
+C0001818,M00346,Oncology,CVS,2025-07-20,2032.95,Paid
+C0001819,M00136,Specialty,CVS,2026-04-09,897.71,Paid
+C0001820,M00293,Respiratory,Local Care Pharmacy,2026-05-20,406.11,Paid
+C0001821,M00002,Cardiology,OptumRx,2025-08-03,215.5,Paid
+C0001822,M00022,Cardiology,Costco Pharmacy,2025-07-20,198.41,Paid
+C0001823,M00430,Specialty,Costco Pharmacy,2026-01-19,829.51,Paid
+C0001824,M00257,Specialty,Express Scripts,2025-10-10,1048.94,Paid
+C0001825,M00355,Diabetes,Costco Pharmacy,2026-05-05,,Paid
+C0001826,M00053,Cardiology,Walgreens,2025-08-20,132.53,Paid
+C0001827,M00148,Behavioral Health,OptumRx,2026-04-19,148.91,Paid
+C0001828,M00430,Diabetes,Walgreens,2025-10-02,96.0,Paid
+C0001829,M00500,Oncology,Costco Pharmacy,2025-11-26,1368.64,Paid
+C0001830,M00059,Behavioral Health,CVS,2025-07-08,138.54,Paid
+C0001831,M00471,Cardiology,Walgreens,2026-06-04,278.15,Paid
+C0001832,M00244,Diabetes,Walgreens,2026-04-03,129.5,Paid
+C0001833,M00214,Diabetes,Local Care Pharmacy,2026-06-06,56.32,Paid
+C0001834,M00416,Specialty,CVS,2026-04-06,484.78,Paid
+C0001835,M00355,Respiratory,Costco Pharmacy,2026-03-20,300.39,Paid
+C0001836,M00404,Specialty,CVS,2025-08-27,1416.01,Reversed
+C0001837,M00497,Diabetes,Local Care Pharmacy,2026-03-15,220.38,Paid
+C0001838,M00150,Behavioral Health,Costco Pharmacy,2025-08-06,155.09,Rejected
+C0001839,M00462,Cardiology,CVS,2025-09-21,176.99,Paid
+C0001840,M00455,Behavioral Health,Costco Pharmacy,2025-10-28,158.74,Reversed
+C0001841,M00264,Cardiology,Walgreens,2026-04-03,292.4,Paid
+C0001842,M00014,Cardiology,OptumRx,2026-02-28,35.2,Paid
+C0001843,M00048,Behavioral Health,Express Scripts,2025-10-05,67.67,Paid
+C0001844,M00155,Specialty,Local Care Pharmacy,2026-05-28,240.86,Paid
+C0001845,M00082,Oncology,OptumRx,2026-04-29,1180.85,Paid
+C0001846,M00312,Specialty,Walgreens,2026-03-16,920.67,Paid
+C0001847,M00390,Cardiology,Express Scripts,2026-06-09,295.53,Paid
+C0001848,M00026,Cardiology,Local Care Pharmacy,2025-10-26,192.6,Paid
+C0001849,M00468,Respiratory,CVS,2026-02-02,376.57,Paid
+C0001850,M00023,Oncology,Walgreens,2025-11-05,1288.15,Paid
+C0001851,M00350,Behavioral Health,Walgreens,2026-04-12,203.73,Paid
+C0001852,M00196,Cardiology,Costco Pharmacy,2026-02-21,247.83,Paid
+C0001853,M00417,Specialty,OptumRx,2025-10-02,1038.99,Paid
+C0001854,M00458,Specialty,OptumRx,2026-05-24,720.21,Paid
+C0001855,M00195,Cardiology,Costco Pharmacy,2025-11-13,93.81,Paid
+C0001856,M00138,Oncology,Express Scripts,2025-08-03,795.59,Paid
+C0001857,M00292,Cardiology,OptumRx,2025-09-20,133.68,Paid
+C0001858,M00126,Behavioral Health,Costco Pharmacy,2026-04-04,128.05,Paid
+C0001859,M00262,Behavioral Health,OptumRx,2025-10-22,275.39,Paid
+C0001860,M00277,Respiratory,Express Scripts,2025-07-22,131.7,Paid
+C0001861,M00134,Cardiology,Express Scripts,2026-03-27,65.55,Paid
+C0001862,M00035,Cardiology,CVS,2025-08-02,202.59,Paid
+C0001863,M00111,Behavioral Health,OptumRx,2025-11-05,49.87,Paid
+C0001864,M00312,Specialty,Local Care Pharmacy,2025-10-13,345.03,Paid
+C0001865,M00121,Diabetes,OptumRx,2025-07-01,192.17,Paid
+C0001866,M00129,Diabetes,Costco Pharmacy,2026-04-11,79.59,Paid
+C0001867,M00172,Respiratory,OptumRx,2025-09-23,337.46,Rejected
+C0001868,M00144,Respiratory,CVS,2025-11-12,248.28,Paid
+C0001869,M00223,Cardiology,Local Care Pharmacy,2025-10-07,30.77,Paid
+C0001870,M00015,Respiratory,Express Scripts,2025-08-02,213.78,Paid
+C0001871,M00252,Behavioral Health,Costco Pharmacy,2025-08-03,267.73,Paid
+C0001872,M00134,Specialty,Local Care Pharmacy,2026-04-06,940.34,Paid
+C0001873,M00282,Behavioral Health,Express Scripts,2026-01-22,213.99,Paid
+C0001874,M00076,Diabetes,Express Scripts,2025-11-16,37.27,Paid
+C0001875,M00054,Respiratory,Walgreens,2026-05-15,398.19,Rejected
+C0001876,M00325,Cardiology,Costco Pharmacy,2026-02-02,98.56,Paid
+C0001877,M00321,Respiratory,Express Scripts,2026-04-24,140.85,Paid
+C0001878,M00286,Oncology,Costco Pharmacy,2026-01-12,2066.65,Paid
+C0001879,M00461,Behavioral Health,OptumRx,2026-04-28,106.93,Reversed
+C0001880,M00416,Specialty,Walgreens,2026-05-11,268.66,Paid
+C0001881,M00352,Diabetes,OptumRx,2026-03-02,222.45,Paid
+C0001882,M00480,Cardiology,CVS,2025-12-27,223.36,Paid
+C0001883,M00041,Cardiology,Costco Pharmacy,2025-10-25,233.07,Paid
+C0001884,M00399,Specialty,OptumRx,2026-02-01,681.37,Paid
+C0001885,M00368,Specialty,OptumRx,2026-04-23,253.21,Paid
+C0001886,M00311,Diabetes,CVS,2025-07-26,135.49,Paid
+C0001887,M00338,Specialty,Costco Pharmacy,2025-11-30,1279.75,Reversed
+C0001888,M00130,Diabetes,Express Scripts,2026-01-09,88.98,Paid
+C0001889,M00142,Respiratory,Costco Pharmacy,2026-04-12,354.99,Paid
+C0001890,M00259,Cardiology,OptumRx,2026-02-09,116.52,Paid
+C0001891,M00424,Respiratory,OptumRx,2026-02-02,167.76,Paid
+C0001892,M00230,Cardiology,Express Scripts,2026-04-19,280.77,Paid
+C0001893,M00159,Respiratory,Costco Pharmacy,2025-10-07,452.65,Paid
+C0001894,M00015,Cardiology,OptumRx,2026-01-06,92.03,Paid
+C0001895,M00453,Cardiology,Walgreens,2026-05-21,59.59,Paid
+C0001896,M00174,Respiratory,Local Care Pharmacy,2026-01-20,56.01,Paid
+C0001897,M00316,Cardiology,Local Care Pharmacy,2025-07-05,290.32,Rejected
+C0001898,M00221,Diabetes,Walgreens,2025-09-28,63.19,Paid
+C0001899,M00498,Respiratory,Local Care Pharmacy,2026-03-02,229.26,Paid
+C0001900,M00161,Cardiology,CVS,2026-05-10,243.41,Paid
+C0001901,M00054,Diabetes,CVS,2025-08-21,85.99,Paid
+C0001902,M00441,Oncology,Costco Pharmacy,2026-03-31,2120.61,Paid
+C0001903,M00031,Diabetes,CVS,2026-04-01,236.87,Paid
+C0001904,M00306,Oncology,Costco Pharmacy,2026-03-11,967.74,Paid
+C0001905,M00452,Diabetes,Express Scripts,2025-12-31,157.84,Rejected
+C0001906,M00464,Diabetes,Walgreens,2026-02-14,212.06,Reversed
+C0001907,M00213,Respiratory,Express Scripts,2026-05-23,,Paid
+C0001908,M00378,Diabetes,Costco Pharmacy,2025-10-13,57.84,Paid
+C0001909,M00381,Respiratory,Express Scripts,2025-10-25,240.93,Paid
+C0001910,M00306,Respiratory,CVS,2026-03-30,409.8,Paid
+C0001911,M00181,Behavioral Health,OptumRx,2026-01-05,188.99,Rejected
+C0001912,M00091,Cardiology,Local Care Pharmacy,2026-04-12,57.44,Paid
+C0001913,M00262,Cardiology,CVS,2025-11-15,95.13,Paid
+C0001914,M00488,Cardiology,OptumRx,2026-01-05,110.32,Paid
+C0001915,M00175,Respiratory,CVS,2025-08-09,411.32,Paid
+C0001916,M00101,Diabetes,OptumRx,2026-02-15,190.53,Paid
+C0001917,M00319,Respiratory,Local Care Pharmacy,2026-03-09,350.81,Rejected
+C0001918,M00380,Respiratory,Express Scripts,2026-02-10,69.37,Paid
+C0001919,M00126,Specialty,Local Care Pharmacy,2026-06-13,1044.63,Paid
+C0001920,M00088,Diabetes,Costco Pharmacy,2026-04-11,227.96,Paid
+C0001921,M00088,Respiratory,Local Care Pharmacy,2025-12-29,423.46,Paid
+C0001922,M00282,Diabetes,Express Scripts,2026-05-07,222.92,Reversed
+C0001923,M00428,Diabetes,Walgreens,2026-05-22,97.61,Paid
+C0001924,M00316,Behavioral Health,Local Care Pharmacy,2025-12-14,280.37,Paid
+C0001925,M00429,Diabetes,OptumRx,2025-10-26,169.04,Paid
+C0001926,M00456,Cardiology,Local Care Pharmacy,2026-05-21,31.99,Paid
+C0001927,M00036,Respiratory,Costco Pharmacy,2026-02-28,205.05,Paid
+C0001928,M00468,Diabetes,OptumRx,2025-09-27,120.85,Paid
+C0001929,M00474,Specialty,Express Scripts,2025-11-12,629.94,Paid
+C0001930,M00277,Diabetes,Local Care Pharmacy,2026-01-02,147.49,Paid
+C0001931,M00313,Specialty,CVS,2026-04-09,761.89,Paid
+C0001932,M00356,Specialty,OptumRx,2026-06-08,1429.83,Paid
+C0001933,M00310,Diabetes,Costco Pharmacy,2026-03-15,147.86,Paid
+C0001934,M00452,Specialty,Costco Pharmacy,2026-05-15,668.47,Paid
+C0001935,M00305,Specialty,CVS,2026-05-03,1235.35,Paid
+C0001936,M00163,Oncology,CVS,2026-03-03,1599.23,Paid
+C0001937,M00234,Respiratory,CVS,2025-10-28,142.95,Paid
+C0001938,M00446,Respiratory,Local Care Pharmacy,2026-01-12,292.98,Paid
+C0001939,M00139,Diabetes,Local Care Pharmacy,2026-04-12,67.3,Paid
+C0001940,M00234,Diabetes,CVS,2026-04-17,74.98,Paid
+C0001941,M00058,Behavioral Health,CVS,2026-03-13,195.37,Paid
+C0001942,M00423,Diabetes,Walgreens,2025-10-16,231.34,Paid
+C0001943,M00268,Behavioral Health,Walgreens,2026-04-12,209.25,Paid
+C0001944,M00063,Diabetes,Walgreens,2025-10-03,46.31,Paid
+C0001945,M00002,Diabetes,Express Scripts,2026-01-14,185.38,Paid
+C0001946,M00059,Diabetes,Costco Pharmacy,2026-05-20,25.21,Paid
+C0001947,M00290,Behavioral Health,CVS,2026-01-14,199.95,Paid
+C0001948,M00043,Respiratory,CVS,2026-01-13,114.88,Paid
+C0001949,M00474,Respiratory,OptumRx,2025-11-26,423.46,Paid
+C0001950,M00333,Behavioral Health,Express Scripts,2025-07-25,176.76,Paid
+C0001951,M00405,Respiratory,Walgreens,2026-05-25,405.37,Paid
+C0001952,M00160,Cardiology,Local Care Pharmacy,2025-12-09,306.9,Paid
+C0001953,M00018,Diabetes,Express Scripts,2025-07-09,195.47,Paid
+C0001954,M00210,Behavioral Health,OptumRx,2025-11-20,20.73,Rejected
+C0001955,M00306,Cardiology,CVS,2025-12-17,263.82,Rejected
+C0001956,M00024,Cardiology,Express Scripts,2026-06-08,304.0,Paid
+C0001957,M00048,Diabetes,OptumRx,2026-01-18,237.01,Paid
+C0001958,M00045,Respiratory,OptumRx,2025-10-24,339.1,Paid
+C0001959,M00232,Specialty,Costco Pharmacy,2026-05-11,254.03,Paid
+C0001960,M00321,Oncology,OptumRx,2025-07-08,1228.38,Paid
+C0001961,M00394,Diabetes,OptumRx,2025-10-12,119.57,Paid
+C0001962,M00196,Specialty,Express Scripts,2026-05-15,931.96,Paid
+C0001963,M00315,Oncology,Costco Pharmacy,2025-10-28,184.73,Paid
+C0001964,M00289,Specialty,Express Scripts,2025-08-30,1030.43,Paid
+C0001965,M00354,Specialty,CVS,2026-05-11,812.65,Paid
+C0001966,M00191,Respiratory,Express Scripts,2026-01-02,219.17,Paid
+C0001967,M00296,Oncology,Walgreens,2026-05-01,928.6,Paid
+C0001968,M00487,Diabetes,Express Scripts,2025-12-31,122.45,Paid
+C0001969,M00328,Specialty,Express Scripts,2025-10-04,919.77,Paid
+C0001970,M00041,Specialty,OptumRx,2026-04-19,116.49,Rejected
+C0001971,M00486,Diabetes,Costco Pharmacy,2025-12-19,129.56,Paid
+C0001972,M00495,Diabetes,Local Care Pharmacy,2025-11-26,135.77,Paid
+C0001973,M00387,Diabetes,Walgreens,2026-05-05,89.83,Paid
+C0001974,M00050,Specialty,Costco Pharmacy,2026-05-27,1265.58,Paid
+C0001975,M00048,Specialty,Express Scripts,2025-09-09,967.9,Paid
+C0001976,M00085,Diabetes,Costco Pharmacy,2025-12-19,246.21,Paid
+C0001977,M00234,Diabetes,Local Care Pharmacy,2025-11-13,189.13,Paid
+C0001978,M00138,Behavioral Health,OptumRx,2026-04-10,47.81,Paid
+C0001979,M00193,Oncology,Express Scripts,2025-12-11,1870.61,Paid
+C0001980,M00065,Diabetes,OptumRx,2025-09-03,157.87,Paid
+C0001981,M00001,Respiratory,CVS,2025-07-26,40.27,Paid
+C0001982,M00114,Behavioral Health,OptumRx,2026-01-26,,Rejected
+C0001983,M00240,Diabetes,Express Scripts,2025-11-20,218.2,Reversed
+C0001984,M00262,Diabetes,Local Care Pharmacy,2025-12-15,153.52,Rejected
+C0001985,M00145,Diabetes,Local Care Pharmacy,2026-03-24,39.53,Rejected
+C0001986,M00423,Oncology,Local Care Pharmacy,2025-11-12,484.01,Paid
+C0001987,M00047,Diabetes,Costco Pharmacy,2026-01-16,119.56,Rejected
+C0001988,M00411,Respiratory,CVS,2025-08-03,35.12,Paid
+C0001989,M00487,Specialty,CVS,2025-07-31,1121.52,Paid
+C0001990,M00193,Behavioral Health,CVS,2026-02-23,182.29,Reversed
+C0001991,M00341,Diabetes,Local Care Pharmacy,2025-08-11,63.0,Rejected
+C0001992,M00385,Cardiology,CVS,2026-02-11,296.61,Paid
+C0001993,M00071,Diabetes,Express Scripts,2025-08-06,25.94,Paid
+C0001994,M00353,Diabetes,Local Care Pharmacy,2025-11-09,249.59,Paid
+C0001995,M00339,Diabetes,Costco Pharmacy,2025-12-07,140.01,Paid
+C0001996,M00362,Cardiology,Costco Pharmacy,2025-09-11,257.04,Paid
+C0001997,M00215,Specialty,OptumRx,2026-01-28,940.12,Paid
+C0001998,M00133,Cardiology,Express Scripts,2025-08-29,158.73,Paid
+C0001999,M00046,Behavioral Health,Walgreens,2026-03-21,230.9,Reversed
+C0002000,M00105,Respiratory,Walgreens,2025-08-12,385.64,Rejected
+CMISS0000,MISSING_CLAIM000,Behavioral Health,CVS,2026-04-01,67.0,Paid
+CMISS0001,MISSING_CLAIM001,Oncology,CVS,2026-04-01,156.83,Paid
+CMISS0002,MISSING_CLAIM002,Respiratory,Local Care Pharmacy,2026-04-01,504.19,Paid
+CMISS0003,MISSING_CLAIM003,Cardiology,Local Care Pharmacy,2026-04-01,179.21,Paid
+CMISS0004,MISSING_CLAIM004,Specialty,OptumRx,2026-04-01,202.14,Paid
+CMISS0005,MISSING_CLAIM005,Behavioral Health,OptumRx,2026-04-01,372.77,Paid
+CMISS0006,MISSING_CLAIM006,Respiratory,Walgreens,2026-04-01,296.42,Paid
+CMISS0007,MISSING_CLAIM007,Cardiology,Express Scripts,2026-04-01,442.75,Paid
+CMISS0008,MISSING_CLAIM008,Specialty,OptumRx,2026-04-01,784.05,Paid
+CMISS0009,MISSING_CLAIM009,Specialty,CVS,2026-04-01,606.45,Paid
+C0000043,M00091,Diabetes,Walgreens,2025-08-03,49.04,Paid
+C0001796,M00009,Specialty,Express Scripts,2026-01-24,1426.39,Paid
+C0001884,M00399,Specialty,OptumRx,2026-02-01,681.37,Paid
+C0000607,M00215,Respiratory,Costco Pharmacy,2026-04-01,419.36,Paid
+C0000477,M00165,Respiratory,Express Scripts,2025-10-18,344.64,Paid
+C0000942,M00085,Respiratory,Local Care Pharmacy,2026-03-08,84.83,Paid
+C0000294,M00214,Diabetes,Local Care Pharmacy,2025-09-18,135.95,Paid
+C0000672,M00299,Behavioral Health,OptumRx,2025-12-25,103.48,Paid

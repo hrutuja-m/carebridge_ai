@@ -1,0 +1,4 @@
+file_name,row_count,missing_values,duplicate_rows,invalid_dates,unmatched_member_ids,invalid_ssns,null_paid_amounts,issue_count,status
+members.csv,506,4,6,0,0,7,0,17,Warning
+enrollment.csv,508,0,0,5,12,0,0,17,Warning
+pharmacy_claims.csv,2018,12,8,5,10,0,12,47,Warning

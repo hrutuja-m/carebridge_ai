@@ -1,0 +1,498 @@
+member_token,age_group,county,state,risk_score,chronic_condition_flag
+tok_6897bc6eab7b,18-34,Bexar,TX,0.078,False
+tok_d27e245c511c,35-44,Harris,TX,0.756,False
+tok_81f36519c1fc,18-34,Tarrant,IL,0.838,True
+tok_1b0bbb1b5b44,65+,Travis,NY,0.705,False
+tok_00b88db5850b,55-64,Travis,CA,0.394,False
+tok_8c8d47096b98,35-44,Denton,IL,0.834,True
+tok_d42f425a32d6,35-44,El Paso,PA,0.873,True
+tok_734e10853b92,65+,Bexar,IL,0.254,True
+tok_5c868e4e3d6b,55-64,Bexar,MA,0.408,True
+tok_ba2ace6eda2e,55-64,Travis,MA,0.323,False
+tok_9b8d7bfb9ed3,65+,Denton,CA,0.398,False
+tok_c1a600d59fa8,35-44,Denton,MA,0.13,True
+tok_b2cff28012a7,35-44,Bexar,NY,0.914,True
+tok_601f4a6b5b0e,35-44,Tarrant,IL,0.07,True
+tok_80f3159eadaa,65+,Travis,MA,0.528,False
+tok_c944262c0608,35-44,El Paso,PA,0.227,False
+tok_c59f5dc7e298,18-34,Travis,MA,0.281,False
+tok_4b0a53c1abe8,65+,Tarrant,TX,0.656,True
+tok_281dd834cc6b,65+,Dallas,CA,0.402,True
+tok_85455b7f89b5,18-34,Harris,NY,0.951,True
+tok_c2a2679ce1d4,65+,Collin,TX,0.944,False
+tok_193d4371b4ed,65+,Denton,TX,0.626,True
+tok_a584c6a7ba04,35-44,Bexar,CA,0.675,False
+tok_b2a62778fab8,45-54,Harris,CA,0.918,True
+tok_f7a03e969fb0,18-34,Harris,MA,0.923,False
+tok_870c9e783a42,35-44,Harris,OH,0.284,True
+tok_9270c76f7536,55-64,Harris,CA,0.739,True
+tok_7d14d00e2bed,18-34,Travis,CA,0.45,False
+tok_07b58472cb71,55-64,Bexar,CA,0.911,False
+tok_13a5775196d8,35-44,Tarrant,PA,0.861,True
+tok_b5d424548756,55-64,Bexar,IL,0.309,False
+tok_389d6891e5f1,18-34,Harris,CA,0.59,True
+tok_9fa8ea15426e,18-34,Denton,FL,0.091,True
+tok_79083ed2f792,55-64,Tarrant,FL,0.522,True
+tok_1ab3c30739e5,55-64,Collin,FL,0.428,True
+tok_75fb477f7c0c,45-54,El Paso,NY,0.525,True
+tok_f3b425c6fa1f,65+,Denton,FL,0.259,False
+tok_aba08c2b1d49,45-54,Denton,PA,0.51,False
+tok_202624c7d4bb,18-34,Denton,MA,0.475,True
+tok_0b2f99fbd9de,45-54,El Paso,CA,0.742,True
+tok_dbb3067c493f,35-44,Tarrant,FL,0.268,False
+tok_c47f34cd8da4,18-34,Bexar,IL,0.555,True
+tok_2ef6be25fce1,45-54,Travis,FL,0.751,True
+tok_b5f703c23101,35-44,El Paso,TX,0.412,True
+tok_2c4770dfe470,65+,Dallas,MA,0.648,False
+tok_6b61351be76b,35-44,Bexar,FL,0.749,True
+tok_9e1dab4d250a,55-64,Dallas,TX,0.933,False
+tok_812e924f0fef,45-54,Harris,IL,0.206,True
+tok_4cbe0b766705,45-54,Denton,MA,0.601,True
+tok_8edc533bc2c5,35-44,Bexar,IL,0.114,True
+tok_e9e4a4215923,55-64,Bexar,CA,0.732,True
+tok_aff03ae63be3,35-44,Denton,MA,0.309,True
+tok_9fed00d59456,45-54,Travis,FL,0.367,True
+tok_1883faab5a39,45-54,Denton,OH,0.651,True
+tok_7c54f17507a9,45-54,Travis,PA,0.977,True
+tok_26cd05183a6d,18-34,Collin,NY,0.251,True
+tok_a64635d06f4b,35-44,Harris,TX,0.708,False
+tok_6627399ca68f,18-34,Dallas,FL,0.487,True
+tok_696c427f87ca,18-34,Dallas,CA,0.189,True
+tok_08586062b893,55-64,Bexar,OH,0.895,False
+tok_f0a7521e36cf,55-64,Harris,MA,0.196,False
+tok_eccd425973fa,18-34,Harris,FL,0.704,True
+tok_818b927c6a1f,65+,Collin,MA,0.105,True
+tok_be6327608114,65+,El Paso,OH,0.125,False
+tok_916f7103175d,65+,Dallas,FL,0.586,True
+tok_57f840476fbd,55-64,El Paso,MA,0.487,True
+tok_638b929806f1,55-64,Bexar,TX,0.473,False
+tok_0b8b65746e56,45-54,Dallas,NY,0.532,True
+tok_e9128b7e0f08,45-54,El Paso,MA,0.077,True
+,45-54,Tarrant,CA,0.513,True
+tok_5d44b599e747,45-54,Collin,MA,0.307,True
+tok_07c0247beed0,65+,El Paso,CA,0.465,True
+tok_75abad56af13,45-54,Denton,PA,0.091,True
+tok_4236f6a93ec2,65+,Travis,MA,0.863,True
+tok_ba2684ff0a2c,45-54,Harris,IL,0.63,True
+tok_e5ab09e6a7b4,65+,Dallas,MA,0.268,True
+tok_24203e7fd8a9,45-54,Harris,TX,0.093,True
+tok_14b15e9fa412,18-34,Tarrant,PA,0.626,False
+tok_1cdac3edfe30,65+,El Paso,FL,0.68,False
+tok_0feca2812ee8,45-54,Harris,NY,0.979,True
+tok_2cc124994ded,65+,Bexar,FL,0.058,True
+tok_98e9d51cf046,35-44,Denton,FL,0.68,True
+tok_692392b11ed1,55-64,Tarrant,FL,0.354,True
+tok_6a4f9fbe26f0,65+,Collin,FL,0.9,True
+tok_63afbef69cf8,65+,Bexar,IL,0.134,True
+tok_ae2f1582f4d0,45-54,Travis,MA,0.678,True
+tok_6d3664e71df8,55-64,Tarrant,CA,0.092,False
+tok_91eac4e626f9,35-44,Bexar,CA,0.873,True
+tok_e62e397b775f,35-44,El Paso,NY,0.846,False
+tok_b89532f99755,65+,El Paso,MA,0.666,True
+tok_a9143748d93f,18-34,Denton,NY,0.806,False
+tok_d357953d4cfa,35-44,Collin,MA,0.665,False
+tok_311bd55886a0,18-34,Bexar,MA,0.743,True
+tok_48ab83f95005,55-64,Harris,OH,0.648,False
+tok_d20e5757179c,35-44,Collin,MA,0.167,True
+tok_f435f44d8405,45-54,Bexar,MA,0.788,False
+tok_e7d54c7e6ea0,45-54,Tarrant,IL,0.447,True
+tok_2f9fdf374962,18-34,Travis,CA,0.567,True
+tok_536c44830aa4,65+,Harris,IL,0.146,True
+tok_b7418a559392,55-64,Denton,PA,0.836,True
+tok_f6517e8d50a5,18-34,Harris,FL,0.907,True
+tok_c3243bb9030b,18-34,Denton,PA,0.44,False
+tok_89d8663c141f,65+,Collin,CA,0.752,False
+tok_73553549fb4d,35-44,Tarrant,IL,0.45,False
+tok_ca0274d77d13,18-34,Harris,NY,0.764,True
+tok_938e041d7935,45-54,Denton,IL,0.117,True
+tok_7c505b7bbfc3,45-54,Bexar,FL,0.157,False
+tok_fe41e015a7c5,65+,Denton,PA,0.598,True
+tok_58f9324ab8a1,45-54,Tarrant,NY,0.893,False
+tok_3a87a4b48abf,55-64,Tarrant,CA,0.935,True
+tok_6a11d0c13247,65+,Travis,CA,0.459,True
+tok_292a7f5a085e,45-54,Dallas,IL,0.823,False
+tok_eca06aec793b,45-54,Denton,IL,0.613,True
+tok_738f7658e886,18-34,El Paso,OH,0.537,True
+tok_16b57f265e9e,55-64,Travis,MA,0.357,True
+tok_df94f5749a67,65+,Harris,PA,0.17,True
+tok_6b82d0d26c5f,18-34,Bexar,IL,0.067,False
+tok_4fb1cab0332f,35-44,Tarrant,TX,0.666,True
+tok_12a529d09046,55-64,Dallas,PA,0.389,True
+tok_8f405555432d,65+,Denton,IL,0.681,True
+tok_86d2425d02eb,65+,Denton,CA,0.862,False
+tok_8bf1a2e15e54,18-34,Collin,FL,0.468,True
+tok_1f1b4a3b5659,45-54,Travis,NY,0.409,False
+tok_bccdac12cc9e,18-34,Harris,OH,0.697,False
+tok_43efa768d844,65+,Bexar,MA,0.772,False
+tok_17d76563e87f,18-34,El Paso,TX,0.638,True
+tok_7eeb2a3a9774,35-44,Tarrant,IL,0.113,True
+tok_d7da16e17290,65+,Harris,TX,0.382,False
+tok_db171de6446b,65+,Collin,OH,0.962,True
+tok_6a37baa9c5b7,18-34,Denton,TX,0.344,False
+tok_8cf3e44cde2a,35-44,Dallas,IL,0.304,True
+tok_d83506cb6911,45-54,El Paso,IL,0.91,True
+tok_d5e115e4d6bc,35-44,Tarrant,IL,0.665,False
+tok_fd65ee0186f6,35-44,Dallas,MA,0.674,True
+tok_35e8199bfc4c,18-34,Denton,IL,0.387,True
+tok_ae97712ed8e1,45-54,Travis,PA,0.342,False
+tok_d1bd2bf2ea9f,35-44,Harris,OH,0.25,True
+tok_02a9c36fe622,65+,Travis,IL,0.71,True
+tok_069914345fd7,55-64,Denton,MA,0.966,True
+tok_443a053aad95,55-64,Tarrant,MA,0.338,True
+tok_84a5eb0126f3,55-64,El Paso,OH,0.683,False
+tok_0e332a0d12a3,18-34,Collin,CA,0.35,True
+tok_638b26ae2f0e,18-34,Harris,MA,0.517,False
+tok_6bb24c061d80,18-34,Harris,NY,0.763,True
+tok_6542d14099a4,65+,Bexar,FL,0.472,True
+tok_ed89fc1a08f4,35-44,Travis,IL,0.957,False
+tok_6a0171bb4f66,45-54,Collin,MA,0.097,True
+tok_63bd7089f53b,55-64,El Paso,OH,0.514,False
+tok_efabfc2e79ea,18-34,Harris,OH,0.606,True
+tok_1072eb6615e8,55-64,Bexar,IL,0.092,False
+tok_9cc2d44ce5df,65+,Tarrant,CA,0.957,True
+tok_c697fee9b251,18-34,Dallas,CA,0.714,True
+tok_a799b396cf0b,45-54,Harris,IL,0.522,True
+tok_6d0aa9428b7c,65+,Harris,TX,0.605,False
+tok_4bb8d00ae39d,18-34,Denton,TX,0.582,True
+tok_0598eaacc9fd,45-54,El Paso,TX,0.706,True
+tok_410e6cb8128b,65+,Travis,IL,0.679,True
+tok_6e0fff329f5f,35-44,Harris,FL,0.706,True
+tok_b535b1ddb3cb,18-34,Bexar,PA,0.811,True
+tok_91ffb5743f82,55-64,El Paso,NY,0.238,True
+tok_f5d4991df030,18-34,Denton,NY,0.099,True
+tok_cb7e6c10e50a,45-54,El Paso,OH,0.655,True
+tok_ffc78603d4a5,45-54,Dallas,CA,0.439,True
+tok_7ab2302f629a,18-34,Tarrant,IL,0.315,True
+tok_3736c467e4c0,65+,Travis,CA,0.73,True
+tok_3a1e7118012e,18-34,Bexar,PA,0.529,False
+tok_68166c244b78,45-54,El Paso,FL,0.937,False
+tok_3c811a9089a0,45-54,Collin,PA,0.688,True
+tok_90802fcdb0b5,45-54,El Paso,IL,0.437,True
+tok_9c8a49cba2b4,45-54,Travis,MA,0.903,False
+tok_bcb398ab962c,18-34,Denton,OH,0.135,True
+tok_fba03a1bcd60,55-64,Harris,TX,0.418,True
+tok_71f2ba7b0629,65+,Tarrant,OH,0.08,True
+tok_662a72e0c530,55-64,Collin,IL,0.16,True
+tok_549576dc23c5,45-54,Bexar,PA,0.816,False
+tok_9baf8f3f4a9c,65+,Bexar,TX,0.274,False
+tok_2477035a1b3c,35-44,Denton,TX,0.18,True
+tok_f75b9a072398,35-44,Harris,FL,0.107,True
+tok_505c3d6945fc,55-64,Travis,PA,0.43,False
+tok_46519c4acd4c,65+,Bexar,PA,0.568,False
+tok_4b44a5704e5e,45-54,Denton,TX,0.3,True
+tok_c0bc35288e40,45-54,Travis,FL,0.94,False
+tok_613505c8b585,45-54,Denton,IL,0.771,True
+tok_a7f85c2133d5,65+,El Paso,IL,0.9,True
+tok_363a790e4c76,35-44,Denton,IL,0.264,True
+tok_d328692edbd7,45-54,Travis,CA,0.18,True
+tok_3ab4109c28f3,55-64,Bexar,CA,0.834,False
+tok_624ca44f1728,55-64,Dallas,TX,0.545,True
+tok_4b06749f0d71,65+,Bexar,CA,0.15,False
+tok_dfa24484fb30,18-34,Bexar,OH,0.575,True
+tok_ea0fcb390817,45-54,Bexar,OH,0.102,False
+tok_a8a6e0209d96,45-54,Dallas,CA,0.914,False
+tok_56ac904e8002,45-54,Bexar,IL,0.407,True
+tok_fde543b604a3,35-44,Bexar,IL,0.078,False
+tok_c2cae293ea8d,55-64,Bexar,MA,0.768,False
+tok_03fb85fd12cb,55-64,Travis,IL,0.149,False
+tok_854a95322f91,45-54,Bexar,MA,0.074,True
+tok_f3570d2835bd,18-34,Harris,PA,0.329,True
+tok_e7a0e5643092,18-34,Dallas,PA,0.359,True
+tok_631c86bb1d6d,35-44,Denton,OH,0.342,True
+tok_d09b2b4b5583,35-44,Bexar,IL,0.156,True
+tok_430df8fe1e32,55-64,Tarrant,PA,0.676,False
+tok_930105f2c6e2,65+,El Paso,PA,0.547,True
+tok_3194e25f03d2,18-34,Denton,IL,0.205,True
+tok_97a36a42586c,18-34,Denton,NY,0.465,True
+tok_11a373548f43,45-54,Tarrant,MA,0.823,True
+tok_cd150d50aa2d,45-54,El Paso,OH,0.347,False
+tok_7e43aef757a1,45-54,Collin,IL,0.571,True
+tok_04d650e860bb,18-34,Denton,OH,0.601,True
+tok_644b224131b8,35-44,El Paso,MA,0.294,True
+tok_ac93a757a86a,35-44,El Paso,CA,0.807,True
+tok_953b45caa9af,35-44,Collin,IL,0.695,True
+tok_70cb4bb5c7a2,55-64,Collin,CA,0.505,False
+tok_e34522dd28f7,35-44,Bexar,OH,0.43,True
+tok_2573c9ba3568,18-34,Denton,FL,0.206,True
+tok_63e68ee01ed6,45-54,Dallas,OH,0.558,True
+tok_aef02b1f8513,65+,Tarrant,NY,0.245,True
+tok_10e7698170a7,65+,Travis,FL,0.605,False
+tok_854e0068700e,18-34,Bexar,TX,0.973,True
+tok_6a9fb41fb551,45-54,Harris,PA,0.399,False
+tok_37522a5a4d0b,35-44,Dallas,MA,0.73,True
+tok_84ce0e88cc12,35-44,Harris,IL,0.559,False
+tok_3e15e31f1042,18-34,Collin,OH,0.475,True
+tok_3656cc604aaf,18-34,Travis,FL,0.127,True
+tok_d8facf918df1,55-64,Tarrant,TX,0.248,False
+tok_c323876f6f6b,65+,Bexar,CA,0.494,False
+tok_c60e7190e0a4,55-64,Collin,CA,0.114,True
+tok_be6aa9ce9e49,55-64,El Paso,NY,0.131,False
+tok_97e0faa73fb8,35-44,Tarrant,NY,0.565,True
+tok_49587be0bf1c,45-54,Denton,PA,0.325,False
+tok_dbcb0a660ad5,45-54,Dallas,IL,0.919,False
+tok_ae4e58189f10,18-34,Tarrant,TX,0.294,False
+tok_16b8a7e3de09,35-44,Bexar,NY,0.104,False
+tok_9a8c572a2abb,18-34,Collin,TX,0.202,True
+tok_5bdeeb50fc97,55-64,Dallas,IL,0.801,False
+tok_c0cd96d3b106,45-54,Collin,IL,0.196,True
+tok_8903336ee63d,35-44,El Paso,IL,0.406,False
+tok_9f61666925b6,35-44,Tarrant,IL,0.161,True
+tok_3d35789c315a,65+,Harris,IL,0.13,True
+tok_34f4148fa1a7,45-54,El Paso,NY,0.731,True
+tok_094e01565ee4,55-64,Dallas,IL,0.051,True
+tok_1b299d3eec61,65+,Collin,FL,0.137,True
+tok_2c5109818725,45-54,Bexar,MA,0.6,False
+tok_8755bb3e41b5,35-44,Harris,NY,0.119,False
+tok_17d0e7da048a,18-34,Travis,NY,0.47,True
+tok_ac26b792d3d2,35-44,Travis,CA,0.135,False
+tok_a5fd05c69a15,65+,El Paso,NY,0.138,False
+tok_4ab472397501,65+,Travis,MA,0.592,False
+tok_baff62e09f3e,65+,Travis,MA,0.09,True
+tok_c95f7935fd59,18-34,Denton,CA,0.306,True
+tok_8ec556ca46d8,18-34,Harris,PA,0.178,False
+tok_1980db9eb653,45-54,El Paso,IL,0.899,True
+tok_673c21f05df5,18-34,El Paso,IL,0.763,True
+tok_bea88f053504,45-54,Bexar,IL,0.92,True
+tok_e1c978acd6c9,55-64,Travis,CA,0.574,False
+tok_beb88d665b22,55-64,Dallas,OH,0.051,True
+tok_47a33c526417,18-34,Collin,MA,0.837,True
+tok_c523dd47ee6e,18-34,Collin,PA,0.786,True
+tok_c10f595de302,35-44,Harris,CA,0.215,False
+tok_725723fff067,55-64,Tarrant,OH,0.181,True
+tok_c0b43ea6cbb5,45-54,Harris,NY,0.282,False
+tok_3d85853e4583,65+,El Paso,PA,0.377,True
+tok_6ffc59680c9d,18-34,Harris,MA,0.119,False
+tok_393fbf0f6869,55-64,Bexar,CA,0.615,True
+tok_e69dd1ce47e3,35-44,Harris,FL,0.271,False
+tok_29beed6836bd,18-34,El Paso,NY,0.14,False
+tok_51724dfe8edb,65+,Harris,MA,0.647,True
+tok_26fb29a2f343,35-44,Harris,TX,0.191,True
+tok_9c896702177f,45-54,Bexar,PA,0.948,True
+tok_ba7bef89aac7,45-54,Collin,MA,0.933,True
+tok_f7c3c058665c,35-44,Collin,FL,0.347,True
+tok_21e2587053fd,65+,Dallas,PA,0.155,False
+tok_952ccf2c178d,65+,Travis,PA,0.296,True
+tok_3f437a16742a,18-34,Travis,NY,0.096,True
+tok_87b8ead21ee4,65+,Tarrant,NY,0.175,True
+tok_c91f1f5a17c6,35-44,Bexar,OH,0.756,True
+tok_a412c38e275e,18-34,Dallas,CA,0.229,True
+tok_74cc5822f3c3,35-44,El Paso,PA,0.641,False
+tok_57861e420c2d,35-44,Harris,MA,0.315,True
+tok_e8d25fe2997d,35-44,Bexar,TX,0.854,True
+tok_bb28d9e1bffd,55-64,Harris,FL,0.444,True
+tok_95fdd9490b3e,45-54,Dallas,IL,0.572,True
+tok_aecd51c21ed4,65+,Harris,FL,0.225,True
+tok_a4aff7b36a00,55-64,Harris,FL,0.893,True
+tok_af01205f8d4d,55-64,El Paso,IL,0.522,True
+tok_83d37395eb80,65+,Travis,MA,0.257,False
+tok_18b16a8cfcee,65+,El Paso,TX,0.856,True
+tok_5bbb79a47ec9,35-44,Dallas,CA,0.178,False
+tok_53e7f145089b,45-54,Collin,IL,0.64,False
+tok_df0d3acd0e83,18-34,Bexar,PA,0.425,True
+tok_d364481b0e1b,55-64,Denton,TX,0.679,True
+tok_7370ae826773,45-54,Collin,MA,0.816,False
+tok_4f21990a2d35,35-44,El Paso,IL,0.748,False
+tok_82a0a1e27033,45-54,Collin,MA,0.391,True
+tok_bd094192e2a0,55-64,Dallas,TX,0.691,True
+tok_51631a9726fd,35-44,Tarrant,FL,0.629,True
+tok_68eb4f40a43a,55-64,Harris,NY,0.383,True
+tok_4afca6475297,35-44,Dallas,MA,0.893,True
+tok_3a9bda18d785,55-64,El Paso,FL,0.296,False
+tok_c23b738291ff,55-64,Tarrant,TX,0.059,False
+tok_34454262c88f,65+,Collin,MA,0.423,True
+tok_706f4ce47980,18-34,Dallas,CA,0.146,True
+tok_aa49f5725938,65+,Collin,OH,0.906,False
+tok_d0be2b509b2b,55-64,Denton,IL,0.533,True
+tok_ed867018dd58,18-34,Dallas,TX,0.648,False
+tok_8a07d7f92f6c,35-44,Harris,TX,0.521,True
+tok_846dbfe9d380,18-34,El Paso,OH,0.344,True
+tok_8f5ef9b40b21,65+,Harris,NY,0.659,True
+tok_fc5904236a9d,55-64,Travis,OH,0.156,True
+tok_ef705ed9f1ab,35-44,Tarrant,TX,0.884,True
+tok_ac662a4192d9,65+,Denton,IL,0.15,True
+tok_06dee7dd1b5b,65+,Dallas,TX,0.565,True
+tok_d2d451df7ef3,45-54,Travis,PA,0.439,True
+tok_75759041e3fa,45-54,Harris,IL,0.712,True
+tok_469ad3bfbc87,45-54,Travis,MA,0.758,True
+tok_153fbb1a52ff,65+,Tarrant,TX,0.404,False
+tok_0b779e83df14,65+,Harris,NY,0.751,False
+tok_95f5f7a8f377,45-54,Harris,TX,0.912,True
+tok_49e09ee7c79f,65+,Travis,NY,0.772,True
+tok_78ffe3882d96,35-44,Bexar,FL,0.568,False
+tok_d3275162bc3b,65+,Dallas,FL,0.506,True
+tok_672c89e54d9b,55-64,Collin,PA,0.555,True
+tok_7ae934059d8a,45-54,Dallas,MA,0.672,True
+tok_25758a32a8e4,45-54,Harris,TX,0.898,True
+tok_902d6a7c9cf4,35-44,Tarrant,MA,0.206,True
+tok_ba23b2ff574f,65+,Denton,PA,0.651,True
+tok_bec591f8d866,18-34,Harris,MA,0.585,False
+tok_e03c2d41708a,45-54,Tarrant,TX,0.647,True
+tok_22aa45dc9405,55-64,Harris,MA,0.312,True
+tok_f1be0382725c,55-64,Harris,CA,0.327,True
+tok_4becdef84d62,45-54,Tarrant,FL,0.245,True
+tok_f3d4c67f1c91,35-44,Collin,TX,0.842,True
+tok_876dec0800ed,35-44,El Paso,IL,0.382,True
+tok_1aa5f69841ed,35-44,Harris,CA,0.576,True
+tok_ba4292537425,35-44,Travis,CA,0.682,False
+tok_a99ff3ffcc91,18-34,Tarrant,FL,0.849,False
+tok_de1ea5bbdf7c,65+,Bexar,NY,0.893,True
+tok_24bf9533d88c,18-34,Tarrant,PA,0.388,False
+tok_4e5b134c91eb,18-34,Collin,OH,0.923,False
+tok_398bf3999ee1,45-54,Travis,PA,0.487,True
+tok_2612acfef0bb,65+,Harris,CA,0.4,True
+tok_fc0051712f01,35-44,Travis,OH,0.787,True
+tok_30910c53af08,35-44,Collin,CA,0.387,True
+tok_7fe8c826b325,45-54,Collin,PA,0.071,False
+tok_5c705a2346f7,18-34,Harris,CA,0.53,True
+tok_676f851b8a72,65+,Collin,NY,0.822,True
+tok_11c470bf65ad,65+,Tarrant,NY,0.402,False
+tok_66970539313d,18-34,Dallas,MA,0.137,True
+tok_31fa1f2652ef,45-54,Travis,TX,0.699,True
+tok_a609a6a1fe1f,65+,Tarrant,FL,0.606,True
+tok_67a4af937cc9,35-44,Denton,IL,0.43,False
+tok_7110eb8d2b31,55-64,Bexar,NY,0.434,True
+tok_daad01443118,55-64,Bexar,CA,0.845,True
+tok_4caa507e16a1,65+,Dallas,CA,0.412,True
+tok_9f4bd580000f,18-34,Dallas,PA,0.916,True
+tok_05ae448bbc56,45-54,Denton,FL,0.231,True
+tok_556b0ced6396,35-44,Dallas,CA,0.131,False
+tok_982a692c646f,55-64,Tarrant,MA,0.561,True
+tok_9f1b5a11006b,45-54,Bexar,TX,0.293,True
+tok_f1ae6ae7cfed,65+,Harris,OH,0.948,True
+tok_ca79de5d719e,18-34,Tarrant,PA,0.639,True
+tok_64bab3d1ddb5,35-44,Tarrant,PA,0.677,True
+tok_e2068cd0289d,35-44,Denton,OH,0.736,False
+tok_faf8f9f6cc52,18-34,Tarrant,MA,0.906,True
+tok_aa295eeadd90,45-54,Harris,OH,0.22,True
+tok_3fd78175a909,55-64,El Paso,TX,0.517,True
+tok_eb3599bf0354,55-64,Bexar,MA,0.353,True
+tok_f6d7723ed2a0,35-44,El Paso,PA,0.246,True
+tok_188b5c0eb798,65+,Denton,MA,0.72,True
+tok_dbbaa4709766,65+,Collin,PA,0.515,True
+tok_5211431ad7fb,45-54,Collin,TX,0.25,False
+tok_3edc035d310e,35-44,Bexar,MA,0.377,True
+tok_1da25b509556,35-44,El Paso,OH,0.877,True
+tok_f2006950154c,55-64,Bexar,MA,0.124,False
+tok_355a541cbc69,35-44,El Paso,IL,0.746,True
+tok_2e0d413aa817,65+,Tarrant,NY,0.205,False
+tok_792062b879a9,45-54,Tarrant,MA,0.294,False
+tok_ea094e616aee,18-34,Collin,TX,0.083,True
+tok_b870a0a72a8a,65+,Collin,OH,0.637,True
+tok_f6b7d3be8c38,35-44,Tarrant,OH,0.336,True
+tok_78a0cc1b50cf,35-44,Dallas,OH,0.931,True
+tok_f017339107e9,35-44,Bexar,PA,0.282,True
+tok_9dd8530e2d3b,55-64,Harris,FL,0.653,True
+tok_109ba4f4ab67,55-64,Harris,OH,0.225,False
+tok_a88d8d6ced88,55-64,Dallas,NY,0.134,False
+tok_b4600311ef7a,55-64,Dallas,IL,0.125,True
+tok_27ebec6ba2ba,65+,Harris,PA,0.82,False
+tok_f332c47f7454,55-64,Tarrant,NY,0.49,True
+tok_93f7703ae59c,35-44,Harris,NY,0.385,False
+tok_bcdb67d89d3d,45-54,Denton,TX,0.951,True
+tok_d1eb44eb2a1d,18-34,Travis,TX,0.106,True
+tok_2b439161bfde,65+,El Paso,NY,0.07,True
+tok_aff83bc8e6d5,55-64,Denton,CA,0.556,False
+tok_0efacd679a9c,65+,Travis,OH,0.051,True
+tok_c2a8c7f2933e,55-64,Bexar,NY,0.537,True
+tok_b25dcc40d39f,18-34,Tarrant,TX,0.827,False
+tok_09162046659a,55-64,Harris,TX,0.391,True
+tok_02e388dde133,35-44,Bexar,IL,0.789,False
+tok_1e3c9c199f06,65+,Tarrant,MA,0.724,True
+tok_75b890df3c48,55-64,Travis,OH,0.703,True
+tok_051a65389d81,45-54,El Paso,IL,0.889,True
+tok_a40bdd2fbf8a,45-54,Denton,PA,0.762,True
+tok_74fe79ffc0e1,45-54,Collin,FL,0.056,True
+tok_7863d8b02944,18-34,El Paso,IL,0.195,False
+tok_b0abc20d6a0b,45-54,Denton,MA,0.723,True
+tok_d5f18b0156e6,18-34,Dallas,IL,0.374,True
+tok_36a6c2481581,18-34,Dallas,IL,0.552,False
+tok_e0f315d5ee52,18-34,Bexar,FL,0.781,False
+tok_4e9da2d55a36,45-54,Collin,CA,0.497,False
+tok_11a807110290,35-44,Tarrant,MA,0.675,True
+tok_5c169bf6caef,65+,El Paso,CA,0.46,True
+tok_c12801c525eb,55-64,Denton,CA,0.858,True
+tok_18930975e2fa,35-44,Denton,NY,0.558,True
+tok_b0c79cbde960,45-54,Dallas,FL,0.208,False
+tok_5ed297b2eca2,55-64,Travis,MA,0.068,True
+tok_14416ade68b7,65+,Tarrant,CA,0.235,True
+tok_abc53257c9ab,45-54,Collin,TX,0.373,True
+tok_9868f93c4997,65+,Dallas,FL,0.26,False
+tok_18a1d44afad9,45-54,Collin,PA,0.953,True
+tok_b9991a27dddb,55-64,Denton,CA,0.337,True
+tok_a718b698ed8b,18-34,Tarrant,CA,0.345,True
+tok_6d93a2724c63,18-34,Denton,MA,0.172,False
+tok_5f6b7fe1d91c,35-44,El Paso,CA,0.517,True
+tok_527bc3afc73a,35-44,Bexar,TX,0.911,True
+tok_b179b35e1efa,55-64,El Paso,NY,0.448,True
+tok_43db716edcfc,45-54,Dallas,MA,0.47,True
+tok_ee18821a0317,45-54,Dallas,NY,0.321,True
+tok_3e47f5868e5c,65+,El Paso,OH,0.134,True
+tok_c1dd4b6ba8ba,18-34,El Paso,NY,0.871,False
+tok_d717096f8127,18-34,Bexar,CA,0.402,True
+tok_267e959a48a5,45-54,Harris,OH,0.319,False
+tok_2e8043f77dfe,65+,Dallas,OH,0.271,True
+tok_bb99fc8442bc,65+,Harris,NY,0.095,False
+tok_ca94629a3f56,65+,Dallas,MA,0.438,False
+tok_ddcc39673a9c,65+,Tarrant,FL,0.35,True
+tok_cd7d0b56397a,35-44,Bexar,NY,0.697,True
+tok_6b9b93b5be73,45-54,Travis,FL,0.539,True
+tok_0fa5de335338,65+,Denton,FL,0.961,False
+tok_aeb43e083901,45-54,Travis,IL,0.571,True
+tok_780e6c29b32f,45-54,Travis,TX,0.156,False
+tok_8925bd271743,65+,El Paso,OH,0.791,True
+tok_b1a0a6af8ced,55-64,Bexar,TX,0.827,False
+tok_582a5d1bcd78,18-34,Collin,FL,0.832,False
+tok_ccc7d1707a99,65+,Harris,IL,0.71,False
+tok_1f6c1e698f4f,35-44,Tarrant,IL,0.78,True
+tok_6f90540bc8b8,35-44,El Paso,FL,0.771,False
+tok_75557e7e54ab,55-64,Tarrant,TX,0.339,False
+tok_235ef94c88a3,18-34,Harris,NY,0.348,False
+tok_0cdc06a62089,35-44,Dallas,MA,0.242,True
+tok_99610ddb6029,55-64,Travis,OH,0.097,False
+tok_83c50b85587f,55-64,Harris,IL,0.81,True
+tok_087c43ffe511,18-34,Harris,OH,0.488,True
+tok_4e4ce13cb85f,55-64,Travis,OH,0.503,False
+tok_624251982812,45-54,Bexar,MA,0.353,True
+tok_720ddcb3c45f,45-54,El Paso,PA,0.111,False
+tok_ab6dd59b78e5,18-34,Tarrant,OH,0.156,True
+tok_04b875c13d88,55-64,Bexar,IL,0.51,True
+tok_112adc5eac34,55-64,Collin,OH,0.544,True
+tok_8acb93133709,65+,Bexar,IL,0.971,True
+tok_edba99870928,65+,Dallas,IL,0.152,False
+tok_a54951f00097,45-54,Denton,CA,0.492,False
+tok_7bf7fb7e96b3,18-34,Dallas,CA,0.721,True
+tok_ddd226b7ce6b,55-64,El Paso,PA,0.563,True
+tok_4af786795004,55-64,Harris,PA,0.912,True
+tok_6df641d31d8b,65+,Tarrant,CA,0.729,True
+tok_bc304879264a,45-54,Tarrant,FL,0.62,True
+tok_14caf25e1000,45-54,Harris,FL,0.206,True
+tok_0c89d124620e,45-54,Harris,TX,0.317,False
+tok_a7b1a83b17da,65+,Dallas,MA,0.612,True
+tok_f27298c6d9d3,35-44,Dallas,IL,0.965,True
+tok_30be461be903,55-64,Collin,NY,0.587,True
+tok_c2e3355d77dd,35-44,Denton,PA,0.686,True
+tok_b55143c2e50d,45-54,Travis,TX,0.141,True
+tok_0ffb847ee7de,55-64,Bexar,OH,0.769,True
+tok_4ffba67a4ff9,18-34,Dallas,MA,0.061,False
+tok_3592e2462759,18-34,Tarrant,TX,0.923,True
+tok_c4a361bfdceb,35-44,Collin,MA,0.697,False
+tok_da7abce104e3,35-44,Tarrant,FL,0.773,True
+tok_c5895a99a7cf,55-64,Collin,OH,0.151,True
+tok_7219c8bee341,18-34,Tarrant,FL,0.773,False
+tok_45838d99ce6b,18-34,Travis,PA,0.584,True
+tok_b039dec2d037,35-44,Bexar,OH,0.163,True
+tok_2c1439fedd0f,35-44,Travis,MA,0.832,True
+tok_07129eb68179,55-64,Tarrant,IL,0.502,True
+tok_3e407ec759c8,45-54,Tarrant,FL,0.515,True
+tok_fd8ccf07f6e2,18-34,El Paso,CA,0.739,False
+tok_eb5fe82800eb,35-44,Collin,TX,0.21,False
+tok_4b059f4d7b89,45-54,Denton,MA,0.798,True
+tok_6560cd23158d,35-44,Tarrant,FL,0.181,True
+tok_27e38be90ce3,18-34,Bexar,CA,0.065,True
+tok_8956d887f286,55-64,El Paso,CA,0.242,True
+tok_65f4dd26ac4f,45-54,El Paso,MA,0.633,True
+tok_9f4cd91c1637,65+,Denton,OH,0.766,True
+tok_907f9510d566,18-34,Dallas,TX,0.65,False
+tok_7e210bc3c4e0,18-34,Dallas,OH,0.529,False
+tok_1a6e79df87f8,35-44,Tarrant,IL,0.262,False
+tok_f02244cf1bbf,65+,Collin,NY,0.913,True

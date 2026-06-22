@@ -1,0 +1,6 @@
+timestamp,user_role,question_or_action,allowed_or_blocked,reason,tables_accessed,privacy_status
+2026-06-22T21:29:03,System,Pipeline run completed,Allowed,"Raw sources validated, PHI/PII classified, safe tables generated.","members.csv,enrollment.csv,pharmacy_claims.csv",Raw-to-safe transformation complete
+2026-06-22T21:29:03,Compliance Officer,PHI/PII scan completed,Allowed,"Sensitive fields classified as mask, block, or aggregate-only.",phi_pii_classification,HIPAA-aware controls applied
+2026-06-22T21:29:03,Executive,Which plan has the highest PBM spend?,Allowed,Mapped to predefined safe aggregate query.,"pharmacy_claims_safe,enrollment_safe",Allowed: aggregate-only executive-safe data
+2026-06-22T21:29:03,Executive,Show pharmacy spend by age group.,Allowed,Mapped to predefined safe aggregate query.,"pharmacy_claims_safe,members_safe",Allowed: aggregate-only executive-safe data
+2026-06-22T21:29:03,Executive,Show me member names with diabetes.,Blocked,Unsafe query terms detected.,None,Blocked: potential PHI/PII/member-level request

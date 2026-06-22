@@ -1,0 +1,1992 @@
+claim_id,member_token,drug_class_category,claim_month,paid_amount,claim_status
+C0000001,tok_a40bdd2fbf8a,Cardiology,2026-05,263.93,Paid
+C0000002,tok_725723fff067,Specialty,2026-06,1213.96,Paid
+C0000003,tok_f2006950154c,Cardiology,2026-06,253.87,Paid
+C0000004,tok_86d2425d02eb,Behavioral Health,2025-07,110.04,Rejected
+C0000005,tok_ea094e616aee,Cardiology,2025-09,47.31,Paid
+C0000006,tok_25758a32a8e4,Respiratory,2026-04,340.54,Paid
+C0000007,tok_5bbb79a47ec9,Diabetes,2026-04,249.15,Paid
+C0000008,tok_65f4dd26ac4f,Specialty,2026-03,383.0,Rejected
+C0000009,tok_eccd425973fa,Specialty,2025-07,880.26,Paid
+C0000010,tok_7eeb2a3a9774,Behavioral Health,2026-04,243.12,Paid
+C0000011,tok_87b8ead21ee4,Specialty,2025-07,691.41,Paid
+C0000012,tok_c1a600d59fa8,Cardiology,2025-07,74.02,Paid
+C0000013,tok_d5e115e4d6bc,Diabetes,2026-04,255.11,Paid
+C0000014,tok_d20e5757179c,Cardiology,2025-12,47.63,Paid
+C0000015,tok_b5d424548756,Specialty,2025-07,580.32,Paid
+C0000016,tok_d09b2b4b5583,Diabetes,2025-12,52.48,Paid
+C0000017,tok_b179b35e1efa,Behavioral Health,2025-10,33.61,Paid
+C0000018,tok_bea88f053504,Oncology,2025-08,1190.59,Paid
+C0000019,tok_3d35789c315a,Specialty,2025-07,203.05,Paid
+C0000020,tok_a7b1a83b17da,Behavioral Health,2026-04,91.45,Paid
+C0000021,tok_2b439161bfde,Specialty,2025-12,1248.13,Paid
+C0000022,tok_2ef6be25fce1,Behavioral Health,2025-09,153.02,Paid
+C0000023,tok_91eac4e626f9,Respiratory,2026-02,266.55,Paid
+C0000024,tok_6897bc6eab7b,Respiratory,2026-05,451.06,Paid
+C0000025,tok_6d3664e71df8,Diabetes,2026-03,243.91,Paid
+C0000026,tok_267e959a48a5,Specialty,2026-05,1558.9,Paid
+C0000027,tok_6ffc59680c9d,Cardiology,2026-03,68.48,Paid
+C0000028,tok_6b61351be76b,Cardiology,2025-09,57.31,Paid
+C0000029,tok_6542d14099a4,Behavioral Health,2026-03,75.93,Rejected
+C0000030,tok_fd8ccf07f6e2,Cardiology,2026-02,97.5,Paid
+C0000031,tok_3a1e7118012e,Cardiology,2026-05,155.13,Paid
+C0000032,tok_05ae448bbc56,Diabetes,2026-05,241.19,Paid
+C0000033,tok_00b88db5850b,Specialty,2026-03,707.91,Paid
+C0000034,tok_b0abc20d6a0b,Behavioral Health,2026-04,193.17,Rejected
+C0000035,tok_18a1d44afad9,Specialty,2025-12,1084.1,Paid
+C0000036,tok_363a790e4c76,Cardiology,2025-07,265.29,Paid
+C0000037,tok_45838d99ce6b,Diabetes,2025-07,20.27,Paid
+C0000038,tok_aa295eeadd90,Cardiology,2026-05,47.73,Paid
+C0000039,tok_188b5c0eb798,Diabetes,2026-01,255.19,Paid
+C0000040,tok_6df641d31d8b,Respiratory,2025-07,296.39,Reversed
+C0000041,tok_e03c2d41708a,Cardiology,2026-04,274.22,Paid
+C0000042,tok_a4aff7b36a00,Diabetes,2026-06,196.79,Paid
+C0000043,tok_a9143748d93f,Diabetes,2025-08,49.04,Paid
+C0000044,tok_4f21990a2d35,Behavioral Health,2025-11,254.32,Paid
+C0000045,tok_c1a600d59fa8,Behavioral Health,2026-03,204.27,Paid
+C0000046,tok_5bbb79a47ec9,Behavioral Health,2026-02,20.32,Paid
+C0000047,tok_1aa5f69841ed,Diabetes,2026-02,245.18,Paid
+C0000048,tok_a609a6a1fe1f,Oncology,2026-03,1172.4,Rejected
+C0000049,tok_df94f5749a67,Diabetes,2026-03,240.25,Paid
+C0000050,tok_430df8fe1e32,Diabetes,2026-04,37.8,Reversed
+C0000051,tok_6b82d0d26c5f,Behavioral Health,2025-08,132.62,Paid
+C0000052,tok_9c8a49cba2b4,Cardiology,2025-08,203.39,Paid
+C0000053,tok_5ed297b2eca2,Diabetes,2025-12,210.93,Paid
+C0000054,tok_8755bb3e41b5,Diabetes,2025-07,100.47,Paid
+C0000055,tok_1f1b4a3b5659,Behavioral Health,2026-05,226.3,Paid
+C0000056,tok_672c89e54d9b,Oncology,2025-08,409.77,Paid
+C0000057,tok_04b875c13d88,Behavioral Health,2025-09,37.11,Rejected
+C0000058,tok_be6aa9ce9e49,Diabetes,2026-02,165.8,Paid
+C0000059,tok_07b58472cb71,Specialty,2026-01,536.22,Paid
+C0000060,tok_27ebec6ba2ba,Cardiology,2026-06,272.67,Paid
+C0000061,tok_f3570d2835bd,Oncology,2026-05,1033.61,Paid
+C0000062,tok_ba4292537425,Behavioral Health,2026-02,228.22,Paid
+C0000063,tok_b7418a559392,Diabetes,2025-08,20.97,Paid
+C0000064,tok_f6517e8d50a5,Behavioral Health,2026-03,53.34,Paid
+C0000065,tok_4ab472397501,Respiratory,2025-11,226.08,Paid
+C0000066,tok_b5d424548756,Diabetes,2026-03,159.45,Paid
+C0000067,tok_f5d4991df030,Specialty,2025-09,893.74,Paid
+C0000068,tok_ef705ed9f1ab,Cardiology,2025-07,128.71,Paid
+C0000069,tok_31fa1f2652ef,Diabetes,2026-04,75.45,Paid
+C0000070,tok_c3243bb9030b,Behavioral Health,2025-10,190.32,Paid
+C0000071,tok_30910c53af08,Oncology,2026-02,1576.12,Paid
+C0000072,tok_0fa5de335338,Specialty,2026-05,1506.37,Paid
+C0000073,tok_63afbef69cf8,Diabetes,2025-07,230.02,Paid
+C0000074,tok_d27e245c511c,Specialty,2026-02,1114.56,Paid
+C0000075,tok_4ab472397501,Respiratory,2025-12,447.35,Paid
+C0000076,tok_11a373548f43,Diabetes,2026-01,257.55,Paid
+C0000077,tok_c944262c0608,Specialty,2026-02,314.77,Paid
+C0000078,tok_a7b1a83b17da,Respiratory,2025-07,51.52,Paid
+C0000079,tok_a9143748d93f,Diabetes,2025-09,81.4,Paid
+C0000080,tok_7eeb2a3a9774,Diabetes,2025-11,23.2,Paid
+C0000081,tok_66970539313d,Diabetes,2025-08,176.48,Rejected
+C0000082,tok_6e0fff329f5f,Oncology,2026-01,913.35,Paid
+C0000083,tok_f7c3c058665c,Behavioral Health,2026-02,285.39,Paid
+C0000084,tok_ba2684ff0a2c,Behavioral Health,2025-10,54.62,Paid
+C0000085,tok_556b0ced6396,Cardiology,2026-05,195.71,Rejected
+C0000086,tok_2b439161bfde,Specialty,2026-04,382.58,Paid
+C0000087,tok_90802fcdb0b5,Cardiology,2025-11,204.39,Paid
+C0000088,tok_f02244cf1bbf,Specialty,2025-08,818.01,Paid
+C0000089,tok_153fbb1a52ff,Diabetes,2026-05,141.08,Paid
+C0000090,tok_51724dfe8edb,Oncology,2026-01,814.99,Paid
+C0000091,tok_f6d7723ed2a0,Behavioral Health,2026-04,145.91,Paid
+C0000092,tok_d5f18b0156e6,Specialty,2025-10,161.15,Paid
+C0000093,tok_8bf1a2e15e54,Cardiology,2026-01,110.46,Paid
+C0000094,tok_bb99fc8442bc,Cardiology,2025-09,181.48,Paid
+C0000095,tok_51724dfe8edb,Cardiology,2026-02,191.18,Paid
+C0000096,tok_6a9fb41fb551,Oncology,2026-01,1042.66,Paid
+C0000097,tok_854a95322f91,Diabetes,2025-11,124.89,Paid
+C0000098,tok_ddd226b7ce6b,Diabetes,2026-03,221.91,Paid
+C0000099,tok_7863d8b02944,Cardiology,2025-08,87.74,Paid
+C0000100,tok_bb28d9e1bffd,Diabetes,2025-12,65.59,Paid
+C0000101,tok_18a1d44afad9,Respiratory,2025-10,400.68,Paid
+C0000102,tok_07c0247beed0,Behavioral Health,2026-04,220.08,Paid
+C0000103,tok_4bb8d00ae39d,Cardiology,2026-01,122.26,Paid
+C0000104,tok_93f7703ae59c,Specialty,2026-03,793.35,Paid
+C0000105,tok_4fb1cab0332f,Diabetes,2026-02,199.29,Paid
+C0000106,tok_7863d8b02944,Specialty,2026-02,788.61,Paid
+C0000107,tok_cb7e6c10e50a,Behavioral Health,2026-01,133.94,Paid
+C0000108,tok_0fa5de335338,Specialty,2026-04,652.06,Paid
+C0000109,tok_b870a0a72a8a,Diabetes,2025-12,214.12,Paid
+C0000110,tok_854e0068700e,Respiratory,2026-04,208.11,Paid
+C0000111,tok_c1a600d59fa8,Specialty,2025-09,154.77,Reversed
+C0000112,tok_bcb398ab962c,Specialty,2026-05,1268.36,Paid
+C0000113,tok_854a95322f91,Diabetes,2026-03,112.53,Paid
+C0000114,tok_26cd05183a6d,Cardiology,2026-05,300.95,Paid
+C0000115,tok_1883faab5a39,Specialty,2026-05,365.93,Paid
+C0000116,tok_89d8663c141f,Diabetes,2025-11,251.04,Paid
+C0000117,tok_4e5b134c91eb,Specialty,2026-01,768.17,Paid
+C0000118,tok_90802fcdb0b5,Behavioral Health,2025-09,129.17,Paid
+C0000119,tok_63e68ee01ed6,Oncology,2025-10,294.45,Paid
+C0000120,tok_91ffb5743f82,Cardiology,2026-03,227.69,Paid
+C0000121,tok_b039dec2d037,Cardiology,2026-06,80.54,Paid
+C0000122,tok_1b0bbb1b5b44,Behavioral Health,2026-01,138.45,Paid
+C0000123,tok_f7c3c058665c,Cardiology,2026-03,186.9,Paid
+C0000124,tok_c2a2679ce1d4,Respiratory,2026-02,157.81,Paid
+C0000125,tok_3fd78175a909,Respiratory,2025-09,202.76,Paid
+C0000126,tok_7bf7fb7e96b3,Specialty,2026-01,735.38,Paid
+C0000127,tok_4f21990a2d35,Diabetes,2025-07,187.07,Rejected
+C0000128,tok_98e9d51cf046,Cardiology,2025-11,204.0,Rejected
+C0000129,tok_9f1b5a11006b,Respiratory,2026-03,425.41,Reversed
+C0000130,tok_af01205f8d4d,Diabetes,2025-08,107.23,Paid
+C0000131,tok_3c811a9089a0,Cardiology,2025-10,69.47,Paid
+C0000132,tok_601f4a6b5b0e,Diabetes,2026-02,186.07,Paid
+C0000133,tok_11a373548f43,Behavioral Health,2025-07,125.39,Paid
+C0000134,tok_30be461be903,Diabetes,2026-02,180.21,Paid
+C0000135,tok_2ef6be25fce1,Specialty,2026-02,459.81,Paid
+C0000136,tok_6bb24c061d80,Behavioral Health,2025-07,65.21,Paid
+C0000137,tok_c697fee9b251,Diabetes,2025-09,197.43,Paid
+C0000138,tok_8c8d47096b98,Specialty,2025-12,330.88,Paid
+C0000139,tok_4b0a53c1abe8,Behavioral Health,2026-02,161.5,Paid
+C0000140,tok_bec591f8d866,Respiratory,2026-06,311.62,Paid
+C0000141,tok_b535b1ddb3cb,Oncology,2025-07,1383.51,Paid
+C0000142,tok_c4a361bfdceb,Cardiology,2025-10,285.5,Paid
+C0000143,tok_80f3159eadaa,Behavioral Health,2025-10,109.54,Paid
+C0000144,tok_738f7658e886,Behavioral Health,2026-06,45.52,Paid
+C0000145,tok_a584c6a7ba04,Cardiology,2025-12,52.87,Paid
+C0000146,tok_536c44830aa4,Specialty,2026-01,1464.64,Paid
+C0000147,tok_6a11d0c13247,Diabetes,2025-07,96.26,Paid
+C0000148,tok_d42f425a32d6,Cardiology,2025-08,154.83,Paid
+C0000149,tok_1aa5f69841ed,Specialty,2025-10,171.8,Paid
+C0000150,tok_8f5ef9b40b21,Oncology,2026-04,2190.41,Paid
+C0000151,tok_9f4cd91c1637,Diabetes,2026-05,96.49,Paid
+C0000152,tok_4ffba67a4ff9,Behavioral Health,2025-12,204.47,Paid
+C0000153,tok_624251982812,Respiratory,2026-06,458.43,Paid
+C0000154,tok_ba2ace6eda2e,Specialty,2026-01,957.47,Paid
+C0000155,tok_86d2425d02eb,Oncology,2025-07,1602.42,Paid
+C0000156,tok_bcdb67d89d3d,Behavioral Health,2026-02,102.02,Paid
+C0000157,tok_b5d424548756,Diabetes,2025-10,138.69,Paid
+C0000158,tok_f1be0382725c,Diabetes,2026-05,241.47,Paid
+C0000159,tok_9c8a49cba2b4,Diabetes,2025-07,94.84,Paid
+C0000160,tok_e34522dd28f7,Specialty,2025-07,526.84,Paid
+C0000161,tok_bcb398ab962c,Cardiology,2025-07,81.37,Reversed
+C0000162,tok_c12801c525eb,Respiratory,2026-05,345.82,Paid
+C0000163,tok_d20e5757179c,Oncology,2026-03,165.43,Rejected
+C0000164,tok_9270c76f7536,Specialty,2025-10,313.5,Paid
+C0000165,tok_ed867018dd58,Specialty,2025-10,1262.68,Paid
+C0000166,tok_6a9fb41fb551,Respiratory,2025-10,168.07,Paid
+C0000167,tok_06dee7dd1b5b,Cardiology,2026-02,104.47,Paid
+C0000168,tok_582a5d1bcd78,Respiratory,2026-01,67.25,Paid
+C0000169,tok_2c5109818725,Oncology,2026-02,1192.39,Paid
+C0000170,tok_e0f315d5ee52,Oncology,2026-02,1720.29,Paid
+C0000171,tok_b55143c2e50d,Cardiology,2026-04,177.6,Paid
+C0000172,tok_03fb85fd12cb,Oncology,2026-01,1086.06,Paid
+C0000173,tok_f3b425c6fa1f,Cardiology,2025-10,229.2,Rejected
+C0000174,tok_81f36519c1fc,Diabetes,2026-01,139.17,Paid
+C0000175,tok_e34522dd28f7,Behavioral Health,2026-01,278.15,Paid
+C0000176,tok_f1be0382725c,Behavioral Health,2025-07,38.76,Paid
+C0000177,tok_d364481b0e1b,Diabetes,2025-11,202.63,Paid
+C0000178,tok_aa295eeadd90,Oncology,2025-07,1569.22,Paid
+C0000179,tok_854e0068700e,Respiratory,2025-07,137.97,Paid
+C0000180,tok_66970539313d,Diabetes,2025-09,179.09,Paid
+C0000181,tok_3e407ec759c8,Respiratory,2026-05,143.17,Rejected
+C0000182,tok_2e8043f77dfe,Diabetes,2025-08,46.25,Paid
+C0000183,tok_f3570d2835bd,Cardiology,2025-08,191.82,Rejected
+C0000184,tok_99610ddb6029,Cardiology,2025-11,262.56,Paid
+C0000185,tok_f02244cf1bbf,Specialty,2026-04,1395.42,Paid
+C0000186,tok_27ebec6ba2ba,Behavioral Health,2025-08,213.5,Paid
+C0000187,tok_1e3c9c199f06,Respiratory,2025-11,387.08,Paid
+C0000188,tok_a88d8d6ced88,Cardiology,2025-09,111.07,Paid
+C0000189,tok_75fb477f7c0c,Respiratory,2026-01,214.41,Paid
+C0000190,tok_84ce0e88cc12,Diabetes,2025-09,108.67,Paid
+C0000191,tok_c10f595de302,Behavioral Health,2025-10,139.77,Paid
+C0000192,tok_a88d8d6ced88,Diabetes,2025-11,201.72,Paid
+C0000193,tok_a7b1a83b17da,Specialty,2025-09,1368.86,Paid
+C0000194,tok_c2cae293ea8d,Diabetes,2025-07,33.55,Paid
+C0000195,tok_c95f7935fd59,Specialty,2025-08,254.37,Paid
+C0000196,tok_1b0bbb1b5b44,Specialty,2025-07,1253.93,Paid
+C0000197,tok_36a6c2481581,Diabetes,2025-11,163.92,Paid
+C0000198,tok_662a72e0c530,Specialty,2026-06,596.67,Reversed
+C0000199,tok_b9991a27dddb,Diabetes,2026-01,105.41,Paid
+C0000200,tok_a7f85c2133d5,Behavioral Health,2025-07,234.43,Paid
+C0000201,tok_cd150d50aa2d,Respiratory,2025-09,419.2,Paid
+C0000202,tok_6f90540bc8b8,Specialty,2025-11,1488.94,Paid
+C0000203,tok_daad01443118,Specialty,2026-01,797.99,Paid
+C0000204,tok_e03c2d41708a,Behavioral Health,2025-07,236.12,Paid
+C0000205,tok_b2a62778fab8,Behavioral Health,2026-06,215.67,Paid
+C0000206,tok_c95f7935fd59,Cardiology,2025-08,199.5,Paid
+C0000207,tok_da7abce104e3,Behavioral Health,2026-06,146.54,Rejected
+C0000208,tok_792062b879a9,Cardiology,2025-09,197.92,Paid
+C0000209,tok_74fe79ffc0e1,Behavioral Health,2025-09,154.13,Paid
+C0000210,tok_0598eaacc9fd,Behavioral Health,2026-02,285.02,Rejected
+C0000211,tok_27e38be90ce3,Diabetes,2025-11,178.36,Paid
+C0000212,tok_27ebec6ba2ba,Behavioral Health,2025-08,206.12,Reversed
+C0000213,tok_80f3159eadaa,Diabetes,2026-01,242.81,Paid
+C0000214,tok_d5e115e4d6bc,Specialty,2026-06,1489.58,Paid
+C0000215,tok_0ffb847ee7de,Specialty,2025-08,1161.3,Paid
+C0000216,tok_df94f5749a67,Behavioral Health,2026-05,223.8,Paid
+C0000217,tok_c2cae293ea8d,Behavioral Health,2026-01,217.58,Paid
+C0000218,tok_53e7f145089b,Behavioral Health,2025-10,136.12,Paid
+C0000219,tok_1072eb6615e8,Diabetes,2026-04,39.57,Paid
+C0000220,tok_08586062b893,Specialty,2025-12,293.01,Paid
+C0000221,tok_6897bc6eab7b,Cardiology,2025-10,192.95,Reversed
+C0000222,tok_3736c467e4c0,Respiratory,2025-09,379.8,Paid
+C0000223,tok_d0be2b509b2b,Diabetes,2026-04,113.67,Paid
+C0000224,tok_18a1d44afad9,Behavioral Health,2026-03,242.67,Paid
+C0000225,tok_fc5904236a9d,Cardiology,2025-07,238.55,Paid
+C0000226,tok_c10f595de302,Behavioral Health,2026-04,52.67,Paid
+C0000227,tok_292a7f5a085e,Oncology,2026-01,1601.42,Reversed
+C0000228,tok_fba03a1bcd60,Diabetes,2025-10,191.46,Paid
+C0000229,tok_0ffb847ee7de,Behavioral Health,2026-03,67.46,Paid
+C0000230,tok_18a1d44afad9,Specialty,2025-07,1340.05,Paid
+C0000231,tok_10e7698170a7,Specialty,2026-01,1545.94,Paid
+C0000232,tok_f2006950154c,Cardiology,2025-10,223.83,Paid
+C0000233,tok_930105f2c6e2,Diabetes,2026-04,96.27,Paid
+C0000234,tok_aa295eeadd90,Cardiology,2026-04,211.71,Paid
+C0000235,tok_baff62e09f3e,Cardiology,2025-10,63.66,Paid
+C0000236,tok_ba4292537425,Diabetes,2026-04,193.68,Paid
+C0000237,tok_8925bd271743,Diabetes,2026-02,248.0,Paid
+C0000238,tok_3592e2462759,Diabetes,2026-02,104.05,Rejected
+C0000239,tok_f0a7521e36cf,Behavioral Health,2026-04,192.86,Reversed
+C0000240,tok_7ae934059d8a,Respiratory,2025-08,139.12,Paid
+C0000241,tok_0598eaacc9fd,Respiratory,2026-05,448.2,Paid
+C0000242,tok_05ae448bbc56,Behavioral Health,2025-08,198.35,Paid
+C0000243,tok_1aa5f69841ed,Cardiology,2026-02,205.23,Paid
+C0000244,tok_08586062b893,Diabetes,2026-06,136.39,Paid
+C0000245,tok_706f4ce47980,Specialty,2025-11,939.46,Paid
+C0000246,tok_e0f315d5ee52,Specialty,2026-05,665.51,Paid
+C0000247,tok_82a0a1e27033,Diabetes,2026-04,96.71,Paid
+C0000248,tok_f1ae6ae7cfed,Diabetes,2026-04,152.57,Paid
+C0000249,tok_51724dfe8edb,Behavioral Health,2026-05,163.28,Paid
+C0000250,tok_fe41e015a7c5,Behavioral Health,2025-10,258.74,Paid
+C0000251,tok_81f36519c1fc,Specialty,2025-09,1270.34,Paid
+C0000252,tok_7c505b7bbfc3,Specialty,2025-11,235.52,Paid
+C0000253,tok_be6327608114,Oncology,2026-04,900.84,Paid
+C0000254,tok_3e407ec759c8,Specialty,2025-07,468.59,Rejected
+C0000255,tok_c697fee9b251,Specialty,2026-04,754.02,Paid
+C0000256,tok_9c896702177f,Behavioral Health,2026-05,285.15,Paid
+C0000257,tok_4caa507e16a1,Diabetes,2025-10,216.38,Paid
+C0000258,tok_4bb8d00ae39d,Behavioral Health,2025-09,77.09,Paid
+C0000259,tok_d0be2b509b2b,Cardiology,2026-05,58.91,Paid
+C0000260,tok_d83506cb6911,Cardiology,2025-09,210.29,Paid
+C0000261,tok_3e407ec759c8,Cardiology,2025-09,145.12,Paid
+C0000262,tok_25758a32a8e4,Respiratory,2026-05,465.98,Paid
+C0000263,tok_df0d3acd0e83,Specialty,2026-05,1299.38,Paid
+C0000264,tok_0feca2812ee8,Cardiology,2026-01,250.37,Reversed
+C0000265,tok_d7da16e17290,Diabetes,2025-08,48.16,Paid
+C0000266,tok_79083ed2f792,Cardiology,2025-12,47.44,Paid
+C0000267,tok_11a807110290,Diabetes,2026-01,20.39,Paid
+C0000268,tok_1883faab5a39,Respiratory,2026-03,86.2,Paid
+C0000269,tok_aa49f5725938,Behavioral Health,2026-03,150.14,Paid
+C0000270,tok_1f6c1e698f4f,Cardiology,2025-08,100.31,Paid
+C0000271,tok_fd8ccf07f6e2,Respiratory,2026-06,111.1,Paid
+C0000272,tok_4e4ce13cb85f,Behavioral Health,2025-09,146.74,Paid
+C0000273,tok_393fbf0f6869,Respiratory,2025-09,318.83,Paid
+C0000274,tok_02a9c36fe622,Diabetes,2026-01,193.55,Paid
+C0000275,tok_31fa1f2652ef,Specialty,2025-10,1134.25,Reversed
+C0000276,tok_11a807110290,Oncology,2026-02,742.99,Rejected
+C0000277,tok_4e4ce13cb85f,Behavioral Health,2026-05,80.7,Rejected
+C0000278,tok_644b224131b8,Respiratory,2026-05,400.59,Paid
+C0000279,tok_bccdac12cc9e,Behavioral Health,2025-07,63.75,Paid
+C0000280,tok_af01205f8d4d,Behavioral Health,2025-07,234.98,Paid
+C0000281,tok_c5895a99a7cf,Respiratory,2026-03,241.34,Reversed
+C0000282,tok_ab6dd59b78e5,Specialty,2025-07,289.05,Paid
+C0000283,tok_ee18821a0317,Respiratory,2026-03,343.49,Paid
+C0000284,tok_f6b7d3be8c38,Specialty,2026-03,1444.51,Paid
+C0000285,tok_06dee7dd1b5b,Oncology,2026-03,499.67,Paid
+C0000286,tok_4b06749f0d71,Behavioral Health,2025-07,156.54,Paid
+C0000287,tok_e62e397b775f,Cardiology,2026-06,54.48,Paid
+C0000288,tok_6b9b93b5be73,Respiratory,2025-12,83.74,Paid
+C0000289,tok_6a11d0c13247,Diabetes,2026-01,170.74,Rejected
+C0000290,tok_c4a361bfdceb,Behavioral Health,2025-07,190.96,Rejected
+C0000291,tok_cd7d0b56397a,Oncology,2026-05,884.77,Paid
+C0000292,tok_613505c8b585,Diabetes,2025-10,102.63,Paid
+C0000293,tok_aff03ae63be3,Cardiology,2026-03,78.97,Rejected
+C0000294,tok_953b45caa9af,Diabetes,2025-09,135.95,Paid
+C0000295,tok_1b299d3eec61,Cardiology,2026-02,108.51,Paid
+C0000296,tok_069914345fd7,Diabetes,2026-02,124.13,Paid
+C0000297,tok_109ba4f4ab67,Cardiology,2025-10,125.92,Paid
+C0000298,tok_c2a2679ce1d4,Diabetes,2025-12,119.9,Paid
+C0000299,tok_89d8663c141f,Behavioral Health,2025-11,275.27,Paid
+C0000300,tok_aecd51c21ed4,Oncology,2025-09,1555.33,Paid
+C0000301,tok_051a65389d81,Behavioral Health,2026-01,153.39,Paid
+C0000302,tok_26cd05183a6d,Respiratory,2025-12,87.34,Paid
+C0000303,tok_7110eb8d2b31,Diabetes,2025-12,182.15,Reversed
+C0000304,tok_b870a0a72a8a,Diabetes,2025-11,134.21,Paid
+C0000305,tok_37522a5a4d0b,Cardiology,2026-03,65.88,Paid
+C0000306,tok_0efacd679a9c,Diabetes,2025-11,81.77,Paid
+C0000307,tok_89d8663c141f,Oncology,2025-08,1763.05,Paid
+C0000308,tok_75759041e3fa,Diabetes,2026-04,258.2,Paid
+C0000309,tok_12a529d09046,Diabetes,2025-11,115.11,Rejected
+C0000310,tok_6a9fb41fb551,Diabetes,2025-07,66.31,Paid
+C0000311,tok_6e0fff329f5f,Respiratory,2025-10,459.34,Paid
+C0000312,tok_389d6891e5f1,Oncology,2025-12,1477.45,Paid
+C0000313,tok_6542d14099a4,Behavioral Health,2025-11,209.22,Rejected
+C0000314,tok_d20e5757179c,Diabetes,2025-12,30.62,Paid
+C0000315,tok_6542d14099a4,Behavioral Health,2025-10,46.62,Rejected
+C0000316,tok_624ca44f1728,Cardiology,2026-06,53.99,Paid
+C0000317,tok_b25dcc40d39f,Behavioral Health,2026-01,107.97,Paid
+C0000318,tok_21e2587053fd,Specialty,2025-11,453.94,Paid
+C0000319,tok_2c4770dfe470,Behavioral Health,2026-05,54.54,Paid
+C0000320,tok_f02244cf1bbf,Behavioral Health,2025-10,193.99,Paid
+C0000321,tok_4ffba67a4ff9,Diabetes,2026-05,245.92,Paid
+C0000322,tok_8755bb3e41b5,Behavioral Health,2025-09,73.57,Paid
+C0000323,tok_63e68ee01ed6,Specialty,2026-04,474.67,Rejected
+C0000324,tok_dbcb0a660ad5,Specialty,2026-02,278.51,Paid
+C0000325,tok_ba7bef89aac7,Behavioral Health,2025-07,153.93,Paid
+C0000326,tok_982a692c646f,Behavioral Health,2026-04,96.91,Paid
+C0000327,tok_556b0ced6396,Diabetes,2026-03,215.12,Paid
+C0000328,tok_393fbf0f6869,Behavioral Health,2026-03,63.86,Paid
+C0000329,tok_d09b2b4b5583,Cardiology,2025-10,100.44,Paid
+C0000330,tok_eca06aec793b,Specialty,2026-03,120.87,Paid
+C0000331,tok_dbbaa4709766,Specialty,2025-10,548.55,Paid
+C0000332,tok_a4aff7b36a00,Diabetes,2026-03,72.19,Paid
+C0000333,tok_22aa45dc9405,Diabetes,2025-09,231.83,Paid
+C0000334,tok_9270c76f7536,Specialty,2025-10,469.56,Paid
+C0000335,tok_1aa5f69841ed,Cardiology,2026-01,197.34,Paid
+C0000336,tok_e2068cd0289d,Behavioral Health,2025-09,90.09,Rejected
+C0000337,tok_c697fee9b251,Cardiology,2025-07,38.23,Paid
+C0000338,tok_1a6e79df87f8,Cardiology,2025-07,95.94,Paid
+C0000339,tok_6f90540bc8b8,Respiratory,2025-08,372.39,Paid
+C0000340,tok_854a95322f91,Behavioral Health,2026-05,88.31,Paid
+C0000341,tok_7c505b7bbfc3,Respiratory,2025-11,128.51,Paid
+C0000342,tok_5ed297b2eca2,Behavioral Health,2026-02,125.07,Paid
+C0000343,tok_3656cc604aaf,Cardiology,2025-08,283.59,Paid
+C0000344,tok_f435f44d8405,Respiratory,2026-04,109.11,Rejected
+C0000345,tok_48ab83f95005,Specialty,2025-09,138.56,Paid
+C0000346,tok_daad01443118,Specialty,2025-08,208.85,Paid
+C0000347,tok_14caf25e1000,Specialty,2026-03,692.44,Paid
+C0000348,tok_5ed297b2eca2,Diabetes,2026-01,42.13,Paid
+C0000349,tok_d42f425a32d6,Respiratory,2025-07,313.14,Paid
+C0000350,tok_2ef6be25fce1,Cardiology,2026-05,294.17,Paid
+C0000351,tok_00b88db5850b,Behavioral Health,2025-12,48.11,Paid
+C0000352,tok_75abad56af13,Oncology,2026-02,1310.78,Paid
+C0000353,tok_a5fd05c69a15,Diabetes,2025-11,31.52,Paid
+C0000354,tok_9b8d7bfb9ed3,Behavioral Health,2025-11,47.17,Paid
+C0000355,tok_d717096f8127,Cardiology,2025-10,21.95,Paid
+C0000356,tok_e7a0e5643092,Diabetes,2025-10,176.6,Paid
+C0000357,tok_624251982812,Respiratory,2026-03,425.14,Reversed
+C0000358,tok_df94f5749a67,Diabetes,2025-12,249.32,Paid
+C0000359,tok_f0a7521e36cf,Cardiology,2025-08,290.13,Paid
+C0000360,tok_311bd55886a0,Cardiology,2025-10,118.84,Paid
+C0000361,tok_8acb93133709,Specialty,2025-11,545.87,Paid
+C0000362,tok_443a053aad95,Behavioral Health,2025-11,195.95,Paid
+C0000364,tok_24203e7fd8a9,Cardiology,2026-03,231.08,Paid
+C0000365,tok_6a9fb41fb551,Behavioral Health,2025-08,93.93,Reversed
+C0000366,tok_d20e5757179c,Respiratory,2026-03,186.0,Paid
+C0000367,tok_70cb4bb5c7a2,Specialty,2025-09,1032.35,Rejected
+C0000368,tok_f3570d2835bd,Cardiology,2026-03,165.96,Paid
+C0000369,tok_6d93a2724c63,Diabetes,2026-02,38.24,Paid
+C0000370,tok_556b0ced6396,Respiratory,2025-08,127.94,Paid
+C0000371,tok_938e041d7935,Behavioral Health,2026-04,24.37,Rejected
+C0000372,tok_b55143c2e50d,Diabetes,2026-01,238.55,Paid
+C0000373,tok_ba2684ff0a2c,Behavioral Health,2026-02,166.61,Paid
+C0000374,tok_df94f5749a67,Diabetes,2025-09,51.35,Paid
+C0000375,tok_982a692c646f,Behavioral Health,2025-08,118.74,Paid
+C0000376,tok_ac26b792d3d2,Behavioral Health,2025-07,251.52,Paid
+C0000377,tok_dbb3067c493f,Cardiology,2026-01,25.22,Paid
+C0000378,tok_1b299d3eec61,Respiratory,2025-12,358.28,Paid
+C0000379,tok_662a72e0c530,Oncology,2025-07,1479.45,Paid
+C0000380,tok_b5d424548756,Behavioral Health,2025-09,28.35,Paid
+C0000381,tok_3194e25f03d2,Behavioral Health,2026-02,200.79,Paid
+C0000382,tok_fd65ee0186f6,Behavioral Health,2025-10,153.4,Rejected
+C0000383,tok_84a5eb0126f3,Behavioral Health,2025-09,158.62,Paid
+C0000384,tok_95f5f7a8f377,Diabetes,2026-04,112.93,Paid
+C0000385,tok_b9991a27dddb,Respiratory,2026-05,240.36,Paid
+C0000386,tok_03fb85fd12cb,Diabetes,2026-05,212.41,Paid
+C0000387,tok_26cd05183a6d,Diabetes,2025-12,105.77,Paid
+C0000388,tok_63afbef69cf8,Specialty,2026-05,202.84,Paid
+C0000389,tok_91ffb5743f82,Diabetes,2025-07,66.82,Paid
+C0000390,tok_4f21990a2d35,Specialty,2026-03,926.55,Paid
+C0000391,tok_812e924f0fef,Behavioral Health,2025-12,22.06,Rejected
+C0000392,tok_c523dd47ee6e,Diabetes,2025-12,199.95,Paid
+C0000393,tok_8edc533bc2c5,Cardiology,2026-03,281.95,Paid
+C0000394,tok_02e388dde133,Diabetes,2026-01,160.1,Paid
+C0000395,tok_0fa5de335338,Diabetes,2026-06,57.02,Paid
+C0000396,tok_672c89e54d9b,Diabetes,2025-10,191.87,Paid
+C0000398,tok_d2d451df7ef3,Specialty,2025-12,1458.69,Paid
+C0000399,tok_549576dc23c5,Cardiology,2026-02,202.66,Rejected
+C0000401,tok_0feca2812ee8,Specialty,2025-08,1551.88,Paid
+C0000402,tok_75557e7e54ab,Cardiology,2025-08,273.53,Paid
+C0000403,tok_cb7e6c10e50a,Diabetes,2025-08,89.54,Paid
+C0000404,tok_c0bc35288e40,Diabetes,2026-02,61.36,Reversed
+C0000405,tok_d5e115e4d6bc,Respiratory,2025-09,224.95,Reversed
+C0000406,tok_8ec556ca46d8,Diabetes,2026-01,225.88,Paid
+C0000407,tok_30be461be903,Respiratory,2026-03,224.42,Rejected
+C0000408,tok_56ac904e8002,Diabetes,2026-02,117.99,Paid
+C0000409,tok_67a4af937cc9,Diabetes,2025-07,254.54,Paid
+C0000410,tok_f1ae6ae7cfed,Behavioral Health,2025-08,21.91,Paid
+C0000411,tok_4f21990a2d35,Cardiology,2026-01,42.79,Paid
+C0000412,tok_46519c4acd4c,Oncology,2026-02,1474.59,Paid
+C0000413,tok_2e0d413aa817,Diabetes,2026-01,250.21,Paid
+C0000414,tok_9c8a49cba2b4,Diabetes,2026-05,100.87,Paid
+C0000415,tok_78a0cc1b50cf,Oncology,2025-07,725.62,Paid
+C0000416,tok_1b299d3eec61,Diabetes,2026-04,69.66,Reversed
+C0000417,tok_02e388dde133,Cardiology,2026-01,293.55,Reversed
+C0000418,tok_6a11d0c13247,Diabetes,2026-06,228.06,Paid
+C0000419,tok_bec591f8d866,Diabetes,2025-11,52.3,Paid
+C0000420,tok_0cdc06a62089,Respiratory,2026-03,411.93,Paid
+C0000421,tok_fd65ee0186f6,Diabetes,2026-02,31.01,Reversed
+C0000422,tok_6d0aa9428b7c,Diabetes,2026-01,102.52,Paid
+C0000423,tok_4caa507e16a1,Respiratory,2026-02,453.01,Rejected
+C0000424,tok_82a0a1e27033,Cardiology,2026-05,24.48,Paid
+C0000425,tok_30910c53af08,Specialty,2026-06,317.98,Paid
+C0000426,tok_b870a0a72a8a,Respiratory,2026-02,38.58,Paid
+C0000427,tok_7ab2302f629a,Diabetes,2026-01,252.73,Paid
+C0000428,tok_d27e245c511c,Behavioral Health,2025-09,270.91,Paid
+C0000429,tok_4afca6475297,Diabetes,2025-10,70.91,Paid
+C0000430,tok_02e388dde133,Diabetes,2025-12,109.37,Rejected
+C0000431,tok_31fa1f2652ef,Specialty,2026-01,128.87,Paid
+C0000432,tok_b535b1ddb3cb,Oncology,2026-03,1937.98,Reversed
+C0000433,tok_70cb4bb5c7a2,Cardiology,2026-04,123.88,Paid
+C0000434,tok_aff83bc8e6d5,Cardiology,2026-02,290.61,Paid
+C0000435,tok_af01205f8d4d,Specialty,2026-01,896.09,Paid
+C0000436,tok_4caa507e16a1,Respiratory,2026-05,308.62,Reversed
+C0000437,tok_b0c79cbde960,Behavioral Health,2025-07,43.66,Rejected
+C0000438,tok_1883faab5a39,Oncology,2026-04,1699.3,Paid
+C0000439,tok_c10f595de302,Specialty,2025-11,155.39,Paid
+C0000440,tok_1e3c9c199f06,Oncology,2025-10,936.88,Rejected
+C0000441,tok_4b44a5704e5e,Behavioral Health,2026-01,263.11,Paid
+C0000442,tok_78a0cc1b50cf,Cardiology,2025-10,294.46,Paid
+C0000443,tok_087c43ffe511,Specialty,2026-01,554.34,Paid
+C0000444,tok_7bf7fb7e96b3,Behavioral Health,2025-07,28.5,Paid
+C0000445,tok_2e8043f77dfe,Respiratory,2026-05,389.61,Paid
+C0000446,tok_9f4cd91c1637,Specialty,2026-04,732.39,Paid
+C0000447,tok_4becdef84d62,Cardiology,2026-04,36.58,Paid
+C0000448,tok_bec591f8d866,Cardiology,2026-01,233.04,Paid
+C0000450,tok_68eb4f40a43a,Respiratory,2026-05,399.62,Paid
+C0000451,tok_692392b11ed1,Behavioral Health,2025-08,74.04,Paid
+C0000452,tok_7ae934059d8a,Respiratory,2026-05,99.07,Paid
+C0000453,tok_dbb3067c493f,Specialty,2025-09,144.72,Paid
+C0000454,tok_75b890df3c48,Cardiology,2025-10,91.22,Paid
+C0000455,tok_2e8043f77dfe,Cardiology,2026-01,248.12,Paid
+C0000456,tok_0e332a0d12a3,Diabetes,2025-07,52.79,Reversed
+C0000457,tok_1f6c1e698f4f,Diabetes,2026-05,129.11,Paid
+C0000458,tok_ed89fc1a08f4,Cardiology,2025-08,74.05,Paid
+C0000459,tok_a7b1a83b17da,Behavioral Health,2026-03,123.83,Paid
+C0000460,tok_8ec556ca46d8,Behavioral Health,2026-01,40.11,Rejected
+C0000461,tok_ba23b2ff574f,Behavioral Health,2025-10,235.04,Paid
+C0000462,tok_311bd55886a0,Specialty,2025-07,1024.52,Reversed
+C0000463,tok_505c3d6945fc,Oncology,2026-04,1416.01,Paid
+C0000464,tok_78a0cc1b50cf,Cardiology,2026-05,56.91,Paid
+C0000465,tok_51724dfe8edb,Oncology,2026-01,466.38,Rejected
+C0000466,tok_c944262c0608,Cardiology,2025-09,85.42,Paid
+C0000467,tok_73553549fb4d,Behavioral Health,2026-04,112.58,Paid
+C0000468,tok_9dd8530e2d3b,Respiratory,2026-01,222.35,Paid
+C0000469,tok_89d8663c141f,Respiratory,2025-11,418.91,Paid
+C0000470,tok_e0f315d5ee52,Respiratory,2025-10,168.13,Paid
+C0000471,tok_624251982812,Oncology,2025-11,1379.65,Paid
+C0000472,tok_06dee7dd1b5b,Cardiology,2025-12,79.6,Rejected
+C0000473,tok_a718b698ed8b,Diabetes,2025-07,58.47,Paid
+C0000474,tok_ac93a757a86a,Cardiology,2026-05,261.67,Paid
+C0000475,tok_c944262c0608,Diabetes,2026-02,213.79,Paid
+C0000476,tok_aba08c2b1d49,Diabetes,2025-09,107.94,Paid
+C0000477,tok_3736c467e4c0,Respiratory,2025-10,344.64,Paid
+C0000478,tok_3a1e7118012e,Behavioral Health,2026-01,169.31,Paid
+C0000479,tok_f7c3c058665c,Diabetes,2026-05,153.75,Paid
+C0000480,tok_8acb93133709,Specialty,2026-02,1098.46,Paid
+C0000481,tok_89d8663c141f,Diabetes,2026-03,212.26,Reversed
+C0000482,tok_aef02b1f8513,Diabetes,2026-05,127.57,Paid
+C0000483,tok_1f1b4a3b5659,Specialty,2026-05,521.87,Reversed
+C0000484,tok_0c89d124620e,Oncology,2026-01,422.59,Rejected
+C0000485,tok_c2e3355d77dd,Specialty,2025-07,597.89,Paid
+C0000486,tok_43db716edcfc,Respiratory,2025-11,347.45,Paid
+C0000487,tok_11a373548f43,Diabetes,2026-03,205.46,Paid
+C0000488,tok_6d0aa9428b7c,Respiratory,2026-05,230.42,Paid
+C0000489,tok_b039dec2d037,Specialty,2025-07,150.53,Paid
+C0000490,tok_68166c244b78,Behavioral Health,2025-10,212.6,Paid
+C0000491,tok_3edc035d310e,Behavioral Health,2026-04,118.0,Rejected
+C0000492,tok_6f90540bc8b8,Diabetes,2025-07,231.76,Paid
+C0000493,tok_410e6cb8128b,Diabetes,2026-05,97.7,Paid
+C0000494,tok_e62e397b775f,Behavioral Health,2025-08,175.12,Paid
+C0000495,tok_24203e7fd8a9,Respiratory,2026-01,419.12,Paid
+C0000496,tok_818b927c6a1f,Specialty,2026-03,457.24,Paid
+C0000497,tok_6542d14099a4,Cardiology,2025-10,233.84,Paid
+C0000498,tok_a799b396cf0b,Respiratory,2025-11,186.17,Paid
+C0000499,tok_780e6c29b32f,Diabetes,2026-03,36.88,Paid
+C0000500,tok_5c705a2346f7,Diabetes,2025-10,216.08,Paid
+C0000501,tok_fe41e015a7c5,Respiratory,2026-03,364.15,Paid
+C0000502,tok_f5d4991df030,Respiratory,2026-03,317.84,Rejected
+C0000503,tok_738f7658e886,Behavioral Health,2026-02,122.44,Paid
+C0000504,tok_051a65389d81,Cardiology,2026-02,41.53,Paid
+C0000505,tok_6560cd23158d,Behavioral Health,2025-09,192.4,Paid
+C0000506,tok_9dd8530e2d3b,Diabetes,2026-02,22.01,Paid
+C0000507,tok_17d0e7da048a,Specialty,2025-11,765.23,Rejected
+C0000508,tok_b5f703c23101,Cardiology,2026-01,83.18,Paid
+C0000509,tok_fba03a1bcd60,Diabetes,2025-08,83.97,Paid
+C0000510,tok_2e0d413aa817,Behavioral Health,2025-10,71.42,Paid
+C0000511,tok_638b26ae2f0e,Specialty,2026-02,824.73,Paid
+C0000512,tok_f3d4c67f1c91,Cardiology,2025-08,53.86,Rejected
+C0000513,tok_51631a9726fd,Cardiology,2025-08,40.72,Paid
+C0000514,tok_49e09ee7c79f,Respiratory,2026-01,208.63,Paid
+C0000516,tok_505c3d6945fc,Specialty,2025-11,1132.9,Paid
+C0000517,tok_f435f44d8405,Oncology,2026-03,1593.87,Paid
+C0000518,tok_bc304879264a,Respiratory,2026-06,106.55,Paid
+C0000519,tok_fba03a1bcd60,Behavioral Health,2025-07,57.56,Paid
+C0000520,tok_71f2ba7b0629,Diabetes,2025-08,253.8,Paid
+C0000521,tok_0fa5de335338,Diabetes,2026-02,103.22,Paid
+C0000522,tok_0cdc06a62089,Cardiology,2025-07,53.37,Paid
+C0000523,tok_1072eb6615e8,Behavioral Health,2025-09,159.63,Paid
+C0000524,tok_aff03ae63be3,Cardiology,2026-02,235.39,Paid
+C0000525,tok_bb28d9e1bffd,Cardiology,2026-01,162.88,Paid
+C0000526,tok_c0bc35288e40,Cardiology,2026-03,118.52,Paid
+C0000527,tok_ddd226b7ce6b,Behavioral Health,2025-11,148.74,Paid
+C0000528,tok_22aa45dc9405,Diabetes,2025-10,254.83,Reversed
+C0000529,tok_a7f85c2133d5,Oncology,2026-02,655.66,Paid
+C0000530,tok_6b61351be76b,Diabetes,2026-05,249.07,Reversed
+C0000531,tok_83c50b85587f,Specialty,2026-02,899.22,Paid
+C0000532,tok_0c89d124620e,Specialty,2026-01,1397.37,Paid
+C0000533,tok_638b26ae2f0e,Cardiology,2026-03,33.54,Paid
+C0000534,tok_469ad3bfbc87,Diabetes,2026-04,210.47,Paid
+C0000535,tok_00b88db5850b,Oncology,2026-02,1563.13,Paid
+C0000536,tok_1a6e79df87f8,Cardiology,2025-09,183.68,Paid
+C0000537,tok_79083ed2f792,Respiratory,2025-07,39.19,Paid
+C0000538,tok_ed867018dd58,Diabetes,2025-07,136.18,Paid
+C0000539,tok_c1dd4b6ba8ba,Diabetes,2025-12,78.85,Paid
+C0000540,tok_c10f595de302,Specialty,2025-09,1224.42,Paid
+C0000541,tok_ba2684ff0a2c,Behavioral Health,2026-04,72.17,Paid
+C0000542,tok_c59f5dc7e298,Oncology,2026-06,882.48,Paid
+C0000543,tok_11a373548f43,Behavioral Health,2025-11,45.92,Paid
+C0000544,tok_b89532f99755,Specialty,2025-12,1093.8,Paid
+C0000545,tok_c2a8c7f2933e,Diabetes,2026-04,50.84,Paid
+C0000546,tok_b5f703c23101,Cardiology,2026-02,290.84,Paid
+C0000547,tok_a40bdd2fbf8a,Behavioral Health,2025-09,136.1,Paid
+C0000548,tok_cb7e6c10e50a,Oncology,2025-12,1562.38,Paid
+C0000549,tok_34f4148fa1a7,Cardiology,2025-07,140.74,Paid
+C0000550,tok_0efacd679a9c,Cardiology,2026-05,241.1,Paid
+C0000551,tok_3a9bda18d785,Oncology,2026-04,414.8,Paid
+C0000552,tok_7d14d00e2bed,Respiratory,2026-01,203.44,Paid
+C0000553,tok_5ed297b2eca2,Respiratory,2025-07,258.04,Paid
+C0000554,tok_43db716edcfc,Behavioral Health,2026-05,48.3,Paid
+C0000555,tok_d364481b0e1b,Oncology,2025-08,834.5,Paid
+C0000556,tok_11c470bf65ad,Oncology,2025-10,1627.77,Paid
+C0000557,tok_78a0cc1b50cf,Behavioral Health,2026-06,56.11,Paid
+C0000558,tok_0598eaacc9fd,Specialty,2025-07,1152.19,Paid
+C0000559,tok_73553549fb4d,Diabetes,2026-05,18.01,Paid
+C0000560,tok_d7da16e17290,Diabetes,2026-03,132.65,Paid
+C0000561,tok_3592e2462759,Diabetes,2025-10,115.9,Paid
+C0000562,tok_bb28d9e1bffd,Cardiology,2026-02,199.55,Paid
+C0000563,tok_3e15e31f1042,Diabetes,2025-09,23.24,Paid
+C0000564,tok_e62e397b775f,Oncology,2025-10,1592.14,Paid
+C0000565,tok_1072eb6615e8,Specialty,2026-03,1500.6,Paid
+C0000566,tok_430df8fe1e32,Cardiology,2026-02,253.88,Paid
+C0000567,tok_24203e7fd8a9,Diabetes,2026-04,128.61,Paid
+C0000568,tok_410e6cb8128b,Diabetes,2026-06,175.4,Paid
+C0000569,tok_bc304879264a,Behavioral Health,2026-02,276.1,Paid
+C0000570,tok_00b88db5850b,Behavioral Health,2026-03,115.03,Paid
+C0000571,tok_e2068cd0289d,Specialty,2025-09,852.94,Paid
+C0000572,tok_de1ea5bbdf7c,Respiratory,2025-09,180.2,Paid
+C0000573,tok_4e5b134c91eb,Cardiology,2026-05,136.0,Paid
+C0000574,tok_2c5109818725,Specialty,2026-03,369.9,Paid
+C0000575,tok_638b929806f1,Respiratory,2026-04,288.9,Paid
+C0000576,tok_43db716edcfc,Cardiology,2025-09,34.65,Paid
+C0000577,tok_7c54f17507a9,Oncology,2025-12,1550.37,Reversed
+C0000578,tok_5ed297b2eca2,Behavioral Health,2025-08,231.59,Paid
+C0000579,tok_f3570d2835bd,Respiratory,2025-08,215.38,Paid
+C0000580,tok_696c427f87ca,Diabetes,2026-02,199.48,Paid
+C0000581,tok_2e8043f77dfe,Diabetes,2025-08,60.12,Paid
+C0000582,tok_e9128b7e0f08,Behavioral Health,2025-10,172.54,Paid
+C0000583,tok_c323876f6f6b,Specialty,2025-09,435.42,Paid
+C0000584,tok_14416ade68b7,Respiratory,2025-07,69.87,Rejected
+C0000585,tok_8edc533bc2c5,Diabetes,2025-07,214.02,Paid
+C0000586,tok_7370ae826773,Specialty,2025-10,212.49,Paid
+C0000587,tok_0c89d124620e,Respiratory,2025-10,262.46,Paid
+C0000588,tok_8755bb3e41b5,Oncology,2026-04,886.29,Paid
+C0000589,tok_c323876f6f6b,Cardiology,2025-08,130.82,Paid
+C0000590,tok_a40bdd2fbf8a,Oncology,2026-03,360.58,Paid
+C0000591,tok_74cc5822f3c3,Cardiology,2025-11,86.66,Paid
+C0000592,tok_363a790e4c76,Diabetes,2025-11,228.9,Paid
+C0000593,tok_43efa768d844,Behavioral Health,2026-03,267.85,Paid
+C0000594,tok_13a5775196d8,Specialty,2026-04,1402.91,Rejected
+C0000595,tok_ae97712ed8e1,Specialty,2026-02,154.86,Paid
+C0000596,tok_ab6dd59b78e5,Respiratory,2026-04,93.07,Paid
+C0000597,tok_93f7703ae59c,Specialty,2025-10,1383.25,Paid
+C0000598,tok_eb5fe82800eb,Specialty,2025-07,993.72,Reversed
+C0000599,tok_4b059f4d7b89,Cardiology,2025-08,236.29,Paid
+C0000600,tok_638b929806f1,Cardiology,2025-07,33.72,Paid
+C0000601,tok_1aa5f69841ed,Cardiology,2025-10,160.29,Rejected
+C0000602,tok_601f4a6b5b0e,Respiratory,2026-03,385.83,Paid
+C0000603,tok_67a4af937cc9,Respiratory,2026-03,40.28,Paid
+C0000604,tok_c2cae293ea8d,Respiratory,2026-02,219.59,Paid
+C0000605,tok_c323876f6f6b,Diabetes,2026-01,166.99,Paid
+C0000606,tok_d8facf918df1,Behavioral Health,2025-08,83.2,Paid
+C0000607,tok_70cb4bb5c7a2,Respiratory,2026-04,419.36,Paid
+C0000608,tok_c12801c525eb,Diabetes,2025-07,192.2,Paid
+C0000609,tok_c323876f6f6b,Diabetes,2025-12,28.58,Paid
+C0000610,tok_7eeb2a3a9774,Behavioral Health,2026-01,54.33,Paid
+C0000611,tok_24bf9533d88c,Diabetes,2026-04,78.55,Paid
+C0000612,tok_ea094e616aee,Respiratory,2025-10,423.41,Paid
+C0000613,tok_07129eb68179,Cardiology,2026-05,181.73,Paid
+C0000615,tok_953b45caa9af,Respiratory,2025-11,303.29,Paid
+C0000616,tok_07c0247beed0,Behavioral Health,2025-12,158.49,Paid
+C0000617,tok_818b927c6a1f,Cardiology,2025-09,258.68,Reversed
+C0000618,tok_9f1b5a11006b,Oncology,2025-08,1724.94,Paid
+C0000619,tok_4b0a53c1abe8,Cardiology,2025-12,192.42,Paid
+C0000620,tok_aeb43e083901,Specialty,2026-01,827.26,Paid
+C0000621,tok_df94f5749a67,Diabetes,2026-02,62.63,Paid
+C0000623,tok_662a72e0c530,Behavioral Health,2026-04,261.36,Paid
+C0000624,tok_9baf8f3f4a9c,Respiratory,2026-02,303.14,Rejected
+C0000625,tok_27ebec6ba2ba,Diabetes,2026-01,44.43,Rejected
+C0000626,tok_efabfc2e79ea,Behavioral Health,2026-02,269.49,Paid
+C0000627,tok_7370ae826773,Respiratory,2026-01,145.7,Paid
+C0000628,tok_4ffba67a4ff9,Diabetes,2025-11,237.67,Rejected
+C0000629,tok_b5f703c23101,Behavioral Health,2025-11,225.13,Paid
+C0000630,tok_85455b7f89b5,Specialty,2026-06,633.18,Paid
+C0000631,tok_14416ade68b7,Respiratory,2025-12,37.77,Paid
+C0000632,tok_d717096f8127,Cardiology,2026-02,73.52,Paid
+C0000633,tok_34f4148fa1a7,Diabetes,2026-05,104.81,Paid
+C0000634,tok_13a5775196d8,Specialty,2026-05,223.5,Paid
+C0000635,tok_9fa8ea15426e,Oncology,2025-11,683.72,Paid
+C0000636,tok_57f840476fbd,Diabetes,2026-05,60.23,Paid
+C0000637,tok_696c427f87ca,Specialty,2026-03,375.54,Paid
+C0000638,tok_193d4371b4ed,Specialty,2025-11,438.99,Paid
+C0000639,tok_ca94629a3f56,Behavioral Health,2025-07,113.86,Paid
+C0000640,tok_26cd05183a6d,Diabetes,2026-03,125.4,Paid
+C0000641,tok_3c811a9089a0,Specialty,2026-06,1311.91,Paid
+C0000642,tok_6a9fb41fb551,Behavioral Health,2025-12,57.89,Paid
+C0000643,tok_71f2ba7b0629,Behavioral Health,2026-01,258.69,Rejected
+C0000644,tok_c697fee9b251,Specialty,2025-07,340.77,Rejected
+C0000645,tok_0c89d124620e,Specialty,2025-10,262.25,Paid
+C0000646,tok_051a65389d81,Respiratory,2025-12,373.68,Paid
+C0000647,tok_c23b738291ff,Diabetes,2026-01,193.75,Paid
+C0000648,tok_0b2f99fbd9de,Behavioral Health,2026-04,283.96,Reversed
+C0000649,tok_25758a32a8e4,Specialty,2025-09,715.05,Paid
+C0000650,tok_06dee7dd1b5b,Oncology,2026-02,1231.79,Paid
+C0000651,tok_d717096f8127,Specialty,2025-12,1430.87,Paid
+C0000653,tok_792062b879a9,Behavioral Health,2025-08,128.92,Paid
+C0000654,tok_0b2f99fbd9de,Behavioral Health,2026-05,193.72,Paid
+C0000655,tok_63e68ee01ed6,Diabetes,2025-09,218.33,Paid
+C0000656,tok_14caf25e1000,Cardiology,2025-09,191.41,Paid
+C0000657,tok_63bd7089f53b,Cardiology,2026-01,55.86,Paid
+C0000658,tok_24203e7fd8a9,Specialty,2025-10,1026.58,Paid
+C0000659,tok_734e10853b92,Diabetes,2026-04,119.31,Rejected
+C0000660,tok_f017339107e9,Diabetes,2026-02,228.41,Paid
+C0000661,tok_aba08c2b1d49,Diabetes,2026-01,227.78,Paid
+C0000662,tok_cd150d50aa2d,Respiratory,2025-11,137.57,Paid
+C0000663,tok_527bc3afc73a,Behavioral Health,2026-05,177.25,Reversed
+C0000664,tok_b2a62778fab8,Diabetes,2026-02,240.82,Paid
+C0000665,tok_78a0cc1b50cf,Behavioral Health,2026-03,96.81,Paid
+C0000666,tok_d20e5757179c,Respiratory,2026-03,289.21,Paid
+C0000667,tok_1b0bbb1b5b44,Specialty,2026-05,645.06,Paid
+C0000668,tok_c323876f6f6b,Diabetes,2025-11,192.85,Paid
+C0000669,tok_bea88f053504,Cardiology,2026-03,185.42,Paid
+C0000670,tok_c4a361bfdceb,Cardiology,2025-12,115.34,Rejected
+C0000671,tok_193d4371b4ed,Respiratory,2025-10,352.4,Paid
+C0000672,tok_51631a9726fd,Behavioral Health,2025-12,103.48,Paid
+C0000673,tok_efabfc2e79ea,Cardiology,2025-09,149.06,Rejected
+C0000674,tok_fd65ee0186f6,Behavioral Health,2025-10,220.37,Paid
+C0000675,tok_8edc533bc2c5,Diabetes,2025-09,220.99,Paid
+C0000676,tok_c2a2679ce1d4,Behavioral Health,2025-10,163.5,Paid
+C0000677,tok_5f6b7fe1d91c,Diabetes,2026-04,67.16,Paid
+C0000678,tok_26fb29a2f343,Diabetes,2025-08,127.83,Paid
+C0000679,tok_ca94629a3f56,Diabetes,2026-03,233.11,Paid
+C0000680,tok_07c0247beed0,Behavioral Health,2025-08,214.56,Paid
+C0000681,tok_9dd8530e2d3b,Respiratory,2025-12,349.24,Paid
+C0000682,tok_638b26ae2f0e,Oncology,2026-06,1665.97,Paid
+C0000683,tok_ffc78603d4a5,Behavioral Health,2025-08,30.01,Paid
+C0000684,tok_7ab2302f629a,Diabetes,2026-05,153.08,Rejected
+C0000685,tok_7ae934059d8a,Diabetes,2026-01,51.12,Paid
+C0000686,tok_d1bd2bf2ea9f,Oncology,2025-10,1149.63,Paid
+C0000687,tok_0b8b65746e56,Diabetes,2026-03,229.96,Paid
+C0000688,tok_d27e245c511c,Cardiology,2026-05,164.1,Paid
+C0000689,tok_85455b7f89b5,Cardiology,2026-01,98.0,Paid
+C0000690,tok_e03c2d41708a,Cardiology,2025-10,175.65,Paid
+C0000691,tok_99610ddb6029,Cardiology,2026-05,162.46,Paid
+C0000692,tok_e8d25fe2997d,Oncology,2025-08,351.57,Paid
+C0000693,tok_49587be0bf1c,Cardiology,2025-08,213.97,Paid
+C0000694,tok_3736c467e4c0,Specialty,2026-01,612.68,Paid
+C0000695,tok_4e4ce13cb85f,Oncology,2026-03,1808.31,Paid
+C0000696,tok_8bf1a2e15e54,Diabetes,2025-10,82.84,Paid
+C0000697,tok_09162046659a,Cardiology,2026-01,217.62,Paid
+C0000698,tok_854e0068700e,Cardiology,2025-11,286.55,Paid
+C0000699,tok_549576dc23c5,Specialty,2026-02,174.25,Paid
+C0000700,tok_99610ddb6029,Diabetes,2026-05,67.9,Rejected
+C0000701,tok_153fbb1a52ff,Specialty,2026-04,295.62,Rejected
+C0000702,tok_9b8d7bfb9ed3,Respiratory,2025-12,71.71,Paid
+C0000703,tok_af01205f8d4d,Diabetes,2025-10,29.91,Paid
+C0000704,tok_98e9d51cf046,Behavioral Health,2025-10,125.09,Paid
+C0000705,tok_0c89d124620e,Cardiology,2026-04,141.65,Paid
+C0000706,tok_d42f425a32d6,Diabetes,2026-03,22.85,Paid
+C0000707,tok_36a6c2481581,Oncology,2025-12,475.84,Paid
+C0000708,tok_09162046659a,Respiratory,2025-09,47.11,Paid
+C0000709,tok_0b8b65746e56,Respiratory,2025-08,414.26,Paid
+C0000710,tok_5211431ad7fb,Respiratory,2025-07,351.54,Paid
+C0000711,tok_57861e420c2d,Specialty,2026-04,328.48,Paid
+C0000712,tok_06dee7dd1b5b,Behavioral Health,2026-02,228.71,Paid
+C0000713,tok_0598eaacc9fd,Cardiology,2025-11,80.45,Paid
+C0000714,tok_fde543b604a3,Cardiology,2026-01,48.63,Paid
+C0000715,tok_6a0171bb4f66,Behavioral Health,2025-11,161.74,Paid
+C0000716,tok_beb88d665b22,Respiratory,2026-04,446.85,Paid
+C0000717,tok_df94f5749a67,Specialty,2025-10,144.14,Paid
+C0000718,tok_df0d3acd0e83,Diabetes,2025-09,93.17,Reversed
+C0000719,tok_4cbe0b766705,Specialty,2026-03,409.55,Paid
+C0000720,tok_4236f6a93ec2,Cardiology,2026-03,264.98,Paid
+C0000721,tok_d1eb44eb2a1d,Diabetes,2025-11,203.71,Paid
+C0000722,tok_662a72e0c530,Behavioral Health,2026-04,29.52,Paid
+C0000723,tok_81f36519c1fc,Cardiology,2026-04,82.36,Paid
+C0000724,tok_cb7e6c10e50a,Behavioral Health,2026-02,82.55,Paid
+C0000725,tok_83d37395eb80,Behavioral Health,2025-08,284.07,Paid
+C0000726,tok_0b2f99fbd9de,Cardiology,2025-09,241.4,Paid
+C0000727,tok_6d3664e71df8,Diabetes,2025-08,228.48,Rejected
+C0000728,tok_e1c978acd6c9,Diabetes,2026-03,212.36,Paid
+C0000729,tok_95fdd9490b3e,Cardiology,2025-08,24.29,Reversed
+C0000730,tok_dbbaa4709766,Behavioral Health,2026-03,199.93,Paid
+C0000731,tok_a8a6e0209d96,Specialty,2025-11,348.95,Paid
+C0000732,tok_18930975e2fa,Specialty,2026-03,1145.42,Paid
+C0000733,tok_9f61666925b6,Diabetes,2025-09,97.9,Paid
+C0000734,tok_43db716edcfc,Oncology,2025-09,806.48,Paid
+C0000735,tok_81f36519c1fc,Cardiology,2025-08,76.1,Paid
+C0000736,tok_4cbe0b766705,Diabetes,2025-09,131.42,Paid
+C0000737,tok_5bbb79a47ec9,Behavioral Health,2025-07,111.63,Paid
+C0000738,tok_6d93a2724c63,Behavioral Health,2025-12,133.25,Paid
+C0000739,tok_7e43aef757a1,Behavioral Health,2026-05,169.17,Paid
+C0000740,tok_ed867018dd58,Diabetes,2025-11,194.82,Paid
+C0000741,tok_9fed00d59456,Diabetes,2026-05,144.4,Paid
+C0000742,tok_09162046659a,Behavioral Health,2026-05,180.79,Rejected
+C0000743,tok_58f9324ab8a1,Diabetes,2025-10,207.57,Rejected
+C0000744,tok_153fbb1a52ff,Diabetes,2025-07,57.89,Paid
+C0000745,tok_9270c76f7536,Diabetes,2026-02,213.35,Paid
+C0000746,tok_0598eaacc9fd,Oncology,2026-04,394.28,Paid
+C0000747,tok_e7a0e5643092,Respiratory,2026-03,187.03,Paid
+C0000748,tok_624251982812,Specialty,2025-09,418.58,Paid
+C0000749,tok_3fd78175a909,Diabetes,2026-02,123.81,Paid
+C0000750,tok_6a37baa9c5b7,Respiratory,2026-02,275.42,Paid
+C0000751,tok_b2cff28012a7,Behavioral Health,2026-06,247.5,Paid
+C0000752,tok_6a11d0c13247,Specialty,2025-10,1380.38,Paid
+C0000753,tok_c5895a99a7cf,Respiratory,2026-02,37.05,Paid
+C0000754,tok_81f36519c1fc,Specialty,2026-01,584.91,Paid
+C0000755,tok_d42f425a32d6,Specialty,2025-11,156.68,Paid
+C0000756,tok_a584c6a7ba04,Behavioral Health,2025-11,207.28,Paid
+C0000757,tok_82a0a1e27033,Behavioral Health,2026-02,249.58,Paid
+C0000758,tok_673c21f05df5,Diabetes,2026-05,199.48,Paid
+C0000759,tok_85455b7f89b5,Cardiology,2025-09,199.59,Paid
+C0000760,tok_75557e7e54ab,Behavioral Health,2025-08,41.85,Paid
+C0000761,tok_aa295eeadd90,Diabetes,2026-04,41.59,Reversed
+C0000762,tok_f6517e8d50a5,Specialty,2025-12,1178.78,Paid
+C0000763,tok_7ab2302f629a,Behavioral Health,2026-04,64.84,Rejected
+C0000764,tok_29beed6836bd,Diabetes,2026-01,178.81,Paid
+C0000765,tok_79083ed2f792,Diabetes,2025-09,202.23,Paid
+C0000766,tok_b89532f99755,Oncology,2025-10,719.76,Paid
+C0000767,tok_b89532f99755,Specialty,2025-07,1330.76,Paid
+C0000768,tok_4b44a5704e5e,Diabetes,2025-08,130.83,Rejected
+C0000769,tok_6b61351be76b,Diabetes,2025-08,39.92,Paid
+C0000770,tok_672c89e54d9b,Behavioral Health,2025-07,223.9,Paid
+C0000771,tok_8903336ee63d,Diabetes,2025-11,193.27,Paid
+C0000772,tok_f1be0382725c,Behavioral Health,2025-09,249.95,Paid
+C0000773,tok_e2068cd0289d,Cardiology,2026-04,102.61,Paid
+C0000774,tok_c1dd4b6ba8ba,Diabetes,2025-09,231.82,Paid
+C0000775,tok_c60e7190e0a4,Cardiology,2026-04,163.86,Paid
+C0000776,tok_f1be0382725c,Specialty,2025-09,1312.43,Rejected
+C0000777,tok_34454262c88f,Cardiology,2025-10,177.82,Paid
+C0000778,tok_f3d4c67f1c91,Respiratory,2025-10,379.26,Paid
+C0000779,tok_c10f595de302,Specialty,2025-11,1187.03,Paid
+C0000780,tok_58f9324ab8a1,Cardiology,2025-07,157.42,Paid
+C0000781,tok_902d6a7c9cf4,Diabetes,2026-04,51.84,Paid
+C0000782,tok_c2cae293ea8d,Specialty,2025-12,1416.65,Paid
+C0000783,tok_363a790e4c76,Behavioral Health,2026-02,21.9,Paid
+C0000784,tok_876dec0800ed,Behavioral Health,2025-12,69.61,Paid
+C0000785,tok_bb28d9e1bffd,Diabetes,2026-05,23.26,Paid
+C0000786,tok_556b0ced6396,Cardiology,2025-11,137.57,Paid
+C0000787,tok_fc5904236a9d,Cardiology,2025-12,218.65,Reversed
+C0000788,tok_83c50b85587f,Diabetes,2026-03,244.21,Paid
+C0000789,tok_02e388dde133,Cardiology,2026-04,189.3,Paid
+C0000790,tok_6d3664e71df8,Behavioral Health,2026-03,255.81,Rejected
+C0000791,tok_7370ae826773,Respiratory,2025-12,88.98,Reversed
+C0000792,tok_91ffb5743f82,Respiratory,2025-12,94.02,Paid
+C0000793,tok_8903336ee63d,Diabetes,2025-09,53.69,Paid
+C0000794,tok_f435f44d8405,Diabetes,2025-08,67.2,Paid
+C0000795,tok_7110eb8d2b31,Specialty,2025-07,1234.18,Paid
+C0000796,tok_aff03ae63be3,Oncology,2025-10,1565.72,Paid
+C0000797,tok_ee18821a0317,Oncology,2025-08,652.32,Paid
+C0000798,tok_2b439161bfde,Behavioral Health,2025-12,126.25,Paid
+C0000799,tok_355a541cbc69,Behavioral Health,2026-03,178.71,Paid
+C0000800,tok_7fe8c826b325,Respiratory,2025-10,287.85,Paid
+C0000801,tok_8bf1a2e15e54,Cardiology,2025-07,120.29,Paid
+C0000802,tok_97a36a42586c,Behavioral Health,2025-09,191.65,Paid
+C0000803,tok_3a87a4b48abf,Cardiology,2026-01,48.56,Paid
+C0000804,tok_1cdac3edfe30,Cardiology,2026-03,133.93,Paid
+C0000805,tok_27e38be90ce3,Cardiology,2026-06,69.09,Paid
+C0000806,tok_34f4148fa1a7,Respiratory,2025-08,183.24,Paid
+C0000807,tok_18930975e2fa,Respiratory,2025-09,102.48,Paid
+C0000808,tok_daad01443118,Oncology,2026-06,1152.99,Paid
+C0000809,tok_7d14d00e2bed,Cardiology,2026-05,96.71,Paid
+C0000810,tok_c12801c525eb,Behavioral Health,2026-02,153.45,Paid
+C0000811,tok_87b8ead21ee4,Behavioral Health,2025-09,49.53,Paid
+C0000812,tok_f3570d2835bd,Behavioral Health,2025-07,41.1,Rejected
+C0000813,tok_faf8f9f6cc52,Specialty,2026-05,394.93,Paid
+C0000814,tok_3656cc604aaf,Diabetes,2025-09,86.17,Paid
+C0000815,tok_870c9e783a42,Behavioral Health,2025-11,202.52,Paid
+C0000816,tok_a799b396cf0b,Respiratory,2025-11,42.65,Paid
+C0000817,tok_2573c9ba3568,Diabetes,2026-05,96.56,Paid
+C0000818,tok_a7f85c2133d5,Respiratory,2026-01,263.82,Paid
+C0000819,tok_87b8ead21ee4,Diabetes,2026-05,193.88,Paid
+C0000820,tok_0e332a0d12a3,Cardiology,2026-05,154.61,Rejected
+C0000821,tok_4af786795004,Behavioral Health,2026-03,214.84,Paid
+C0000822,tok_0b2f99fbd9de,Cardiology,2026-05,32.72,Paid
+C0000823,tok_4e4ce13cb85f,Diabetes,2025-08,142.06,Rejected
+C0000824,tok_a88d8d6ced88,Cardiology,2025-10,137.97,Paid
+C0000825,tok_a99ff3ffcc91,Respiratory,2026-02,66.94,Paid
+C0000826,tok_82a0a1e27033,Cardiology,2026-03,109.65,Paid
+C0000827,tok_17d76563e87f,Respiratory,2026-04,53.67,Paid
+C0000828,tok_7219c8bee341,Cardiology,2025-10,238.49,Paid
+C0000829,tok_b2a62778fab8,Specialty,2026-06,1428.95,Paid
+C0000830,tok_644b224131b8,Diabetes,2026-06,207.26,Paid
+C0000831,tok_9f61666925b6,Specialty,2025-12,1525.0,Paid
+C0000832,tok_ba2ace6eda2e,Respiratory,2026-05,128.69,Paid
+C0000833,tok_d2d451df7ef3,Behavioral Health,2026-05,176.3,Paid
+C0000834,tok_d09b2b4b5583,Oncology,2025-12,1300.1,Paid
+C0000835,tok_5f6b7fe1d91c,Oncology,2026-03,1103.23,Paid
+C0000836,tok_e62e397b775f,Specialty,2025-07,479.27,Paid
+C0000837,tok_f02244cf1bbf,Diabetes,2025-12,135.74,Paid
+C0000838,tok_952ccf2c178d,Cardiology,2025-12,106.35,Paid
+C0000839,tok_c944262c0608,Diabetes,2026-05,159.55,Paid
+C0000840,tok_e34522dd28f7,Behavioral Health,2025-11,26.03,Paid
+C0000841,tok_8bf1a2e15e54,Cardiology,2026-01,177.72,Rejected
+C0000842,tok_be6327608114,Diabetes,2025-08,70.83,Paid
+C0000843,tok_ccc7d1707a99,Diabetes,2026-01,206.16,Paid
+C0000844,tok_b4600311ef7a,Diabetes,2025-11,235.91,Paid
+C0000845,tok_25758a32a8e4,Diabetes,2026-05,232.11,Paid
+C0000846,tok_c91f1f5a17c6,Specialty,2026-01,434.84,Paid
+C0000847,tok_63bd7089f53b,Behavioral Health,2025-09,139.45,Paid
+C0000848,tok_3f437a16742a,Behavioral Health,2026-06,222.89,Paid
+C0000849,tok_e9e4a4215923,Cardiology,2026-01,211.26,Paid
+C0000850,tok_80f3159eadaa,Specialty,2026-05,309.21,Reversed
+C0000851,tok_8f5ef9b40b21,Specialty,2025-07,701.54,Paid
+C0000852,tok_6d3664e71df8,Specialty,2025-08,793.22,Paid
+C0000853,tok_fc5904236a9d,Behavioral Health,2026-04,193.93,Paid
+C0000854,tok_6b9b93b5be73,Behavioral Health,2025-10,141.66,Paid
+C0000855,tok_3fd78175a909,Behavioral Health,2025-11,105.71,Rejected
+C0000856,tok_7c505b7bbfc3,Specialty,2026-06,774.75,Paid
+C0000857,tok_43efa768d844,Respiratory,2026-03,456.15,Paid
+C0000858,tok_ac662a4192d9,Behavioral Health,2025-09,251.95,Paid
+C0000859,tok_907f9510d566,Diabetes,2026-06,199.16,Paid
+C0000860,tok_26fb29a2f343,Behavioral Health,2025-08,249.31,Rejected
+C0000861,tok_624251982812,Respiratory,2026-05,85.1,Reversed
+C0000862,tok_eb3599bf0354,Diabetes,2025-07,134.36,Paid
+C0000863,tok_43db716edcfc,Behavioral Health,2026-01,224.44,Paid
+C0000864,tok_6ffc59680c9d,Specialty,2025-09,746.95,Paid
+C0000865,tok_ae97712ed8e1,Respiratory,2025-08,284.97,Paid
+C0000866,tok_70cb4bb5c7a2,Specialty,2025-11,314.11,Paid
+C0000867,tok_8edc533bc2c5,Cardiology,2026-02,223.06,Paid
+C0000868,tok_7eeb2a3a9774,Respiratory,2026-02,181.57,Paid
+C0000869,tok_f1ae6ae7cfed,Cardiology,2025-07,101.55,Paid
+C0000870,tok_efabfc2e79ea,Diabetes,2026-04,231.0,Paid
+C0000871,tok_b535b1ddb3cb,Behavioral Health,2026-05,61.94,Paid
+C0000872,tok_c60e7190e0a4,Specialty,2025-09,332.25,Paid
+C0000873,tok_8925bd271743,Cardiology,2025-07,206.52,Paid
+C0000874,tok_24203e7fd8a9,Specialty,2026-03,484.68,Paid
+C0000875,tok_29beed6836bd,Cardiology,2025-09,201.2,Paid
+C0000876,tok_706f4ce47980,Behavioral Health,2026-01,103.47,Paid
+C0000877,tok_c95f7935fd59,Specialty,2026-03,1372.38,Paid
+C0000878,tok_03fb85fd12cb,Diabetes,2025-12,247.16,Paid
+C0000879,tok_df94f5749a67,Diabetes,2025-08,165.29,Paid
+C0000880,tok_47a33c526417,Oncology,2025-07,2030.43,Paid
+C0000881,tok_a40bdd2fbf8a,Respiratory,2025-10,423.63,Paid
+C0000882,tok_11a373548f43,Specialty,2026-03,1490.35,Paid
+C0000883,tok_907f9510d566,Specialty,2025-08,1184.31,Paid
+C0000884,tok_9c896702177f,Cardiology,2025-10,95.96,Rejected
+C0000885,tok_8925bd271743,Cardiology,2026-02,221.87,Paid
+C0000886,tok_d2d451df7ef3,Cardiology,2025-10,102.18,Paid
+C0000887,tok_9fa8ea15426e,Behavioral Health,2025-12,55.08,Paid
+C0000888,tok_17d76563e87f,Specialty,2026-02,952.0,Paid
+C0000889,tok_a40bdd2fbf8a,Diabetes,2025-08,209.18,Paid
+C0000890,tok_be6aa9ce9e49,Diabetes,2026-04,65.77,Paid
+C0000891,tok_8ec556ca46d8,Cardiology,2026-02,24.39,Paid
+C0000892,tok_be6aa9ce9e49,Respiratory,2026-05,117.25,Paid
+C0000893,tok_6897bc6eab7b,Cardiology,2025-11,139.84,Paid
+C0000894,tok_9c8a49cba2b4,Oncology,2026-05,1210.71,Paid
+C0000895,tok_3f437a16742a,Cardiology,2026-04,101.54,Paid
+C0000896,tok_c60e7190e0a4,Diabetes,2025-10,201.1,Paid
+C0000897,tok_8acb93133709,Behavioral Health,2025-09,145.05,Paid
+C0000898,tok_3e15e31f1042,Specialty,2026-02,245.31,Paid
+C0000899,tok_a412c38e275e,Behavioral Health,2025-08,71.34,Paid
+C0000900,tok_c523dd47ee6e,Cardiology,2026-02,244.17,Paid
+C0000901,tok_3592e2462759,Specialty,2025-09,937.1,Paid
+C0000902,tok_0efacd679a9c,Cardiology,2025-09,71.48,Paid
+C0000903,tok_3c811a9089a0,Behavioral Health,2026-05,280.98,Paid
+C0000904,tok_051a65389d81,Respiratory,2025-11,132.03,Rejected
+C0000905,tok_c1dd4b6ba8ba,Cardiology,2025-12,63.7,Paid
+C0000906,tok_9dd8530e2d3b,Cardiology,2026-04,111.05,Paid
+C0000907,tok_81f36519c1fc,Respiratory,2026-01,208.42,Paid
+C0000908,tok_75abad56af13,Behavioral Health,2025-07,223.99,Paid
+C0000909,tok_398bf3999ee1,Respiratory,2026-01,160.81,Paid
+C0000910,tok_d5f18b0156e6,Cardiology,2025-10,183.66,Paid
+C0000911,tok_c60e7190e0a4,Behavioral Health,2025-11,48.24,Paid
+C0000912,tok_a5fd05c69a15,Behavioral Health,2025-07,177.64,Paid
+C0000913,tok_9f4cd91c1637,Behavioral Health,2025-11,149.45,Paid
+C0000914,tok_b5d424548756,Diabetes,2025-11,172.79,Paid
+C0000915,tok_0ffb847ee7de,Cardiology,2025-08,158.62,Reversed
+C0000916,tok_792062b879a9,Cardiology,2025-09,65.67,Paid
+C0000917,tok_73553549fb4d,Specialty,2025-12,744.36,Paid
+C0000918,tok_398bf3999ee1,Cardiology,2025-11,175.81,Paid
+C0000919,tok_09162046659a,Respiratory,2025-12,411.69,Rejected
+C0000920,tok_49587be0bf1c,Respiratory,2025-12,125.97,Paid
+C0000921,tok_3ab4109c28f3,Cardiology,2025-11,218.4,Paid
+C0000922,tok_c5895a99a7cf,Diabetes,2026-01,46.84,Paid
+C0000923,tok_8ec556ca46d8,Respiratory,2025-07,394.68,Paid
+C0000924,tok_d364481b0e1b,Cardiology,2026-03,30.92,Paid
+C0000925,tok_673c21f05df5,Cardiology,2025-08,118.52,Paid
+C0000926,tok_812e924f0fef,Behavioral Health,2026-03,227.59,Paid
+C0000927,tok_ddcc39673a9c,Behavioral Health,2026-02,172.58,Paid
+C0000928,tok_536c44830aa4,Respiratory,2026-02,366.56,Paid
+C0000929,tok_04b875c13d88,Behavioral Health,2026-05,216.5,Paid
+C0000930,tok_876dec0800ed,Specialty,2026-02,767.28,Paid
+C0000931,tok_c697fee9b251,Diabetes,2025-07,218.43,Paid
+C0000932,tok_6a9fb41fb551,Diabetes,2026-04,225.05,Paid
+C0000933,tok_3f437a16742a,Oncology,2026-04,1521.73,Rejected
+C0000934,tok_f6d7723ed2a0,Behavioral Health,2025-09,60.42,Paid
+C0000935,tok_aff03ae63be3,Diabetes,2025-07,163.66,Paid
+C0000936,tok_27e38be90ce3,Diabetes,2025-10,228.67,Paid
+C0000937,tok_410e6cb8128b,Diabetes,2025-10,257.82,Paid
+C0000938,tok_601f4a6b5b0e,Diabetes,2026-02,235.53,Paid
+C0000939,tok_fde543b604a3,Diabetes,2025-10,227.94,Paid
+C0000940,tok_c323876f6f6b,Cardiology,2026-01,81.32,Paid
+C0000941,tok_812e924f0fef,Behavioral Health,2026-04,154.68,Paid
+C0000942,tok_63afbef69cf8,Respiratory,2026-03,84.83,Paid
+C0000943,tok_a88d8d6ced88,Behavioral Health,2025-10,130.31,Paid
+C0000944,tok_d328692edbd7,Oncology,2026-02,1199.47,Paid
+C0000945,tok_18930975e2fa,Cardiology,2025-08,300.84,Paid
+C0000946,tok_91ffb5743f82,Behavioral Health,2026-05,135.37,Paid
+C0000947,tok_ca79de5d719e,Diabetes,2026-01,173.75,Paid
+C0000948,tok_7e210bc3c4e0,Cardiology,2025-12,209.59,Paid
+C0000949,tok_db171de6446b,Diabetes,2026-03,20.24,Paid
+C0000950,tok_1b299d3eec61,Respiratory,2025-10,59.05,Paid
+C0000951,tok_a8a6e0209d96,Specialty,2026-01,1303.36,Paid
+C0000952,tok_51724dfe8edb,Behavioral Health,2026-06,217.31,Paid
+C0000953,tok_4ffba67a4ff9,Diabetes,2026-03,57.29,Paid
+C0000954,tok_672c89e54d9b,Cardiology,2026-05,265.95,Paid
+C0000955,tok_601f4a6b5b0e,Cardiology,2025-07,279.71,Paid
+C0000956,tok_a7b1a83b17da,Cardiology,2026-05,178.26,Paid
+C0000957,tok_98e9d51cf046,Diabetes,2025-10,102.38,Paid
+C0000958,tok_79083ed2f792,Diabetes,2026-01,133.12,Paid
+C0000959,tok_780e6c29b32f,Specialty,2025-12,1032.71,Paid
+C0000960,tok_4af786795004,Cardiology,2026-04,115.36,Rejected
+C0000961,tok_7fe8c826b325,Respiratory,2026-04,240.53,Paid
+C0000962,tok_e69dd1ce47e3,Diabetes,2025-10,246.03,Paid
+C0000963,tok_4cbe0b766705,Respiratory,2026-05,155.37,Paid
+C0000964,tok_6a37baa9c5b7,Diabetes,2025-12,177.57,Reversed
+C0000965,tok_7fe8c826b325,Specialty,2025-11,858.55,Paid
+C0000966,tok_56ac904e8002,Specialty,2025-07,949.24,Rejected
+C0000967,tok_e7a0e5643092,Specialty,2025-10,1261.17,Paid
+C0000968,tok_4b0a53c1abe8,Behavioral Health,2026-01,83.11,Paid
+C0000969,tok_4ab472397501,Oncology,2026-05,860.41,Paid
+C0000970,tok_6a11d0c13247,Oncology,2026-02,693.59,Paid
+C0000971,tok_de1ea5bbdf7c,Respiratory,2025-12,434.84,Paid
+C0000972,tok_5ed297b2eca2,Behavioral Health,2026-02,225.31,Paid
+C0000973,tok_780e6c29b32f,Cardiology,2025-08,172.34,Paid
+C0000974,tok_601f4a6b5b0e,Behavioral Health,2025-10,53.4,Paid
+C0000975,tok_eccd425973fa,Specialty,2025-12,537.38,Paid
+C0000976,tok_af01205f8d4d,Behavioral Health,2026-03,41.89,Paid
+C0000977,tok_2c1439fedd0f,Behavioral Health,2025-09,155.8,Paid
+C0000978,tok_5c868e4e3d6b,Diabetes,2026-03,198.19,Paid
+C0000979,tok_df0d3acd0e83,Behavioral Health,2026-03,159.57,Paid
+C0000980,tok_556b0ced6396,Behavioral Health,2026-01,161.12,Paid
+C0000981,tok_ae2f1582f4d0,Specialty,2025-10,1355.18,Paid
+C0000982,tok_07129eb68179,Behavioral Health,2025-10,132.67,Paid
+C0000983,tok_eb5fe82800eb,Cardiology,2026-03,134.79,Rejected
+C0000984,tok_094e01565ee4,Cardiology,2025-12,231.14,Paid
+C0000985,tok_faf8f9f6cc52,Specialty,2026-05,560.45,Rejected
+C0000986,tok_b5d424548756,Respiratory,2026-03,93.52,Paid
+C0000987,tok_5ed297b2eca2,Behavioral Health,2026-01,280.24,Paid
+C0000988,tok_430df8fe1e32,Specialty,2025-12,468.93,Paid
+C0000989,tok_eb5fe82800eb,Cardiology,2025-09,280.82,Paid
+C0000990,tok_3e407ec759c8,Specialty,2025-09,406.87,Paid
+C0000991,tok_90802fcdb0b5,Diabetes,2025-12,46.38,Paid
+C0000992,tok_7ae934059d8a,Specialty,2026-02,445.13,Paid
+C0000993,tok_57861e420c2d,Respiratory,2025-08,230.32,Paid
+C0000994,tok_84a5eb0126f3,Behavioral Health,2025-11,30.71,Paid
+C0000995,tok_6a9fb41fb551,Specialty,2026-03,1380.3,Paid
+C0000996,tok_9fed00d59456,Diabetes,2026-05,195.09,Paid
+C0000997,tok_6b9b93b5be73,Specialty,2026-02,1322.9,Paid
+C0000998,tok_1883faab5a39,Behavioral Health,2025-11,94.39,Paid
+C0000999,tok_9c8a49cba2b4,Cardiology,2025-12,264.46,Paid
+C0001000,tok_eb3599bf0354,Respiratory,2026-03,138.14,Paid
+C0001001,tok_fc0051712f01,Cardiology,2026-03,311.22,Paid
+C0001002,tok_d364481b0e1b,Cardiology,2026-06,172.31,Paid
+C0001003,tok_26cd05183a6d,Specialty,2025-08,1260.31,Paid
+C0001004,tok_1a6e79df87f8,Respiratory,2026-06,189.52,Rejected
+C0001005,tok_aef02b1f8513,Respiratory,2025-07,345.29,Paid
+C0001006,tok_c60e7190e0a4,Behavioral Health,2026-03,172.42,Rejected
+C0001007,tok_9868f93c4997,Respiratory,2026-02,356.65,Rejected
+C0001008,tok_292a7f5a085e,Specialty,2025-12,143.06,Paid
+C0001009,tok_70cb4bb5c7a2,Respiratory,2025-11,349.98,Paid
+C0001010,tok_f75b9a072398,Cardiology,2025-11,302.01,Paid
+C0001011,tok_3c811a9089a0,Oncology,2025-11,2191.44,Paid
+C0001012,tok_b25dcc40d39f,Behavioral Health,2026-01,192.37,Paid
+C0001013,tok_b89532f99755,Behavioral Health,2025-12,247.84,Paid
+C0001014,tok_f6b7d3be8c38,Respiratory,2025-12,453.15,Paid
+C0001015,tok_5211431ad7fb,Diabetes,2026-05,116.27,Paid
+C0001016,tok_93f7703ae59c,Cardiology,2026-03,98.46,Paid
+C0001017,tok_c323876f6f6b,Behavioral Health,2025-09,220.72,Paid
+C0001018,tok_536c44830aa4,Specialty,2026-05,1427.62,Paid
+C0001019,tok_5bbb79a47ec9,Specialty,2025-08,685.85,Paid
+C0001020,tok_3fd78175a909,Specialty,2026-01,1381.31,Paid
+C0001021,tok_9baf8f3f4a9c,Specialty,2026-01,684.09,Paid
+C0001022,tok_ea094e616aee,Respiratory,2025-11,418.97,Paid
+C0001023,tok_2ef6be25fce1,Cardiology,2025-07,86.89,Paid
+C0001024,tok_30910c53af08,Behavioral Health,2025-10,26.82,Reversed
+C0001025,tok_7eeb2a3a9774,Behavioral Health,2025-10,137.02,Paid
+C0001026,tok_17d76563e87f,Behavioral Health,2026-03,248.07,Paid
+C0001027,tok_a4aff7b36a00,Behavioral Health,2025-10,70.97,Paid
+C0001028,tok_7ae934059d8a,Specialty,2026-01,1418.2,Paid
+C0001029,tok_4e9da2d55a36,Behavioral Health,2025-11,233.67,Paid
+C0001030,tok_7bf7fb7e96b3,Behavioral Health,2026-04,82.28,Paid
+C0001032,tok_8edc533bc2c5,Behavioral Health,2026-03,228.56,Paid
+C0001033,tok_cb7e6c10e50a,Diabetes,2025-10,217.96,Paid
+C0001034,tok_ca79de5d719e,Specialty,2025-10,912.51,Paid
+C0001035,tok_d717096f8127,Diabetes,2026-03,167.75,Paid
+C0001036,tok_27e38be90ce3,Behavioral Health,2026-02,25.69,Paid
+C0001037,tok_edba99870928,Cardiology,2025-09,273.54,Paid
+C0001038,tok_79083ed2f792,Behavioral Health,2025-11,93.3,Paid
+C0001039,tok_8f5ef9b40b21,Oncology,2025-09,1601.58,Paid
+C0001040,tok_16b8a7e3de09,Cardiology,2025-12,224.07,Paid
+C0001041,tok_11a807110290,Behavioral Health,2025-09,271.7,Reversed
+C0001042,tok_706f4ce47980,Cardiology,2026-05,23.57,Paid
+C0001043,tok_363a790e4c76,Specialty,2025-08,1232.75,Paid
+C0001044,tok_70cb4bb5c7a2,Respiratory,2025-11,351.5,Paid
+C0001045,tok_311bd55886a0,Behavioral Health,2026-03,27.65,Paid
+C0001046,tok_6b61351be76b,Diabetes,2026-06,115.66,Paid
+C0001047,tok_854a95322f91,Respiratory,2025-12,92.73,Paid
+C0001048,tok_613505c8b585,Diabetes,2025-11,122.15,Paid
+C0001049,tok_35e8199bfc4c,Cardiology,2026-05,87.42,Paid
+C0001050,tok_16b8a7e3de09,Respiratory,2025-07,260.6,Paid
+C0001051,tok_18b16a8cfcee,Diabetes,2025-09,108.3,Reversed
+C0001052,tok_21e2587053fd,Diabetes,2025-12,97.1,Paid
+C0001053,tok_7370ae826773,Specialty,2025-09,1355.79,Paid
+C0001054,tok_47a33c526417,Diabetes,2025-12,70.85,Paid
+C0001055,tok_a7b1a83b17da,Diabetes,2025-09,108.55,Paid
+C0001056,tok_087c43ffe511,Respiratory,2026-02,253.39,Paid
+C0001057,tok_7219c8bee341,Specialty,2025-08,1499.06,Rejected
+C0001058,tok_26cd05183a6d,Cardiology,2026-03,73.99,Rejected
+C0001059,tok_beb88d665b22,Diabetes,2026-05,55.57,Rejected
+C0001060,tok_c4a361bfdceb,Specialty,2026-02,1315.73,Paid
+C0001061,tok_79083ed2f792,Cardiology,2025-10,127.8,Paid
+C0001062,tok_7e43aef757a1,Diabetes,2026-03,32.19,Paid
+C0001063,tok_267e959a48a5,Specialty,2025-08,1338.97,Paid
+C0001064,tok_0c89d124620e,Specialty,2026-03,943.03,Paid
+C0001065,tok_bb28d9e1bffd,Specialty,2025-09,518.28,Paid
+C0001066,tok_9cc2d44ce5df,Behavioral Health,2026-02,133.29,Paid
+C0001067,tok_b2cff28012a7,Oncology,2026-03,814.36,Paid
+C0001068,tok_beb88d665b22,Behavioral Health,2026-06,224.97,Paid
+C0001069,tok_ee18821a0317,Diabetes,2025-12,247.12,Paid
+C0001070,tok_82a0a1e27033,Specialty,2025-07,1038.63,Paid
+C0001071,tok_1a6e79df87f8,Cardiology,2026-04,76.26,Paid
+C0001072,tok_7110eb8d2b31,Behavioral Health,2026-03,216.4,Paid
+C0001073,tok_a609a6a1fe1f,Respiratory,2025-08,429.08,Rejected
+C0001074,tok_112adc5eac34,Diabetes,2025-10,95.52,Paid
+C0001075,tok_22aa45dc9405,Specialty,2026-01,173.68,Rejected
+C0001076,tok_08586062b893,Behavioral Health,2025-11,21.06,Paid
+C0001077,tok_ee18821a0317,Cardiology,2026-01,73.02,Paid
+C0001078,tok_d717096f8127,Cardiology,2026-05,66.88,Paid
+C0001079,tok_fd65ee0186f6,Behavioral Health,2026-04,132.36,Paid
+C0001080,tok_672c89e54d9b,Cardiology,2026-05,294.66,Rejected
+C0001081,tok_ac93a757a86a,Respiratory,2026-01,213.56,Paid
+C0001082,tok_ddd226b7ce6b,Diabetes,2025-11,206.57,Paid
+C0001083,tok_05ae448bbc56,Cardiology,2026-02,223.72,Paid
+C0001084,tok_df94f5749a67,Diabetes,2025-09,45.68,Paid
+C0001085,tok_c91f1f5a17c6,Cardiology,2025-11,295.59,Paid
+C0001086,tok_556b0ced6396,Cardiology,2025-11,177.33,Paid
+C0001087,tok_d1eb44eb2a1d,Diabetes,2025-10,217.14,Paid
+C0001088,tok_beb88d665b22,Diabetes,2025-07,143.41,Paid
+C0001089,tok_6627399ca68f,Diabetes,2025-10,219.61,Paid
+C0001090,tok_b0c79cbde960,Diabetes,2026-01,123.5,Paid
+C0001091,tok_be6aa9ce9e49,Specialty,2026-03,167.61,Paid
+C0001092,tok_1da25b509556,Cardiology,2025-09,186.78,Paid
+C0001093,tok_6a37baa9c5b7,Behavioral Health,2025-10,113.0,Paid
+C0001094,tok_03fb85fd12cb,Diabetes,2025-08,88.62,Paid
+C0001095,tok_f6517e8d50a5,Cardiology,2025-07,231.03,Paid
+C0001096,tok_7eeb2a3a9774,Specialty,2025-09,525.9,Paid
+C0001097,tok_7ab2302f629a,Diabetes,2026-01,183.71,Paid
+C0001098,tok_95f5f7a8f377,Respiratory,2025-12,347.81,Paid
+C0001099,tok_ddd226b7ce6b,Diabetes,2026-01,74.55,Paid
+C0001100,tok_9868f93c4997,Cardiology,2025-10,186.24,Paid
+C0001101,tok_bb28d9e1bffd,Diabetes,2026-03,175.02,Paid
+C0001102,tok_ed89fc1a08f4,Respiratory,2025-10,200.88,Paid
+C0001103,tok_6a37baa9c5b7,Cardiology,2026-02,308.51,Rejected
+C0001104,tok_0feca2812ee8,Oncology,2025-10,1962.02,Paid
+C0001105,tok_2e0d413aa817,Diabetes,2025-11,252.1,Paid
+C0001106,tok_9b8d7bfb9ed3,Cardiology,2025-07,108.68,Paid
+C0001107,tok_087c43ffe511,Specialty,2026-01,437.58,Paid
+C0001108,tok_c0bc35288e40,Diabetes,2026-01,116.2,Paid
+C0001109,tok_97e0faa73fb8,Behavioral Health,2025-12,143.19,Paid
+C0001111,tok_f6517e8d50a5,Behavioral Health,2026-05,213.94,Rejected
+C0001112,tok_95fdd9490b3e,Behavioral Health,2026-01,230.65,Paid
+C0001113,tok_930105f2c6e2,Diabetes,2026-05,44.29,Paid
+C0001114,tok_3e47f5868e5c,Behavioral Health,2026-01,251.42,Paid
+C0001115,tok_662a72e0c530,Specialty,2026-01,335.56,Paid
+C0001116,tok_07129eb68179,Oncology,2026-01,1580.5,Paid
+C0001117,tok_84a5eb0126f3,Behavioral Health,2025-09,200.98,Paid
+C0001118,tok_a40bdd2fbf8a,Respiratory,2025-12,98.04,Paid
+C0001119,tok_f6b7d3be8c38,Diabetes,2025-12,243.36,Rejected
+C0001120,tok_469ad3bfbc87,Specialty,2025-07,1019.98,Paid
+C0001122,tok_cb7e6c10e50a,Behavioral Health,2025-09,114.75,Paid
+C0001124,tok_64bab3d1ddb5,Diabetes,2026-04,91.38,Rejected
+C0001125,tok_1cdac3edfe30,Diabetes,2026-05,46.66,Paid
+C0001126,tok_a4aff7b36a00,Specialty,2025-11,1124.2,Paid
+C0001127,tok_db171de6446b,Behavioral Health,2025-09,196.52,Paid
+C0001128,tok_c2a2679ce1d4,Diabetes,2026-01,110.19,Paid
+C0001129,tok_9b8d7bfb9ed3,Specialty,2026-01,1542.25,Paid
+C0001130,tok_d20e5757179c,Oncology,2026-03,193.85,Paid
+C0001131,tok_720ddcb3c45f,Cardiology,2026-01,46.29,Paid
+C0001132,tok_d3275162bc3b,Cardiology,2025-09,135.91,Reversed
+C0001133,tok_d5f18b0156e6,Behavioral Health,2026-05,72.28,Paid
+C0001134,tok_36a6c2481581,Behavioral Health,2026-05,41.91,Paid
+C0001135,tok_112adc5eac34,Specialty,2026-01,1547.95,Paid
+C0001136,tok_6542d14099a4,Behavioral Health,2025-07,260.52,Paid
+C0001137,tok_6d3664e71df8,Diabetes,2025-12,75.79,Paid
+C0001138,tok_3e15e31f1042,Cardiology,2026-06,100.83,Paid
+C0001139,tok_fba03a1bcd60,Specialty,2026-05,297.7,Paid
+C0001140,tok_ba2ace6eda2e,Cardiology,2026-02,79.58,Paid
+C0001141,tok_556b0ced6396,Specialty,2025-12,1119.84,Paid
+C0001142,tok_aeb43e083901,Behavioral Health,2025-12,132.81,Rejected
+C0001143,tok_dbbaa4709766,Cardiology,2025-11,77.62,Paid
+C0001144,tok_ae4e58189f10,Behavioral Health,2026-06,42.37,Paid
+C0001145,tok_edba99870928,Diabetes,2025-08,214.2,Paid
+C0001146,tok_56ac904e8002,Diabetes,2025-10,156.4,Paid
+C0001147,tok_00b88db5850b,Respiratory,2025-12,353.22,Paid
+C0001148,tok_c23b738291ff,Specialty,2026-02,1373.2,Paid
+C0001149,tok_7863d8b02944,Specialty,2025-07,997.44,Paid
+C0001150,tok_c2e3355d77dd,Respiratory,2025-08,67.75,Rejected
+C0001151,tok_d27e245c511c,Cardiology,2025-10,220.7,Paid
+C0001152,tok_631c86bb1d6d,Cardiology,2026-03,175.32,Paid
+C0001153,tok_e1c978acd6c9,Specialty,2025-11,378.17,Paid
+C0001154,tok_ccc7d1707a99,Behavioral Health,2026-03,137.6,Paid
+C0001155,tok_89d8663c141f,Cardiology,2026-04,276.62,Paid
+C0001156,tok_ca79de5d719e,Respiratory,2025-12,114.38,Paid
+C0001157,tok_bec591f8d866,Behavioral Health,2026-01,98.79,Paid
+C0001158,tok_eca06aec793b,Cardiology,2025-11,261.03,Paid
+C0001159,tok_04b875c13d88,Behavioral Health,2025-09,86.79,Paid
+C0001160,tok_bea88f053504,Cardiology,2026-05,234.44,Paid
+C0001161,tok_aff83bc8e6d5,Behavioral Health,2026-06,138.51,Paid
+C0001162,tok_b25dcc40d39f,Behavioral Health,2026-06,116.03,Paid
+C0001163,tok_79083ed2f792,Specialty,2025-12,1163.82,Paid
+C0001164,tok_abc53257c9ab,Oncology,2026-03,1180.87,Paid
+C0001165,tok_9dd8530e2d3b,Diabetes,2025-07,160.11,Paid
+C0001166,tok_34f4148fa1a7,Behavioral Health,2026-01,106.15,Paid
+C0001167,tok_3d35789c315a,Oncology,2026-01,445.26,Rejected
+C0001168,tok_0cdc06a62089,Diabetes,2026-05,94.65,Paid
+C0001169,tok_734e10853b92,Cardiology,2025-09,258.97,Paid
+C0001170,tok_f435f44d8405,Diabetes,2026-02,21.97,Paid
+C0001171,tok_89d8663c141f,Diabetes,2025-12,112.92,Paid
+C0001172,tok_536c44830aa4,Oncology,2026-02,1641.71,Rejected
+C0001173,tok_692392b11ed1,Oncology,2025-12,1522.53,Paid
+C0001174,tok_68166c244b78,Respiratory,2025-09,297.17,Paid
+C0001175,tok_e1c978acd6c9,Respiratory,2025-07,213.76,Paid
+C0001176,tok_549576dc23c5,Specialty,2026-02,1101.25,Paid
+C0001177,tok_638b929806f1,Specialty,2026-01,603.27,Paid
+C0001178,tok_ea0fcb390817,Specialty,2025-07,795.56,Paid
+C0001179,tok_d7da16e17290,Diabetes,2025-10,96.94,Paid
+C0001180,tok_ddd226b7ce6b,Behavioral Health,2026-04,229.25,Paid
+C0001181,tok_bcb398ab962c,Respiratory,2025-12,425.25,Paid
+C0001182,tok_0c89d124620e,Diabetes,2025-10,161.47,Paid
+C0001183,tok_1b299d3eec61,Behavioral Health,2025-08,103.24,Paid
+C0001184,tok_d3275162bc3b,Cardiology,2026-02,175.29,Rejected
+C0001185,tok_fd8ccf07f6e2,Behavioral Health,2026-02,90.61,Paid
+C0001186,tok_36a6c2481581,Respiratory,2026-01,342.51,Paid
+C0001187,tok_df94f5749a67,Specialty,2026-05,583.12,Paid
+C0001188,tok_74fe79ffc0e1,Cardiology,2025-12,114.54,Rejected
+C0001189,tok_73553549fb4d,Behavioral Health,2026-05,191.72,Paid
+C0001190,tok_792062b879a9,Diabetes,2026-03,232.11,Paid
+C0001191,tok_d5f18b0156e6,Cardiology,2025-07,225.07,Paid
+C0001192,tok_ba2684ff0a2c,Cardiology,2026-05,29.97,Paid
+C0001193,tok_34f4148fa1a7,Respiratory,2026-02,464.94,Paid
+C0001194,tok_98e9d51cf046,Specialty,2025-08,1209.29,Paid
+C0001195,tok_89d8663c141f,Respiratory,2025-09,229.87,Paid
+C0001196,tok_8956d887f286,Diabetes,2025-12,30.69,Paid
+C0001197,tok_4236f6a93ec2,Cardiology,2026-04,230.83,Paid
+C0001198,tok_f3d4c67f1c91,Cardiology,2026-05,73.29,Paid
+C0001199,tok_68166c244b78,Specialty,2026-03,933.51,Paid
+C0001200,tok_eb3599bf0354,Diabetes,2025-08,33.46,Paid
+C0001201,tok_9c896702177f,Diabetes,2025-08,190.75,Reversed
+C0001202,tok_549576dc23c5,Diabetes,2025-08,101.14,Paid
+C0001203,tok_389d6891e5f1,Specialty,2026-01,1039.92,Paid
+C0001204,tok_5f6b7fe1d91c,Diabetes,2025-09,68.16,Paid
+C0001206,tok_9270c76f7536,Specialty,2026-03,1120.46,Paid
+C0001207,tok_bcdb67d89d3d,Diabetes,2025-09,54.94,Paid
+C0001208,tok_631c86bb1d6d,Respiratory,2025-07,324.37,Paid
+C0001209,tok_bea88f053504,Diabetes,2026-01,190.97,Paid
+C0001210,tok_73553549fb4d,Specialty,2026-04,411.23,Paid
+C0001211,tok_ca79de5d719e,Diabetes,2026-03,231.36,Paid
+C0001212,tok_1cdac3edfe30,Specialty,2026-05,1436.87,Paid
+C0001213,tok_56ac904e8002,Oncology,2025-10,481.84,Paid
+C0001214,tok_c3243bb9030b,Cardiology,2025-08,97.2,Paid
+C0001215,tok_80f3159eadaa,Oncology,2026-06,2143.63,Paid
+C0001216,tok_938e041d7935,Diabetes,2025-08,28.08,Rejected
+C0001217,tok_7c505b7bbfc3,Diabetes,2025-11,155.99,Paid
+C0001218,tok_720ddcb3c45f,Specialty,2026-02,548.49,Paid
+C0001219,tok_12a529d09046,Specialty,2025-11,1392.12,Paid
+C0001220,tok_91ffb5743f82,Diabetes,2025-12,218.76,Paid
+C0001221,tok_dbbaa4709766,Cardiology,2026-01,116.66,Paid
+C0001222,tok_b55143c2e50d,Oncology,2025-11,1306.63,Paid
+C0001223,tok_db171de6446b,Diabetes,2025-07,43.96,Paid
+C0001224,tok_780e6c29b32f,Diabetes,2025-07,84.36,Paid
+C0001225,tok_355a541cbc69,Specialty,2025-07,339.58,Paid
+C0001226,tok_536c44830aa4,Behavioral Health,2026-01,217.28,Paid
+C0001227,tok_a99ff3ffcc91,Diabetes,2025-08,204.45,Paid
+C0001228,tok_5bdeeb50fc97,Behavioral Health,2025-10,256.02,Rejected
+C0001229,tok_9dd8530e2d3b,Behavioral Health,2026-03,230.83,Paid
+C0001230,tok_2c4770dfe470,Respiratory,2026-04,230.7,Paid
+C0001231,tok_443a053aad95,Diabetes,2025-08,154.3,Paid
+C0001232,tok_292a7f5a085e,Diabetes,2025-07,182.08,Paid
+C0001233,tok_ee18821a0317,Oncology,2025-07,513.02,Rejected
+C0001234,tok_24bf9533d88c,Diabetes,2025-11,204.23,Paid
+C0001235,tok_a5fd05c69a15,Diabetes,2026-06,82.68,Reversed
+C0001236,tok_2f9fdf374962,Diabetes,2025-07,126.41,Paid
+C0001237,tok_df0d3acd0e83,Behavioral Health,2026-03,135.69,Paid
+C0001238,tok_f017339107e9,Diabetes,2026-05,106.1,Paid
+C0001239,tok_2c5109818725,Specialty,2026-01,649.98,Paid
+C0001240,tok_e5ab09e6a7b4,Cardiology,2026-01,207.26,Paid
+C0001241,tok_a8a6e0209d96,Oncology,2025-11,867.68,Paid
+C0001242,tok_b4600311ef7a,Behavioral Health,2026-01,199.67,Reversed
+C0001243,tok_2c4770dfe470,Specialty,2025-12,1392.69,Paid
+C0001244,tok_ae4e58189f10,Respiratory,2025-09,407.8,Paid
+C0001245,tok_c2e3355d77dd,Behavioral Health,2026-05,186.19,Paid
+C0001246,tok_ee18821a0317,Respiratory,2026-04,403.14,Reversed
+C0001247,tok_36a6c2481581,Diabetes,2025-08,185.76,Rejected
+C0001248,tok_c523dd47ee6e,Specialty,2026-04,862.41,Paid
+C0001249,tok_aecd51c21ed4,Specialty,2025-10,347.15,Paid
+C0001250,tok_71f2ba7b0629,Oncology,2026-01,822.53,Rejected
+C0001251,tok_9c896702177f,Specialty,2026-04,678.35,Paid
+C0001252,tok_4caa507e16a1,Respiratory,2026-05,78.76,Paid
+C0001253,tok_c1dd4b6ba8ba,Respiratory,2025-07,360.55,Paid
+C0001254,tok_e1c978acd6c9,Diabetes,2025-12,35.47,Paid
+C0001255,tok_410e6cb8128b,Behavioral Health,2025-08,164.07,Paid
+C0001256,tok_c944262c0608,Cardiology,2026-06,81.74,Paid
+C0001257,tok_16b8a7e3de09,Behavioral Health,2025-12,132.11,Paid
+C0001258,tok_9f1b5a11006b,Specialty,2026-01,606.28,Paid
+C0001259,tok_49e09ee7c79f,Specialty,2026-05,802.69,Paid
+C0001260,tok_673c21f05df5,Behavioral Health,2025-12,152.9,Paid
+C0001261,tok_8755bb3e41b5,Behavioral Health,2026-04,121.96,Paid
+C0001262,tok_706f4ce47980,Specialty,2026-06,617.73,Reversed
+C0001263,tok_03fb85fd12cb,Diabetes,2025-08,135.96,Paid
+C0001264,tok_812e924f0fef,Diabetes,2026-05,193.28,Paid
+C0001265,tok_a88d8d6ced88,Cardiology,2026-02,196.89,Paid
+C0001266,tok_a4aff7b36a00,Respiratory,2025-10,404.68,Paid
+C0001267,tok_8c8d47096b98,Respiratory,2026-06,290.9,Rejected
+C0001268,tok_97e0faa73fb8,Diabetes,2025-11,61.86,Paid
+C0001269,tok_c12801c525eb,Behavioral Health,2025-07,193.82,Paid
+C0001270,tok_9f1b5a11006b,Oncology,2026-02,510.75,Paid
+C0001271,tok_c2a2679ce1d4,Cardiology,2025-08,117.84,Paid
+C0001272,tok_d717096f8127,Diabetes,2025-11,134.68,Paid
+C0001273,tok_9dd8530e2d3b,Respiratory,2026-01,426.8,Paid
+C0001274,tok_df94f5749a67,Cardiology,2026-03,219.95,Paid
+C0001275,tok_5ed297b2eca2,Respiratory,2025-08,429.52,Paid
+C0001276,tok_78a0cc1b50cf,Behavioral Health,2025-07,180.91,Paid
+C0001277,tok_e0f315d5ee52,Respiratory,2026-03,41.35,Paid
+C0001278,tok_e8d25fe2997d,Diabetes,2025-11,132.63,Paid
+C0001279,tok_10e7698170a7,Diabetes,2026-06,39.11,Paid
+C0001280,tok_c0b43ea6cbb5,Behavioral Health,2025-09,261.14,Paid
+C0001281,tok_2c4770dfe470,Specialty,2026-02,1073.06,Reversed
+C0001282,tok_56ac904e8002,Specialty,2026-06,801.88,Paid
+C0001283,tok_08586062b893,Specialty,2025-09,445.22,Paid
+C0001284,tok_ca79de5d719e,Cardiology,2026-03,129.59,Paid
+C0001285,tok_fc0051712f01,Cardiology,2025-12,175.66,Paid
+C0001286,tok_17d76563e87f,Behavioral Health,2025-10,233.09,Paid
+C0001287,tok_a5fd05c69a15,Diabetes,2026-04,59.73,Paid
+C0001288,tok_8925bd271743,Respiratory,2025-09,96.05,Paid
+C0001289,tok_d1eb44eb2a1d,Diabetes,2025-08,142.24,Paid
+C0001290,tok_672c89e54d9b,Respiratory,2026-01,398.2,Paid
+C0001291,tok_644b224131b8,Diabetes,2025-12,122.51,Paid
+C0001292,tok_5c705a2346f7,Respiratory,2026-02,195.18,Paid
+C0001293,tok_6b82d0d26c5f,Respiratory,2026-05,87.86,Rejected
+C0001294,tok_f3d4c67f1c91,Behavioral Health,2025-11,188.93,Paid
+C0001295,tok_beb88d665b22,Respiratory,2025-07,220.9,Paid
+C0001296,tok_b5f703c23101,Respiratory,2026-05,370.88,Paid
+C0001297,tok_930105f2c6e2,Cardiology,2025-12,210.41,Paid
+C0001298,tok_ac662a4192d9,Cardiology,2026-02,111.08,Paid
+C0001299,tok_93f7703ae59c,Behavioral Health,2026-04,203.07,Paid
+C0001300,tok_398bf3999ee1,Respiratory,2025-12,92.19,Paid
+C0001301,tok_2477035a1b3c,Specialty,2025-08,1002.96,Paid
+C0001302,tok_7219c8bee341,Cardiology,2026-03,105.51,Paid
+C0001303,tok_6df641d31d8b,Cardiology,2025-10,91.13,Reversed
+C0001304,tok_b7418a559392,Behavioral Health,2026-01,157.6,Paid
+C0001305,tok_854e0068700e,Specialty,2026-05,381.49,Paid
+C0001306,tok_4caa507e16a1,Cardiology,2026-01,221.13,Paid
+C0001307,tok_3a1e7118012e,Diabetes,2026-03,129.97,Paid
+C0001308,tok_3edc035d310e,Behavioral Health,2025-10,189.79,Paid
+C0001309,tok_ee18821a0317,Cardiology,2026-03,279.26,Paid
+C0001310,tok_baff62e09f3e,Respiratory,2026-02,438.59,Paid
+C0001311,tok_d83506cb6911,Specialty,2026-01,474.68,Reversed
+C0001312,tok_d27e245c511c,Diabetes,2025-11,214.5,Paid
+C0001313,tok_aecd51c21ed4,Specialty,2026-04,510.34,Paid
+C0001314,tok_9270c76f7536,Behavioral Health,2026-03,187.0,Paid
+C0001315,tok_d8facf918df1,Cardiology,2025-10,56.29,Paid
+C0001316,tok_c12801c525eb,Behavioral Health,2025-08,30.72,Paid
+C0001317,tok_c91f1f5a17c6,Cardiology,2026-02,249.24,Paid
+C0001318,tok_398bf3999ee1,Specialty,2025-12,122.31,Paid
+C0001319,tok_6a0171bb4f66,Cardiology,2026-05,88.53,Paid
+C0001320,tok_02a9c36fe622,Behavioral Health,2025-10,113.92,Paid
+C0001321,tok_34454262c88f,Cardiology,2026-01,85.45,Paid
+C0001322,tok_5c868e4e3d6b,Behavioral Health,2026-05,44.07,Paid
+C0001323,tok_be6327608114,Diabetes,2025-10,222.58,Paid
+C0001324,tok_ae2f1582f4d0,Behavioral Health,2025-11,264.07,Paid
+C0001325,tok_5c705a2346f7,Cardiology,2026-05,189.93,Paid
+C0001326,tok_8f405555432d,Diabetes,2026-02,37.84,Paid
+C0001327,tok_ab6dd59b78e5,Cardiology,2026-01,200.21,Paid
+C0001328,tok_84a5eb0126f3,Diabetes,2026-02,180.94,Paid
+C0001329,tok_9b8d7bfb9ed3,Oncology,2026-02,1419.37,Paid
+C0001330,tok_ba2684ff0a2c,Respiratory,2026-06,294.18,Paid
+C0001331,tok_7e43aef757a1,Diabetes,2026-01,94.04,Paid
+C0001332,tok_1072eb6615e8,Behavioral Health,2026-02,120.81,Paid
+C0001333,tok_df0d3acd0e83,Cardiology,2026-02,224.18,Paid
+C0001334,tok_d09b2b4b5583,Specialty,2025-07,630.02,Paid
+C0001335,tok_49587be0bf1c,Behavioral Health,2025-11,43.61,Paid
+C0001336,tok_4b06749f0d71,Behavioral Health,2025-09,88.97,Paid
+C0001337,tok_34454262c88f,Specialty,2025-10,977.9,Reversed
+C0001338,tok_624ca44f1728,Diabetes,2025-09,73.32,Paid
+C0001339,tok_af01205f8d4d,Diabetes,2025-11,37.18,Paid
+C0001340,tok_4236f6a93ec2,Behavioral Health,2025-10,93.94,Paid
+C0001341,tok_6d3664e71df8,Specialty,2025-08,444.6,Paid
+C0001342,tok_de1ea5bbdf7c,Respiratory,2025-09,412.17,Paid
+C0001343,tok_07129eb68179,Cardiology,2025-07,70.37,Paid
+C0001344,tok_0b2f99fbd9de,Diabetes,2025-09,42.57,Paid
+C0001345,tok_9f61666925b6,Specialty,2025-09,643.69,Paid
+C0001346,tok_e7d54c7e6ea0,Cardiology,2025-09,24.14,Paid
+C0001347,tok_9b8d7bfb9ed3,Oncology,2026-01,1993.68,Paid
+C0001348,tok_1b299d3eec61,Diabetes,2026-05,50.01,Paid
+C0001349,tok_6bb24c061d80,Oncology,2025-08,1088.82,Paid
+C0001350,tok_22aa45dc9405,Specialty,2026-01,169.38,Paid
+C0001351,tok_8903336ee63d,Specialty,2026-01,819.42,Paid
+C0001352,tok_7e43aef757a1,Behavioral Health,2026-05,144.01,Paid
+C0001353,tok_06dee7dd1b5b,Specialty,2026-01,1324.24,Paid
+C0001354,tok_644b224131b8,Diabetes,2025-09,225.62,Paid
+C0001355,tok_fc5904236a9d,Behavioral Health,2025-08,243.93,Rejected
+C0001356,tok_854a95322f91,Cardiology,2025-12,130.1,Paid
+C0001357,tok_5c868e4e3d6b,Diabetes,2025-09,205.57,Paid
+C0001358,tok_d5f18b0156e6,Respiratory,2025-12,93.32,Paid
+C0001359,tok_5c868e4e3d6b,Behavioral Health,2025-11,260.36,Paid
+C0001360,tok_3fd78175a909,Oncology,2026-02,1968.06,Paid
+C0001361,tok_9270c76f7536,Cardiology,2026-05,63.86,Paid
+C0001362,tok_7d14d00e2bed,Cardiology,2026-05,285.69,Paid
+C0001363,tok_c697fee9b251,Cardiology,2026-03,170.45,Rejected
+C0001364,tok_6f90540bc8b8,Behavioral Health,2025-12,37.84,Paid
+C0001365,tok_c0b43ea6cbb5,Diabetes,2025-09,258.09,Paid
+C0001366,tok_443a053aad95,Diabetes,2026-05,141.3,Paid
+C0001367,tok_dbcb0a660ad5,Cardiology,2026-02,253.49,Paid
+C0001368,tok_6a0171bb4f66,Cardiology,2026-04,254.28,Rejected
+C0001369,tok_bcdb67d89d3d,Oncology,2025-07,1723.81,Paid
+C0001370,tok_355a541cbc69,Respiratory,2025-09,252.79,Paid
+C0001371,tok_eb3599bf0354,Cardiology,2025-11,231.43,Paid
+C0001372,tok_f27298c6d9d3,Diabetes,2025-11,167.28,Paid
+C0001373,tok_a584c6a7ba04,Cardiology,2025-10,298.51,Paid
+C0001374,tok_2573c9ba3568,Respiratory,2026-02,417.11,Paid
+C0001375,tok_30be461be903,Diabetes,2025-09,257.83,Paid
+C0001376,tok_baff62e09f3e,Respiratory,2025-09,127.84,Paid
+C0001377,tok_dbb3067c493f,Specialty,2025-12,1286.57,Paid
+C0001378,tok_a8a6e0209d96,Behavioral Health,2025-11,274.2,Paid
+C0001379,tok_04b875c13d88,Behavioral Health,2026-05,217.35,Paid
+C0001380,tok_2cc124994ded,Specialty,2026-04,1320.94,Paid
+C0001381,tok_b0c79cbde960,Specialty,2025-10,1409.85,Paid
+C0001382,tok_84a5eb0126f3,Cardiology,2026-03,169.37,Reversed
+C0001383,tok_9270c76f7536,Behavioral Health,2025-11,99.75,Paid
+C0001384,tok_83d37395eb80,Diabetes,2025-11,207.6,Rejected
+C0001385,tok_3592e2462759,Diabetes,2026-01,149.21,Paid
+C0001386,tok_63e68ee01ed6,Specialty,2025-11,542.27,Paid
+C0001387,tok_eb5fe82800eb,Behavioral Health,2025-12,37.45,Paid
+C0001388,tok_18a1d44afad9,Cardiology,2025-07,141.89,Rejected
+C0001389,tok_f0a7521e36cf,Cardiology,2026-03,162.89,Paid
+C0001390,tok_04d650e860bb,Cardiology,2025-11,89.88,Paid
+C0001391,tok_662a72e0c530,Diabetes,2026-01,97.17,Paid
+C0001392,tok_2ef6be25fce1,Respiratory,2026-04,36.1,Paid
+C0001393,tok_812e924f0fef,Behavioral Health,2026-05,231.05,Reversed
+C0001394,tok_d27e245c511c,Oncology,2025-11,220.23,Paid
+C0001395,tok_c2e3355d77dd,Behavioral Health,2026-04,114.9,Paid
+C0001396,tok_8acb93133709,Cardiology,2026-04,50.63,Reversed
+C0001397,tok_153fbb1a52ff,Diabetes,2025-09,241.26,Paid
+C0001398,tok_673c21f05df5,Diabetes,2026-05,161.6,Paid
+C0001399,tok_469ad3bfbc87,Cardiology,2026-05,40.46,Paid
+C0001400,tok_1e3c9c199f06,Respiratory,2026-05,74.27,Paid
+C0001401,tok_c59f5dc7e298,Cardiology,2025-09,119.95,Paid
+C0001402,tok_16b8a7e3de09,Cardiology,2025-11,169.38,Paid
+C0001403,tok_cd150d50aa2d,Cardiology,2025-12,291.82,Paid
+C0001404,tok_43efa768d844,Oncology,2025-07,1599.55,Paid
+C0001405,tok_99610ddb6029,Diabetes,2026-02,44.06,Paid
+C0001406,tok_aba08c2b1d49,Cardiology,2025-12,118.22,Paid
+C0001407,tok_4ab472397501,Cardiology,2026-05,57.21,Rejected
+C0001408,tok_a4aff7b36a00,Respiratory,2025-10,164.19,Paid
+C0001409,tok_624ca44f1728,Diabetes,2025-08,64.34,Paid
+C0001410,tok_0fa5de335338,Respiratory,2026-03,202.09,Paid
+C0001411,tok_97a36a42586c,Respiratory,2026-02,408.14,Paid
+C0001412,tok_9dd8530e2d3b,Behavioral Health,2025-12,132.23,Paid
+C0001413,tok_f435f44d8405,Diabetes,2025-11,207.54,Paid
+C0001414,tok_99610ddb6029,Behavioral Health,2025-09,59.24,Paid
+C0001415,tok_e1c978acd6c9,Behavioral Health,2025-10,261.33,Paid
+C0001416,tok_00b88db5850b,Specialty,2026-05,1140.9,Paid
+C0001417,tok_1883faab5a39,Oncology,2026-03,1848.63,Paid
+C0001418,tok_fba03a1bcd60,Respiratory,2026-03,406.05,Paid
+C0001419,tok_04b875c13d88,Specialty,2026-05,965.39,Paid
+C0001420,tok_4b059f4d7b89,Respiratory,2026-04,49.57,Paid
+C0001421,tok_f332c47f7454,Oncology,2025-07,738.19,Paid
+C0001422,tok_1a6e79df87f8,Respiratory,2026-01,239.1,Rejected
+C0001423,tok_d2d451df7ef3,Specialty,2026-04,1448.33,Paid
+C0001424,tok_4bb8d00ae39d,Behavioral Health,2025-10,246.65,Rejected
+C0001425,tok_d83506cb6911,Cardiology,2025-10,22.84,Paid
+C0001426,tok_6d93a2724c63,Oncology,2026-02,969.59,Rejected
+C0001427,tok_c12801c525eb,Respiratory,2026-04,265.56,Paid
+C0001428,tok_6f90540bc8b8,Behavioral Health,2026-05,231.33,Paid
+C0001429,tok_2612acfef0bb,Diabetes,2025-10,257.31,Paid
+C0001430,tok_efabfc2e79ea,Respiratory,2026-01,404.94,Paid
+C0001431,tok_d357953d4cfa,Specialty,2026-06,398.77,Paid
+C0001432,tok_876dec0800ed,Cardiology,2025-08,160.95,Rejected
+C0001433,tok_2e0d413aa817,Cardiology,2026-06,212.53,Paid
+C0001434,tok_6df641d31d8b,Cardiology,2026-01,233.35,Paid
+C0001435,tok_efabfc2e79ea,Cardiology,2026-04,179.09,Paid
+C0001436,tok_2cc124994ded,Behavioral Health,2025-07,246.88,Paid
+C0001437,tok_b25dcc40d39f,Respiratory,2025-09,443.76,Paid
+C0001438,tok_662a72e0c530,Diabetes,2026-03,203.37,Paid
+C0001439,tok_4ab472397501,Specialty,2025-08,512.09,Paid
+C0001440,tok_c0bc35288e40,Diabetes,2026-04,213.2,Paid
+C0001441,tok_0c89d124620e,Behavioral Health,2025-08,233.92,Paid
+C0001442,tok_2477035a1b3c,Diabetes,2026-03,215.28,Paid
+C0001443,tok_4ffba67a4ff9,Respiratory,2025-12,185.46,Paid
+C0001444,tok_3e15e31f1042,Diabetes,2026-01,142.01,Paid
+C0001445,tok_49e09ee7c79f,Specialty,2025-08,1231.07,Paid
+C0001446,tok_24bf9533d88c,Behavioral Health,2026-04,227.64,Paid
+C0001447,tok_f1be0382725c,Cardiology,2025-07,282.95,Paid
+C0001448,tok_82a0a1e27033,Cardiology,2026-01,308.42,Paid
+C0001449,tok_a88d8d6ced88,Behavioral Health,2026-02,277.9,Paid
+C0001450,tok_8edc533bc2c5,Specialty,2025-08,923.17,Paid
+C0001451,tok_e1c978acd6c9,Specialty,2025-12,908.93,Paid
+C0001452,tok_c59f5dc7e298,Respiratory,2025-11,310.35,Paid
+C0001453,tok_854e0068700e,Cardiology,2025-07,270.95,Paid
+C0001454,tok_07c0247beed0,Respiratory,2025-09,387.72,Paid
+C0001455,tok_953b45caa9af,Behavioral Health,2026-01,279.38,Paid
+C0001456,tok_f6b7d3be8c38,Cardiology,2025-11,28.2,Paid
+C0001457,tok_812e924f0fef,Behavioral Health,2026-05,267.74,Paid
+C0001458,tok_3ab4109c28f3,Diabetes,2025-12,253.86,Rejected
+C0001459,tok_d20e5757179c,Specialty,2025-08,953.4,Paid
+C0001460,tok_f5d4991df030,Behavioral Health,2026-04,166.27,Paid
+C0001461,tok_aecd51c21ed4,Behavioral Health,2026-04,251.47,Rejected
+C0001462,tok_24bf9533d88c,Cardiology,2025-07,281.6,Rejected
+C0001463,tok_aef02b1f8513,Diabetes,2025-07,98.65,Paid
+C0001464,tok_eb5fe82800eb,Behavioral Health,2026-03,20.87,Paid
+C0001465,tok_d328692edbd7,Cardiology,2025-09,52.64,Rejected
+C0001466,tok_edba99870928,Respiratory,2025-09,68.12,Paid
+C0001467,tok_4f21990a2d35,Respiratory,2025-07,77.65,Paid
+C0001468,tok_faf8f9f6cc52,Diabetes,2026-06,196.56,Paid
+C0001469,tok_644b224131b8,Diabetes,2025-11,144.56,Paid
+C0001471,tok_469ad3bfbc87,Specialty,2026-03,387.47,Paid
+C0001472,tok_04d650e860bb,Behavioral Health,2026-04,129.35,Paid
+C0001473,tok_0b779e83df14,Behavioral Health,2026-02,52.98,Paid
+C0001474,tok_beb88d665b22,Diabetes,2026-04,45.74,Paid
+C0001475,tok_9f4bd580000f,Diabetes,2026-05,62.61,Paid
+C0001476,tok_5c705a2346f7,Cardiology,2025-10,228.09,Paid
+C0001477,tok_2e0d413aa817,Diabetes,2025-10,113.52,Rejected
+C0001478,tok_51631a9726fd,Diabetes,2025-08,68.87,Paid
+C0001479,tok_7c54f17507a9,Cardiology,2025-09,151.43,Paid
+C0001480,tok_be6327608114,Behavioral Health,2026-01,106.34,Paid
+C0001481,tok_a609a6a1fe1f,Cardiology,2026-05,214.17,Paid
+C0001482,tok_c0bc35288e40,Diabetes,2026-06,179.14,Paid
+C0001483,tok_eb5fe82800eb,Cardiology,2025-07,35.81,Paid
+C0001484,tok_389d6891e5f1,Respiratory,2026-02,395.56,Paid
+C0001485,tok_70cb4bb5c7a2,Diabetes,2025-11,87.5,Paid
+C0001486,tok_c2a8c7f2933e,Diabetes,2026-03,208.14,Paid
+C0001487,tok_46519c4acd4c,Cardiology,2025-10,86.74,Paid
+C0001488,tok_267e959a48a5,Oncology,2025-09,956.45,Paid
+C0001489,tok_6df641d31d8b,Diabetes,2026-05,207.0,Paid
+C0001490,tok_eb5fe82800eb,Specialty,2025-09,1040.02,Paid
+C0001491,tok_ea0fcb390817,Specialty,2025-11,1109.75,Paid
+C0001492,tok_91ffb5743f82,Respiratory,2026-04,41.24,Paid
+C0001493,tok_ed89fc1a08f4,Cardiology,2026-06,92.54,Paid
+C0001494,tok_51631a9726fd,Respiratory,2025-10,263.23,Paid
+C0001495,tok_21e2587053fd,Diabetes,2025-12,249.99,Paid
+C0001496,tok_63e68ee01ed6,Specialty,2025-10,110.12,Paid
+C0001497,tok_6e0fff329f5f,Respiratory,2025-11,217.46,Paid
+C0001498,tok_cd150d50aa2d,Specialty,2026-04,1502.87,Paid
+C0001499,tok_03fb85fd12cb,Oncology,2025-11,556.72,Paid
+C0001500,tok_662a72e0c530,Cardiology,2026-03,241.99,Paid
+C0001501,tok_84ce0e88cc12,Behavioral Health,2025-08,24.17,Paid
+C0001502,tok_07c0247beed0,Diabetes,2025-10,227.71,Paid
+C0001503,tok_f6b7d3be8c38,Diabetes,2026-04,182.79,Paid
+C0001504,tok_16b57f265e9e,Respiratory,2025-08,127.57,Paid
+C0001505,tok_c2e3355d77dd,Specialty,2025-11,282.64,Paid
+C0001506,tok_ae4e58189f10,Behavioral Health,2025-10,44.69,Paid
+C0001507,tok_b0c79cbde960,Cardiology,2026-05,195.35,Paid
+C0001508,tok_4caa507e16a1,Cardiology,2025-07,70.11,Paid
+C0001509,tok_292a7f5a085e,Respiratory,2025-08,418.98,Paid
+C0001510,tok_12a529d09046,Behavioral Health,2026-02,93.72,Paid
+C0001511,tok_a7f85c2133d5,Respiratory,2025-09,274.72,Paid
+C0001512,tok_7ae934059d8a,Specialty,2025-10,1076.92,Paid
+C0001513,tok_86d2425d02eb,Respiratory,2025-10,351.45,Paid
+C0001514,tok_a799b396cf0b,Oncology,2025-10,1514.04,Paid
+C0001515,tok_f0a7521e36cf,Respiratory,2026-01,347.8,Paid
+C0001516,tok_d1eb44eb2a1d,Cardiology,2025-09,221.04,Paid
+C0001517,tok_ddd226b7ce6b,Diabetes,2025-09,109.5,Paid
+C0001518,tok_a9143748d93f,Respiratory,2025-08,421.35,Paid
+C0001519,tok_3a87a4b48abf,Diabetes,2026-02,118.44,Paid
+C0001520,tok_6d3664e71df8,Cardiology,2026-04,172.68,Paid
+C0001521,tok_ddd226b7ce6b,Behavioral Health,2026-04,259.11,Rejected
+C0001522,tok_98e9d51cf046,Behavioral Health,2026-06,177.99,Paid
+C0001523,tok_dbcb0a660ad5,Cardiology,2026-02,199.02,Paid
+C0001524,tok_06dee7dd1b5b,Diabetes,2025-07,195.49,Paid
+C0001525,tok_fde543b604a3,Respiratory,2025-08,234.9,Paid
+C0001526,tok_556b0ced6396,Diabetes,2026-03,31.02,Paid
+C0001527,tok_3194e25f03d2,Behavioral Health,2025-09,174.37,Paid
+C0001528,tok_a412c38e275e,Behavioral Health,2025-11,232.48,Paid
+C0001529,tok_06dee7dd1b5b,Specialty,2026-04,215.7,Paid
+C0001530,tok_ba7bef89aac7,Specialty,2025-12,485.02,Paid
+C0001531,tok_311bd55886a0,Diabetes,2025-10,136.7,Paid
+C0001532,tok_738f7658e886,Respiratory,2025-09,71.34,Paid
+C0001533,tok_10e7698170a7,Respiratory,2025-12,270.55,Paid
+C0001534,tok_638b26ae2f0e,Behavioral Health,2025-07,109.69,Paid
+C0001535,tok_02e388dde133,Specialty,2025-07,143.15,Paid
+C0001536,tok_93f7703ae59c,Respiratory,2025-08,309.89,Paid
+C0001537,tok_4ab472397501,Behavioral Health,2026-04,45.96,Paid
+C0001538,tok_b0abc20d6a0b,Specialty,2025-07,1514.47,Paid
+C0001539,tok_c0bc35288e40,Cardiology,2026-03,216.8,Paid
+C0001540,tok_9cc2d44ce5df,Cardiology,2025-09,46.3,Paid
+C0001541,tok_74cc5822f3c3,Oncology,2025-08,1163.27,Paid
+C0001542,tok_2b439161bfde,Cardiology,2025-07,202.13,Paid
+C0001543,tok_c2a2679ce1d4,Oncology,2025-07,1114.26,Paid
+C0001544,tok_398bf3999ee1,Cardiology,2025-12,92.93,Paid
+C0001545,tok_3ab4109c28f3,Respiratory,2025-09,152.22,Paid
+C0001546,tok_818b927c6a1f,Diabetes,2025-11,54.12,Paid
+C0001547,tok_3a1e7118012e,Cardiology,2025-12,35.83,Paid
+C0001548,tok_fde543b604a3,Respiratory,2025-07,273.09,Paid
+C0001549,tok_644b224131b8,Diabetes,2026-05,117.26,Paid
+C0001550,tok_613505c8b585,Respiratory,2026-05,39.8,Rejected
+C0001551,tok_780e6c29b32f,Behavioral Health,2025-08,68.98,Paid
+C0001552,tok_f7a03e969fb0,Behavioral Health,2025-11,250.13,Paid
+C0001553,tok_83d37395eb80,Behavioral Health,2025-11,216.39,Paid
+C0001554,tok_907f9510d566,Behavioral Health,2026-02,67.04,Rejected
+C0001555,tok_db171de6446b,Oncology,2025-10,930.73,Paid
+C0001556,tok_11a373548f43,Cardiology,2025-08,66.57,Paid
+C0001557,tok_95f5f7a8f377,Specialty,2026-03,1162.14,Paid
+C0001558,tok_30910c53af08,Respiratory,2025-09,209.97,Paid
+C0001559,tok_63e68ee01ed6,Respiratory,2026-03,89.25,Paid
+C0001560,tok_91ffb5743f82,Behavioral Health,2026-02,86.84,Paid
+C0001561,tok_9cc2d44ce5df,Behavioral Health,2025-09,187.94,Rejected
+C0001562,tok_56ac904e8002,Respiratory,2025-07,409.75,Paid
+C0001563,tok_12a529d09046,Respiratory,2026-04,193.16,Paid
+C0001564,tok_b7418a559392,Behavioral Health,2025-07,262.42,Paid
+C0001565,tok_c2cae293ea8d,Cardiology,2025-11,251.62,Paid
+C0001566,tok_18a1d44afad9,Specialty,2025-07,1438.43,Paid
+C0001567,tok_dfa24484fb30,Cardiology,2026-03,224.13,Paid
+C0001568,tok_638b26ae2f0e,Cardiology,2026-02,304.01,Paid
+C0001569,tok_389d6891e5f1,Specialty,2025-11,601.58,Paid
+C0001570,tok_0fa5de335338,Cardiology,2025-10,81.03,Reversed
+C0001571,tok_5f6b7fe1d91c,Cardiology,2025-11,262.2,Paid
+C0001572,tok_faf8f9f6cc52,Diabetes,2025-09,194.29,Paid
+C0001573,tok_3fd78175a909,Specialty,2025-09,872.06,Paid
+C0001574,tok_89d8663c141f,Cardiology,2026-06,48.15,Paid
+C0001575,tok_e9128b7e0f08,Cardiology,2025-10,115.41,Rejected
+C0001576,tok_aeb43e083901,Diabetes,2025-08,36.6,Paid
+C0001577,tok_beb88d665b22,Respiratory,2026-01,175.03,Paid
+C0001578,tok_c523dd47ee6e,Behavioral Health,2026-03,227.15,Paid
+C0001579,tok_f435f44d8405,Diabetes,2025-07,24.43,Paid
+C0001580,tok_75b890df3c48,Cardiology,2026-05,181.24,Rejected
+C0001581,tok_7eeb2a3a9774,Respiratory,2026-05,177.83,Paid
+C0001582,tok_355a541cbc69,Cardiology,2025-08,305.9,Rejected
+C0001583,tok_30be461be903,Diabetes,2025-10,168.3,Paid
+C0001584,tok_36a6c2481581,Cardiology,2025-08,278.86,Paid
+C0001585,tok_5ed297b2eca2,Diabetes,2026-04,145.28,Paid
+C0001586,tok_9cc2d44ce5df,Diabetes,2026-03,114.07,Paid
+C0001587,tok_706f4ce47980,Diabetes,2025-10,259.26,Paid
+C0001588,tok_98e9d51cf046,Behavioral Health,2026-03,181.27,Paid
+C0001589,tok_16b8a7e3de09,Cardiology,2025-08,119.67,Paid
+C0001590,tok_281dd834cc6b,Respiratory,2025-11,405.83,Paid
+C0001591,tok_644b224131b8,Behavioral Health,2026-01,31.21,Paid
+C0001592,tok_36a6c2481581,Cardiology,2026-01,164.59,Paid
+C0001593,tok_d5f18b0156e6,Respiratory,2025-08,258.62,Paid
+C0001594,tok_6a9fb41fb551,Respiratory,2025-07,40.23,Paid
+C0001595,tok_07b58472cb71,Specialty,2026-01,403.02,Rejected
+C0001596,tok_6b61351be76b,Respiratory,2026-01,364.65,Paid
+C0001597,tok_aba08c2b1d49,Cardiology,2025-08,237.99,Paid
+C0001598,tok_d83506cb6911,Behavioral Health,2026-02,114.51,Paid
+C0001599,tok_d8facf918df1,Specialty,2026-03,812.78,Paid
+C0001600,tok_4becdef84d62,Behavioral Health,2026-03,185.16,Paid
+C0001601,tok_7e210bc3c4e0,Diabetes,2026-04,76.59,Paid
+C0001602,tok_dbcb0a660ad5,Respiratory,2025-10,181.64,Paid
+C0001603,tok_a7b1a83b17da,Specialty,2025-09,1405.69,Paid
+C0001604,tok_86d2425d02eb,Specialty,2025-09,1000.27,Paid
+C0001605,tok_ea0fcb390817,Oncology,2026-05,1580.49,Paid
+C0001606,tok_d364481b0e1b,Specialty,2025-11,202.15,Paid
+C0001607,tok_7219c8bee341,Diabetes,2025-11,258.88,Paid
+C0001608,tok_7e43aef757a1,Respiratory,2026-05,340.0,Paid
+C0001609,tok_d3275162bc3b,Specialty,2026-06,653.76,Paid
+C0001610,tok_f1be0382725c,Specialty,2026-06,979.65,Paid
+C0001611,tok_aeb43e083901,Oncology,2025-11,1981.98,Paid
+C0001612,tok_4b06749f0d71,Specialty,2026-04,1032.6,Paid
+C0001613,tok_d364481b0e1b,Diabetes,2026-03,23.15,Paid
+C0001614,tok_36a6c2481581,Behavioral Health,2025-09,71.56,Paid
+C0001615,tok_267e959a48a5,Respiratory,2025-11,389.32,Paid
+C0001616,tok_84ce0e88cc12,Cardiology,2025-07,184.18,Paid
+C0001617,tok_c1a600d59fa8,Behavioral Health,2026-01,145.71,Paid
+C0001618,tok_aff83bc8e6d5,Cardiology,2026-05,280.52,Paid
+C0001619,tok_292a7f5a085e,Cardiology,2025-10,295.46,Paid
+C0001620,tok_3c811a9089a0,Specialty,2026-01,982.68,Paid
+C0001621,tok_4b059f4d7b89,Specialty,2026-04,1062.34,Paid
+C0001622,tok_6a0171bb4f66,Behavioral Health,2026-01,258.65,Paid
+C0001623,tok_4236f6a93ec2,Behavioral Health,2026-02,170.54,Paid
+C0001624,tok_18930975e2fa,Behavioral Health,2026-04,59.0,Paid
+C0001625,tok_24203e7fd8a9,Cardiology,2026-04,98.86,Paid
+C0001626,tok_f75b9a072398,Cardiology,2025-10,42.74,Paid
+C0001627,tok_14416ade68b7,Cardiology,2025-09,216.75,Paid
+C0001628,tok_cb7e6c10e50a,Specialty,2025-08,1531.65,Paid
+C0001629,tok_1e3c9c199f06,Cardiology,2025-11,178.84,Paid
+C0001630,tok_f5d4991df030,Behavioral Health,2025-07,92.18,Paid
+C0001631,tok_ae2f1582f4d0,Oncology,2025-07,613.22,Paid
+C0001632,tok_3656cc604aaf,Specialty,2026-01,1425.46,Reversed
+C0001633,tok_08586062b893,Behavioral Health,2026-03,222.98,Paid
+C0001634,tok_7fe8c826b325,Diabetes,2025-07,166.08,Rejected
+C0001635,tok_fde543b604a3,Specialty,2025-11,996.72,Paid
+C0001636,tok_06dee7dd1b5b,Diabetes,2025-07,196.53,Paid
+C0001637,tok_d357953d4cfa,Behavioral Health,2026-04,158.71,Paid
+C0001638,tok_7ae934059d8a,Diabetes,2025-10,194.65,Paid
+C0001639,tok_5c868e4e3d6b,Behavioral Health,2026-05,137.1,Paid
+C0001640,tok_13a5775196d8,Respiratory,2025-09,228.0,Paid
+C0001641,tok_582a5d1bcd78,Cardiology,2025-09,59.36,Paid
+C0001642,tok_11a807110290,Diabetes,2026-05,229.13,Rejected
+C0001643,tok_0ffb847ee7de,Diabetes,2026-05,56.96,Paid
+C0001644,tok_ae97712ed8e1,Diabetes,2026-06,244.65,Paid
+C0001645,tok_f6517e8d50a5,Diabetes,2025-08,127.84,Rejected
+C0001646,tok_cb7e6c10e50a,Cardiology,2025-10,291.85,Rejected
+C0001647,tok_cd150d50aa2d,Diabetes,2025-08,149.81,Paid
+C0001648,tok_cd7d0b56397a,Behavioral Health,2026-06,261.41,Paid
+C0001649,tok_63afbef69cf8,Diabetes,2026-02,45.25,Paid
+C0001650,tok_7fe8c826b325,Cardiology,2026-04,157.43,Reversed
+C0001651,tok_fde543b604a3,Diabetes,2025-08,70.82,Paid
+C0001652,tok_b535b1ddb3cb,Cardiology,2025-09,35.88,Paid
+C0001653,tok_4236f6a93ec2,Behavioral Health,2025-07,98.07,Paid
+C0001654,tok_6a0171bb4f66,Behavioral Health,2025-10,82.76,Paid
+C0001655,tok_9fed00d59456,Cardiology,2025-09,176.73,Paid
+C0001656,tok_47a33c526417,Specialty,2025-10,355.3,Paid
+C0001657,tok_6a4f9fbe26f0,Specialty,2026-04,1383.12,Paid
+C0001658,tok_9fed00d59456,Specialty,2026-01,487.11,Paid
+C0001659,tok_9baf8f3f4a9c,Respiratory,2026-05,246.41,Paid
+C0001660,tok_6a9fb41fb551,Behavioral Health,2026-04,81.46,Paid
+C0001661,tok_cd7d0b56397a,Oncology,2025-12,1271.0,Paid
+C0001662,tok_12a529d09046,Specialty,2025-07,760.88,Paid
+C0001663,tok_aa49f5725938,Specialty,2026-01,1032.42,Rejected
+C0001664,tok_f0a7521e36cf,Oncology,2026-01,1593.13,Paid
+C0001665,tok_04d650e860bb,Oncology,2025-07,1814.24,Paid
+C0001666,tok_fde543b604a3,Specialty,2025-09,230.48,Paid
+C0001667,tok_46519c4acd4c,Cardiology,2026-01,67.84,Paid
+C0001668,tok_4b06749f0d71,Diabetes,2026-02,99.08,Paid
+C0001669,tok_04d650e860bb,Specialty,2026-03,1171.57,Paid
+C0001670,tok_a9143748d93f,Diabetes,2025-12,156.09,Paid
+C0001671,tok_5bdeeb50fc97,Respiratory,2026-04,448.35,Paid
+C0001672,tok_67a4af937cc9,Cardiology,2026-05,146.46,Paid
+C0001673,tok_bb28d9e1bffd,Behavioral Health,2025-09,273.51,Paid
+C0001674,tok_11a807110290,Diabetes,2025-10,164.45,Paid
+C0001675,tok_3e15e31f1042,Behavioral Health,2025-11,179.05,Reversed
+C0001676,tok_876dec0800ed,Diabetes,2025-12,231.56,Paid
+C0001677,tok_af01205f8d4d,Specialty,2025-11,1047.84,Paid
+C0001678,tok_bb28d9e1bffd,Oncology,2025-07,2132.72,Paid
+C0001679,tok_9e1dab4d250a,Cardiology,2026-04,73.59,Paid
+C0001680,tok_ac26b792d3d2,Diabetes,2026-06,204.12,Paid
+C0001681,tok_0b779e83df14,Oncology,2025-08,935.58,Paid
+C0001682,tok_7ae934059d8a,Specialty,2026-05,777.96,Paid
+C0001683,tok_57861e420c2d,Diabetes,2026-02,168.92,Paid
+C0001684,tok_ca94629a3f56,Diabetes,2025-12,219.85,Paid
+C0001685,tok_bea88f053504,Behavioral Health,2026-05,29.96,Paid
+C0001686,tok_ba7bef89aac7,Diabetes,2026-06,173.74,Paid
+C0001687,tok_dfa24484fb30,Diabetes,2025-07,83.18,Rejected
+C0001688,tok_d328692edbd7,Respiratory,2026-05,202.35,Paid
+C0001689,tok_4f21990a2d35,Diabetes,2025-09,180.87,Rejected
+C0001690,tok_d357953d4cfa,Respiratory,2026-01,181.65,Paid
+C0001691,tok_7219c8bee341,Specialty,2026-01,776.92,Paid
+C0001692,tok_b179b35e1efa,Respiratory,2026-05,160.54,Paid
+C0001693,tok_e9128b7e0f08,Respiratory,2025-11,354.47,Paid
+C0001694,tok_16b57f265e9e,Behavioral Health,2026-04,71.59,Paid
+C0001695,tok_ae2f1582f4d0,Cardiology,2025-12,220.37,Paid
+C0001696,tok_662a72e0c530,Respiratory,2025-09,438.45,Paid
+C0001697,tok_f02244cf1bbf,Specialty,2026-04,694.1,Paid
+C0001698,tok_16b57f265e9e,Cardiology,2026-01,198.15,Paid
+C0001699,tok_2c1439fedd0f,Oncology,2026-01,1304.78,Paid
+C0001700,tok_6560cd23158d,Specialty,2026-01,861.49,Paid
+C0001701,tok_75759041e3fa,Cardiology,2026-06,163.25,Paid
+C0001702,tok_df94f5749a67,Diabetes,2026-05,92.2,Paid
+C0001703,tok_8acb93133709,Oncology,2025-08,1339.82,Paid
+C0001704,tok_ae2f1582f4d0,Diabetes,2025-12,144.21,Paid
+C0001705,tok_e0f315d5ee52,Diabetes,2025-10,220.93,Paid
+C0001706,tok_3c811a9089a0,Cardiology,2025-12,52.82,Paid
+C0001707,tok_355a541cbc69,Diabetes,2025-10,167.89,Paid
+C0001708,tok_ddcc39673a9c,Behavioral Health,2026-02,45.72,Paid
+C0001709,tok_b2a62778fab8,Diabetes,2025-09,168.23,Paid
+C0001710,tok_c12801c525eb,Diabetes,2025-08,247.99,Paid
+C0001711,tok_d357953d4cfa,Oncology,2025-09,1419.53,Paid
+C0001712,tok_8755bb3e41b5,Specialty,2025-09,986.56,Paid
+C0001713,tok_d328692edbd7,Diabetes,2026-03,222.42,Paid
+C0001714,tok_46519c4acd4c,Cardiology,2025-12,280.11,Paid
+C0001715,tok_14416ade68b7,Respiratory,2025-12,213.65,Paid
+C0001716,tok_36a6c2481581,Respiratory,2025-11,267.15,Paid
+C0001717,tok_07c0247beed0,Oncology,2025-12,848.04,Rejected
+C0001718,tok_6542d14099a4,Specialty,2026-04,601.01,Reversed
+C0001719,tok_4e9da2d55a36,Behavioral Health,2026-05,229.46,Paid
+C0001720,tok_57f840476fbd,Cardiology,2025-08,200.02,Paid
+C0001721,tok_37522a5a4d0b,Behavioral Health,2025-07,26.56,Paid
+C0001722,tok_c12801c525eb,Cardiology,2026-04,207.21,Paid
+C0001723,tok_aba08c2b1d49,Behavioral Health,2025-08,54.71,Paid
+C0001724,tok_75fb477f7c0c,Diabetes,2026-03,96.4,Paid
+C0001725,tok_ba23b2ff574f,Specialty,2025-10,914.65,Paid
+C0001726,tok_410e6cb8128b,Cardiology,2026-05,172.55,Paid
+C0001727,tok_49e09ee7c79f,Behavioral Health,2026-03,150.41,Reversed
+C0001728,tok_16b57f265e9e,Cardiology,2026-02,282.63,Rejected
+C0001729,tok_4becdef84d62,Cardiology,2025-09,238.5,Paid
+C0001730,tok_f6b7d3be8c38,Respiratory,2025-11,432.82,Rejected
+C0001731,tok_75fb477f7c0c,Specialty,2025-09,1277.42,Paid
+C0001732,tok_18a1d44afad9,Diabetes,2025-08,50.36,Paid
+C0001733,tok_ba2684ff0a2c,Behavioral Health,2026-05,191.54,Paid
+C0001734,tok_b5d424548756,Cardiology,2025-08,23.96,Paid
+C0001735,tok_ae97712ed8e1,Oncology,2026-04,572.54,Paid
+C0001736,tok_3f437a16742a,Diabetes,2026-03,132.14,Paid
+C0001737,tok_5bdeeb50fc97,Diabetes,2025-12,61.72,Paid
+C0001738,tok_35e8199bfc4c,Respiratory,2026-05,190.6,Paid
+C0001739,tok_03fb85fd12cb,Diabetes,2025-07,156.23,Paid
+C0001740,tok_9e1dab4d250a,Oncology,2026-06,1748.24,Paid
+C0001741,tok_7bf7fb7e96b3,Specialty,2025-08,458.06,Paid
+C0001742,tok_6f90540bc8b8,Diabetes,2025-08,124.37,Paid
+C0001743,tok_9fa8ea15426e,Oncology,2026-02,595.4,Paid
+C0001744,tok_3592e2462759,Specialty,2025-10,953.87,Paid
+C0001745,tok_b89532f99755,Diabetes,2026-05,249.16,Paid
+C0001746,tok_4e4ce13cb85f,Diabetes,2026-02,42.4,Paid
+C0001747,tok_34454262c88f,Diabetes,2026-04,91.37,Paid
+C0001748,tok_a54951f00097,Diabetes,2025-11,176.1,Paid
+C0001749,tok_74cc5822f3c3,Diabetes,2025-12,152.54,Paid
+C0001750,tok_1980db9eb653,Respiratory,2026-03,234.09,Paid
+C0001751,tok_930105f2c6e2,Cardiology,2026-04,295.13,Paid
+C0001752,tok_8cf3e44cde2a,Specialty,2026-03,1491.87,Paid
+C0001753,tok_08586062b893,Diabetes,2026-04,126.13,Paid
+C0001754,tok_82a0a1e27033,Diabetes,2025-07,34.91,Paid
+C0001755,tok_ddd226b7ce6b,Specialty,2026-03,1211.15,Paid
+C0001756,tok_673c21f05df5,Respiratory,2025-09,388.5,Rejected
+C0001757,tok_fd8ccf07f6e2,Behavioral Health,2025-09,84.49,Paid
+C0001758,tok_27ebec6ba2ba,Behavioral Health,2026-01,55.66,Paid
+C0001759,tok_1da25b509556,Behavioral Health,2025-09,165.67,Rejected
+C0001760,tok_d1bd2bf2ea9f,Respiratory,2026-02,245.38,Paid
+C0001761,tok_ccc7d1707a99,Specialty,2025-10,615.2,Paid
+C0001762,tok_64bab3d1ddb5,Behavioral Health,2025-12,197.45,Paid
+C0001763,tok_87b8ead21ee4,Cardiology,2025-07,39.28,Paid
+C0001764,tok_0598eaacc9fd,Diabetes,2025-08,111.86,Paid
+C0001765,tok_bd094192e2a0,Cardiology,2025-12,155.25,Rejected
+C0001766,tok_235ef94c88a3,Respiratory,2025-08,423.8,Paid
+C0001767,tok_4becdef84d62,Specialty,2026-04,1239.43,Paid
+C0001768,tok_b2cff28012a7,Diabetes,2025-11,66.12,Paid
+C0001769,tok_6ffc59680c9d,Diabetes,2025-10,166.12,Paid
+C0001770,tok_1b299d3eec61,Diabetes,2026-03,184.2,Paid
+C0001771,tok_696c427f87ca,Diabetes,2025-09,29.72,Paid
+C0001772,tok_fe41e015a7c5,Diabetes,2026-02,227.75,Paid
+C0001773,tok_398bf3999ee1,Diabetes,2026-06,45.87,Paid
+C0001774,tok_854a95322f91,Cardiology,2025-10,59.21,Paid
+C0001775,tok_5211431ad7fb,Diabetes,2025-12,50.91,Paid
+C0001776,tok_21e2587053fd,Respiratory,2025-10,438.55,Paid
+C0001777,tok_6a11d0c13247,Diabetes,2026-02,156.4,Paid
+C0001778,tok_c91f1f5a17c6,Diabetes,2026-05,61.28,Paid
+C0001779,tok_1e3c9c199f06,Specialty,2025-11,325.27,Paid
+C0001780,tok_6a0171bb4f66,Diabetes,2026-01,153.13,Paid
+C0001781,tok_0ffb847ee7de,Cardiology,2026-06,24.14,Reversed
+C0001782,tok_14b15e9fa412,Specialty,2025-07,653.34,Paid
+C0001783,tok_ddcc39673a9c,Cardiology,2026-01,302.61,Paid
+C0001784,tok_ea094e616aee,Specialty,2025-10,1277.39,Paid
+C0001785,tok_846dbfe9d380,Cardiology,2026-04,247.89,Paid
+C0001786,tok_1e3c9c199f06,Diabetes,2025-08,252.47,Paid
+C0001787,tok_854e0068700e,Behavioral Health,2026-04,166.13,Paid
+C0001788,tok_2b439161bfde,Behavioral Health,2025-07,76.24,Rejected
+C0001789,tok_ab6dd59b78e5,Respiratory,2025-09,100.43,Rejected
+C0001790,tok_10e7698170a7,Diabetes,2026-03,166.65,Paid
+C0001791,tok_6bb24c061d80,Diabetes,2025-08,162.97,Paid
+C0001792,tok_7e210bc3c4e0,Diabetes,2026-04,121.14,Paid
+C0001793,tok_638b929806f1,Diabetes,2026-05,86.1,Paid
+C0001794,tok_35e8199bfc4c,Behavioral Health,2026-06,62.02,Paid
+C0001795,tok_16b57f265e9e,Respiratory,2025-07,409.83,Paid
+C0001796,tok_5c868e4e3d6b,Specialty,2026-01,1426.39,Paid
+C0001797,tok_c2a8c7f2933e,Specialty,2025-12,643.16,Paid
+C0001798,tok_be6aa9ce9e49,Specialty,2025-12,1238.21,Paid
+C0001799,tok_bb99fc8442bc,Diabetes,2026-03,77.56,Paid
+C0001800,tok_14416ade68b7,Cardiology,2025-08,147.69,Paid
+C0001801,tok_c2a8c7f2933e,Diabetes,2025-09,207.63,Paid
+C0001802,tok_b0c79cbde960,Behavioral Health,2026-04,230.77,Paid
+C0001803,tok_11a373548f43,Cardiology,2026-03,295.51,Paid
+C0001804,tok_193d4371b4ed,Specialty,2026-06,858.47,Paid
+C0001805,tok_24203e7fd8a9,Specialty,2025-08,1368.96,Paid
+C0001806,tok_3d35789c315a,Diabetes,2026-01,141.02,Paid
+C0001807,tok_7d14d00e2bed,Oncology,2025-08,624.44,Paid
+C0001808,tok_efabfc2e79ea,Cardiology,2025-11,175.71,Paid
+C0001809,tok_c12801c525eb,Cardiology,2025-10,54.77,Paid
+C0001810,tok_3656cc604aaf,Diabetes,2026-03,146.67,Paid
+C0001811,tok_6a9fb41fb551,Respiratory,2026-03,292.09,Paid
+C0001812,tok_53e7f145089b,Diabetes,2026-06,66.15,Paid
+C0001813,tok_98e9d51cf046,Behavioral Health,2026-02,264.56,Paid
+C0001814,tok_04b875c13d88,Cardiology,2025-08,260.66,Paid
+C0001815,tok_ba7bef89aac7,Cardiology,2026-03,61.74,Paid
+C0001816,tok_02a9c36fe622,Cardiology,2025-12,145.18,Paid
+C0001817,tok_b2cff28012a7,Respiratory,2025-07,378.75,Paid
+C0001818,tok_30910c53af08,Oncology,2025-07,2032.95,Paid
+C0001819,tok_ae97712ed8e1,Specialty,2026-04,897.71,Paid
+C0001820,tok_df0d3acd0e83,Respiratory,2026-05,406.11,Paid
+C0001821,tok_d27e245c511c,Cardiology,2025-08,215.5,Paid
+C0001822,tok_193d4371b4ed,Cardiology,2025-07,198.41,Paid
+C0001823,tok_ee18821a0317,Specialty,2026-01,829.51,Paid
+C0001824,tok_bea88f053504,Specialty,2025-10,1048.94,Paid
+C0001826,tok_9fed00d59456,Cardiology,2025-08,132.53,Paid
+C0001827,tok_63bd7089f53b,Behavioral Health,2026-04,148.91,Paid
+C0001828,tok_ee18821a0317,Diabetes,2025-10,96.0,Paid
+C0001829,tok_f02244cf1bbf,Oncology,2025-11,1368.64,Paid
+C0001830,tok_696c427f87ca,Behavioral Health,2025-07,138.54,Paid
+C0001831,tok_0c89d124620e,Cardiology,2026-06,278.15,Paid
+C0001832,tok_094e01565ee4,Diabetes,2026-04,129.5,Paid
+C0001833,tok_953b45caa9af,Diabetes,2026-06,56.32,Paid
+C0001834,tok_18930975e2fa,Specialty,2026-04,484.78,Paid
+C0001835,tok_7110eb8d2b31,Respiratory,2026-03,300.39,Paid
+C0001836,tok_051a65389d81,Specialty,2025-08,1416.01,Reversed
+C0001837,tok_907f9510d566,Diabetes,2026-03,220.38,Paid
+C0001838,tok_1072eb6615e8,Behavioral Health,2025-08,155.09,Rejected
+C0001839,tok_8acb93133709,Cardiology,2025-09,176.99,Paid
+C0001840,tok_087c43ffe511,Behavioral Health,2025-10,158.74,Reversed
+C0001841,tok_c0b43ea6cbb5,Cardiology,2026-04,292.4,Paid
+C0001842,tok_601f4a6b5b0e,Cardiology,2026-02,35.2,Paid
+C0001843,tok_812e924f0fef,Behavioral Health,2025-10,67.67,Paid
+C0001844,tok_4bb8d00ae39d,Specialty,2026-05,240.86,Paid
+C0001845,tok_98e9d51cf046,Oncology,2026-04,1180.85,Paid
+C0001846,tok_fc5904236a9d,Specialty,2026-03,920.67,Paid
+C0001847,tok_27ebec6ba2ba,Cardiology,2026-06,295.53,Paid
+C0001848,tok_870c9e783a42,Cardiology,2025-10,192.6,Paid
+C0001849,tok_6df641d31d8b,Respiratory,2026-02,376.57,Paid
+C0001850,tok_a584c6a7ba04,Oncology,2025-11,1288.15,Paid
+C0001851,tok_11c470bf65ad,Behavioral Health,2026-04,203.73,Paid
+C0001852,tok_c2cae293ea8d,Cardiology,2026-02,247.83,Paid
+C0001853,tok_b0c79cbde960,Specialty,2025-10,1038.99,Paid
+C0001854,tok_720ddcb3c45f,Specialty,2026-05,720.21,Paid
+C0001855,tok_fde543b604a3,Cardiology,2025-11,93.81,Paid
+C0001856,tok_02a9c36fe622,Oncology,2025-08,795.59,Paid
+C0001857,tok_53e7f145089b,Cardiology,2025-09,133.68,Paid
+C0001858,tok_17d76563e87f,Behavioral Health,2026-04,128.05,Paid
+C0001859,tok_c10f595de302,Behavioral Health,2025-10,275.39,Paid
+C0001860,tok_3f437a16742a,Respiratory,2025-07,131.7,Paid
+C0001861,tok_fd65ee0186f6,Cardiology,2026-03,65.55,Paid
+C0001862,tok_1ab3c30739e5,Cardiology,2025-08,202.59,Paid
+C0001863,tok_6a11d0c13247,Behavioral Health,2025-11,49.87,Paid
+C0001864,tok_fc5904236a9d,Specialty,2025-10,345.03,Paid
+C0001865,tok_86d2425d02eb,Diabetes,2025-07,192.17,Paid
+C0001866,tok_db171de6446b,Diabetes,2026-04,79.59,Paid
+C0001867,tok_fba03a1bcd60,Respiratory,2025-09,337.46,Rejected
+C0001868,tok_6bb24c061d80,Respiratory,2025-11,248.28,Paid
+C0001869,tok_37522a5a4d0b,Cardiology,2025-10,30.77,Paid
+C0001870,tok_80f3159eadaa,Respiratory,2025-08,213.78,Paid
+C0001871,tok_baff62e09f3e,Behavioral Health,2025-08,267.73,Paid
+C0001872,tok_fd65ee0186f6,Specialty,2026-04,940.34,Paid
+C0001873,tok_57861e420c2d,Behavioral Health,2026-01,213.99,Paid
+C0001874,tok_e5ab09e6a7b4,Diabetes,2025-11,37.27,Paid
+C0001875,tok_1883faab5a39,Respiratory,2026-05,398.19,Rejected
+C0001876,tok_672c89e54d9b,Cardiology,2026-02,98.56,Paid
+C0001877,tok_95f5f7a8f377,Respiratory,2026-04,140.85,Paid
+C0001878,tok_aecd51c21ed4,Oncology,2026-01,2066.65,Paid
+C0001879,tok_112adc5eac34,Behavioral Health,2026-04,106.93,Reversed
+C0001880,tok_18930975e2fa,Specialty,2026-05,268.66,Paid
+C0001881,tok_31fa1f2652ef,Diabetes,2026-03,222.45,Paid
+C0001882,tok_c4a361bfdceb,Cardiology,2025-12,223.36,Paid
+C0001883,tok_dbb3067c493f,Cardiology,2025-10,233.07,Paid
+C0001884,tok_b25dcc40d39f,Specialty,2026-02,681.37,Paid
+C0001885,tok_aa295eeadd90,Specialty,2026-04,253.21,Paid
+C0001886,tok_8f5ef9b40b21,Diabetes,2025-07,135.49,Paid
+C0001887,tok_ba4292537425,Specialty,2025-11,1279.75,Reversed
+C0001888,tok_6a37baa9c5b7,Diabetes,2026-01,88.98,Paid
+C0001889,tok_0e332a0d12a3,Respiratory,2026-04,354.99,Paid
+C0001890,tok_beb88d665b22,Cardiology,2026-02,116.52,Paid
+C0001891,tok_a718b698ed8b,Respiratory,2026-02,167.76,Paid
+C0001892,tok_be6aa9ce9e49,Cardiology,2026-04,280.77,Paid
+C0001893,tok_b535b1ddb3cb,Respiratory,2025-10,452.65,Paid
+C0001894,tok_80f3159eadaa,Cardiology,2026-01,92.03,Paid
+C0001895,tok_99610ddb6029,Cardiology,2026-05,59.59,Paid
+C0001896,tok_662a72e0c530,Respiratory,2026-01,56.01,Paid
+C0001897,tok_d2d451df7ef3,Cardiology,2025-07,290.32,Rejected
+C0001898,tok_854e0068700e,Diabetes,2025-09,63.19,Paid
+C0001899,tok_7e210bc3c4e0,Respiratory,2026-03,229.26,Paid
+C0001900,tok_f5d4991df030,Cardiology,2026-05,243.41,Paid
+C0001901,tok_1883faab5a39,Diabetes,2025-08,85.99,Paid
+C0001902,tok_0fa5de335338,Oncology,2026-03,2120.61,Paid
+C0001903,tok_b5d424548756,Diabetes,2026-04,236.87,Paid
+C0001904,tok_aa49f5725938,Oncology,2026-03,967.74,Paid
+C0001905,tok_0cdc06a62089,Diabetes,2025-12,157.84,Rejected
+C0001906,tok_a54951f00097,Diabetes,2026-02,212.06,Reversed
+C0001908,tok_355a541cbc69,Diabetes,2025-10,57.84,Paid
+C0001909,tok_ea094e616aee,Respiratory,2025-10,240.93,Paid
+C0001910,tok_aa49f5725938,Respiratory,2026-03,409.8,Paid
+C0001911,tok_4b44a5704e5e,Behavioral Health,2026-01,188.99,Rejected
+C0001912,tok_a9143748d93f,Cardiology,2026-04,57.44,Paid
+C0001913,tok_c10f595de302,Cardiology,2025-11,95.13,Paid
+C0001914,tok_3e407ec759c8,Cardiology,2026-01,110.32,Paid
+C0001915,tok_549576dc23c5,Respiratory,2025-08,411.32,Paid
+C0001916,tok_f6517e8d50a5,Diabetes,2026-02,190.53,Paid
+C0001917,tok_153fbb1a52ff,Respiratory,2026-03,350.81,Rejected
+C0001918,tok_792062b879a9,Respiratory,2026-02,69.37,Paid
+C0001919,tok_17d76563e87f,Specialty,2026-06,1044.63,Paid
+C0001920,tok_91eac4e626f9,Diabetes,2026-04,227.96,Paid
+C0001921,tok_91eac4e626f9,Respiratory,2025-12,423.46,Paid
+C0001922,tok_57861e420c2d,Diabetes,2026-05,222.92,Reversed
+C0001923,tok_b179b35e1efa,Diabetes,2026-05,97.61,Paid
+C0001924,tok_d2d451df7ef3,Behavioral Health,2025-12,280.37,Paid
+C0001925,tok_43db716edcfc,Diabetes,2025-10,169.04,Paid
+C0001926,tok_4e4ce13cb85f,Cardiology,2026-05,31.99,Paid
+C0001927,tok_75fb477f7c0c,Respiratory,2026-02,205.05,Paid
+C0001928,tok_6df641d31d8b,Diabetes,2025-09,120.85,Paid
+C0001929,tok_30be461be903,Specialty,2025-11,629.94,Paid
+C0001930,tok_3f437a16742a,Diabetes,2026-01,147.49,Paid
+C0001931,tok_ef705ed9f1ab,Specialty,2026-04,761.89,Paid
+C0001932,tok_daad01443118,Specialty,2026-06,1429.83,Paid
+C0001933,tok_846dbfe9d380,Diabetes,2026-03,147.86,Paid
+C0001934,tok_0cdc06a62089,Specialty,2026-05,668.47,Paid
+C0001935,tok_706f4ce47980,Specialty,2026-05,1235.35,Paid
+C0001936,tok_ffc78603d4a5,Oncology,2026-03,1599.23,Paid
+C0001937,tok_ae4e58189f10,Respiratory,2025-10,142.95,Paid
+C0001938,tok_582a5d1bcd78,Respiratory,2026-01,292.98,Paid
+C0001939,tok_069914345fd7,Diabetes,2026-04,67.3,Paid
+C0001940,tok_ae4e58189f10,Diabetes,2026-04,74.98,Paid
+C0001941,tok_6627399ca68f,Behavioral Health,2026-03,195.37,Paid
+C0001942,tok_b9991a27dddb,Diabetes,2025-10,231.34,Paid
+C0001943,tok_e69dd1ce47e3,Behavioral Health,2026-04,209.25,Paid
+C0001944,tok_818b927c6a1f,Diabetes,2025-10,46.31,Paid
+C0001945,tok_d27e245c511c,Diabetes,2026-01,185.38,Paid
+C0001946,tok_696c427f87ca,Diabetes,2026-05,25.21,Paid
+C0001947,tok_18b16a8cfcee,Behavioral Health,2026-01,199.95,Paid
+C0001948,tok_2ef6be25fce1,Respiratory,2026-01,114.88,Paid
+C0001949,tok_30be461be903,Respiratory,2025-11,423.46,Paid
+C0001950,tok_f1be0382725c,Behavioral Health,2025-07,176.76,Paid
+C0001951,tok_a40bdd2fbf8a,Respiratory,2026-05,405.37,Paid
+C0001952,tok_91ffb5743f82,Cardiology,2025-12,306.9,Paid
+C0001953,tok_4b0a53c1abe8,Diabetes,2025-07,195.47,Paid
+C0001954,tok_7e43aef757a1,Behavioral Health,2025-11,20.73,Rejected
+C0001955,tok_aa49f5725938,Cardiology,2025-12,263.82,Rejected
+C0001956,tok_b2a62778fab8,Cardiology,2026-06,304.0,Paid
+C0001957,tok_812e924f0fef,Diabetes,2026-01,237.01,Paid
+C0001958,tok_2c4770dfe470,Respiratory,2025-10,339.1,Paid
+C0001959,tok_49587be0bf1c,Specialty,2026-05,254.03,Paid
+C0001960,tok_95f5f7a8f377,Oncology,2025-07,1228.38,Paid
+C0001961,tok_d1eb44eb2a1d,Diabetes,2025-10,119.57,Paid
+C0001962,tok_c2cae293ea8d,Specialty,2026-05,931.96,Paid
+C0001963,tok_06dee7dd1b5b,Oncology,2025-10,184.73,Paid
+C0001964,tok_83d37395eb80,Specialty,2025-08,1030.43,Paid
+C0001965,tok_67a4af937cc9,Specialty,2026-05,812.65,Paid
+C0001966,tok_ea0fcb390817,Respiratory,2026-01,219.17,Paid
+C0001967,tok_4f21990a2d35,Oncology,2026-05,928.6,Paid
+C0001968,tok_07129eb68179,Diabetes,2025-12,122.45,Paid
+C0001969,tok_902d6a7c9cf4,Specialty,2025-10,919.77,Paid
+C0001970,tok_dbb3067c493f,Specialty,2026-04,116.49,Rejected
+C0001971,tok_2c1439fedd0f,Diabetes,2025-12,129.56,Paid
+C0001972,tok_65f4dd26ac4f,Diabetes,2025-11,135.77,Paid
+C0001973,tok_109ba4f4ab67,Diabetes,2026-05,89.83,Paid
+C0001974,tok_8edc533bc2c5,Specialty,2026-05,1265.58,Paid
+C0001975,tok_812e924f0fef,Specialty,2025-09,967.9,Paid
+C0001976,tok_63afbef69cf8,Diabetes,2025-12,246.21,Paid
+C0001977,tok_ae4e58189f10,Diabetes,2025-11,189.13,Paid
+C0001978,tok_02a9c36fe622,Behavioral Health,2026-04,47.81,Paid
+C0001979,tok_a8a6e0209d96,Oncology,2025-12,1870.61,Paid
+C0001980,tok_916f7103175d,Diabetes,2025-09,157.87,Paid
+C0001981,tok_6897bc6eab7b,Respiratory,2025-07,40.27,Paid
+C0001983,tok_8903336ee63d,Diabetes,2025-11,218.2,Reversed
+C0001984,tok_c10f595de302,Diabetes,2025-12,153.52,Rejected
+C0001985,tok_6542d14099a4,Diabetes,2026-03,39.53,Rejected
+C0001986,tok_b9991a27dddb,Oncology,2025-11,484.01,Paid
+C0001987,tok_9e1dab4d250a,Diabetes,2026-01,119.56,Rejected
+C0001988,tok_e0f315d5ee52,Respiratory,2025-08,35.12,Paid
+C0001989,tok_07129eb68179,Specialty,2025-07,1121.52,Paid
+C0001990,tok_a8a6e0209d96,Behavioral Health,2026-02,182.29,Reversed
+C0001991,tok_24bf9533d88c,Diabetes,2025-08,63.0,Rejected
+C0001992,tok_f017339107e9,Cardiology,2026-02,296.61,Paid
+C0001993,tok_5d44b599e747,Diabetes,2025-08,25.94,Paid
+C0001994,tok_a609a6a1fe1f,Diabetes,2025-11,249.59,Paid
+C0001995,tok_a99ff3ffcc91,Diabetes,2025-12,140.01,Paid
+C0001996,tok_9f1b5a11006b,Cardiology,2025-09,257.04,Paid
+C0001997,tok_70cb4bb5c7a2,Specialty,2026-01,940.12,Paid
+C0001998,tok_d5e115e4d6bc,Cardiology,2025-08,158.73,Paid
+C0001999,tok_6b61351be76b,Behavioral Health,2026-03,230.9,Reversed
+C0002000,tok_ca0274d77d13,Respiratory,2025-08,385.64,Rejected
+C0000043,tok_a9143748d93f,Diabetes,2025-08,49.04,Paid
+C0001796,tok_5c868e4e3d6b,Specialty,2026-01,1426.39,Paid
+C0001884,tok_b25dcc40d39f,Specialty,2026-02,681.37,Paid
+C0000607,tok_70cb4bb5c7a2,Respiratory,2026-04,419.36,Paid
+C0000477,tok_3736c467e4c0,Respiratory,2025-10,344.64,Paid
+C0000942,tok_63afbef69cf8,Respiratory,2026-03,84.83,Paid
+C0000294,tok_953b45caa9af,Diabetes,2025-09,135.95,Paid
+C0000672,tok_51631a9726fd,Behavioral Health,2025-12,103.48,Paid
